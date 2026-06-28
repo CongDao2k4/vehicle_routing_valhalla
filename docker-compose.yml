@@ -1,0 +1,22 @@
+version: '3.8'
+services:
+  valhalla:
+    image: ghcr.io/gis-ops/docker-valhalla/valhalla:latest
+    container_name: valhalla
+    ports:
+      - "8002:8002"
+    volumes:
+      - valhalla-data:/custom_files
+    environment:
+      # Nếu muốn Valhalla tự động tải file pbf, bạn có thể điền link vào tile_urls.
+      # Nếu không, hãy tạo thư mục valhalla-data/ trên máy và copy file vietnam-260624.osm.pbf vào đó trước khi start.
+      # - tile_urls=https://download.geofabrik.de/asia/vietnam-latest.osm.pbf
+      - build_elevation=False  # Đặt thành True nếu muốn tải dữ liệu cao độ (tăng thời gian build và dung lượng)
+      - build_admins=True     # Đặt thành True để hỗ trợ các thông tin hành chính
+      - build_time_zones=True # Đặt thành True để hỗ trợ múi giờ
+      - use_tiles_ignore_pbf=True # Đặt thành True nếu đã build tiles rồi và không muốn build lại khi restart
+      - force_rebuild=False   # Đặt thành True để bắt buộc build lại từ file pbf
+    restart: always
+
+volumes:
+  valhalla-data:

@@ -6,10 +6,10 @@ import sys
 if sys.stdout.encoding.lower() != 'utf-8':
     sys.stdout.reconfigure(encoding='utf-8')
 
-EDGES_PATH = r"/data_complete_valhalla\edges.json"
-TICKETS_PATH = r"/data_complete_valhalla\tickets.json"
+EDGES_PATH = r"edges.json"
+TICKETS_PATH = r"tickets.json"
 
-NODES_PATH = r"/data_complete_valhalla\nodes.json"
+NODES_PATH = r"nodes.json"
 
 def load_json(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -101,7 +101,7 @@ def get_nodes_for_route(route_name, edges_data=None, nodes_data=None):
 
 if __name__ == "__main__":
     # Ví dụ cách gọi
-    station_to_search = "Nút giao"
+    station_to_search = "Nút giao Nghi Phương"
 
     print(f"--- Các routeName chứa trạm '{station_to_search}' ---")
     routes = get_routes_by_station(station_to_search)
