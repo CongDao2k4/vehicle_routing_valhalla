@@ -22,6 +22,7 @@ run_script() {
     echo "------------------------------------------"
 }
 
+run_script "00_normalize_data.py"
 run_script "01_build_station_tree.py"
 run_script "02_build_origin_candidates.py"
 run_script "03_download_routes.py"

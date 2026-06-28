@@ -8,6 +8,13 @@ set PYTHONIOENCODING=utf-8
 echo ===== BẮT ĐẦU CHẠY CÁC FILE PYTHON =====
 echo.
 
+:: File 0 (Chuẩn hóa)
+echo Chạy 00_normalize_data.py...
+python "00_normalize_data.py"
+echo Đang chờ 3 giây...
+ping 127.0.0.1 -n 4 > nul
+echo ------------------------------------------
+
 :: File 1
 echo Chạy 01_build_station_tree.py...
 python "01_build_station_tree.py"
