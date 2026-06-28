@@ -1,0 +1,12 @@
+=== BÁO CÁO CÁC TRẠM GẦN NHAU DƯỚI 500M (tram_thu_phi_complete_epass.csv) ===
+
+[CẢNH BÁO] Khoảng cách 0.0m (< 500m):
+   - Trạm 242 (Lat: 21.490973900409863, Lon: 106.3714743)
+   - Trạm Thu phí Km 93+160 Bắc Giang - Lạng Sơn (Lat: 21.490973900409863, Lon: 106.3714743)
+   (Dòng thứ 14 và 15 trong file CSV)
+--------------------------------------------------
+[CẢNH BÁO] Khoảng cách 239.6m (< 500m):
+   - Lái Thiêu (Lat: 10.888731999490767, Lon: 106.7007135)
+   - Vĩnh Phú (Lat: 10.88681552674493, Lon: 106.69970961752706)
+   (Dòng thứ 154 và 155 trong file CSV)
+--------------------------------------------------

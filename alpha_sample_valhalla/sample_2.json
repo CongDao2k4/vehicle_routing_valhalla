@@ -1,0 +1,153 @@
+{
+    "trip": {
+        "locations": [
+            {
+                "type": "break",
+                "lat": 20.992588,
+                "lon": 106.987131,
+                "original_index": 0
+            },
+            {
+                "type": "break",
+                "lat": 21.097414,
+                "lon": 107.353591,
+                "original_index": 1
+            }
+        ],
+        "legs": [
+            {
+                "maneuvers": [
+                    {
+                        "type": 1,
+                        "instruction": "Drive east on Đường dẫn Cao tốc Hải Phòng - Móng Cái.",
+                        "verbal_succinct_transition_instruction": "Drive east.",
+                        "verbal_pre_transition_instruction": "Drive east on Đường dẫn Cao tốc Hải Phòng - Móng Cái.",
+                        "verbal_post_transition_instruction": "Continue for 300 meters.",
+                        "street_names": [
+                            "Đường dẫn Cao tốc Hải Phòng - Móng Cái"
+                        ],
+                        "bearing_after": 100,
+                        "time": 51.182,
+                        "length": 0.327,
+                        "cost": 51.182,
+                        "begin_shape_index": 0,
+                        "end_shape_index": 2,
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    },
+                    {
+                        "type": 19,
+                        "instruction": "Take the ramp on the left.",
+                        "verbal_transition_alert_instruction": "Take the ramp on the left.",
+                        "verbal_pre_transition_instruction": "Take the ramp on the left.",
+                        "street_names": [
+                            "Đường dẫn Cao tốc Hải Phòng - Móng Cái"
+                        ],
+                        "bearing_before": 100,
+                        "bearing_after": 280,
+                        "time": 179.459,
+                        "length": 1.008,
+                        "cost": 212.198,
+                        "begin_shape_index": 2,
+                        "end_shape_index": 9,
+                        "toll": true,
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    },
+                    {
+                        "type": 23,
+                        "instruction": "Keep right to take CT.06.",
+                        "verbal_transition_alert_instruction": "Keep right to take CT.06.",
+                        "verbal_pre_transition_instruction": "Keep right to take CT.06.",
+                        "verbal_post_transition_instruction": "Continue for 48 kilometers.",
+                        "street_names": [
+                            "CT.06"
+                        ],
+                        "bearing_before": 280,
+                        "bearing_after": 286,
+                        "time": 2107.575,
+                        "length": 47.796,
+                        "cost": 1941.155,
+                        "begin_shape_index": 9,
+                        "end_shape_index": 378,
+                        "toll": true,
+                        "highway": true,
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    },
+                    {
+                        "type": 20,
+                        "instruction": "Take exit Quốc lộ 18.",
+                        "verbal_transition_alert_instruction": "Take exit Quốc lộ 18.",
+                        "verbal_pre_transition_instruction": "Take exit Quốc lộ 18.",
+                        "street_names": [
+                            "Đi Quốc lộ 18"
+                        ],
+                        "bearing_before": 41,
+                        "bearing_after": 50,
+                        "time": 85.972,
+                        "length": 0.915,
+                        "cost": 79.468,
+                        "begin_shape_index": 378,
+                        "end_shape_index": 400,
+                        "toll": true,
+                        "sign": {
+                            "exit_number_elements": [
+                                {
+                                    "text": "Quốc lộ 18"
+                                }
+                            ]
+                        },
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    },
+                    {
+                        "type": 4,
+                        "instruction": "You have arrived at your destination.",
+                        "verbal_transition_alert_instruction": "You will arrive at your destination.",
+                        "verbal_pre_transition_instruction": "You have arrived at your destination.",
+                        "bearing_before": 329,
+                        "time": 0,
+                        "length": 0,
+                        "cost": 0,
+                        "begin_shape_index": 400,
+                        "end_shape_index": 400,
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    }
+                ],
+                "summary": {
+                    "has_time_restrictions": false,
+                    "has_toll": true,
+                    "has_highway": true,
+                    "has_ferry": false,
+                    "min_lat": 20.992103,
+                    "min_lon": 106.979124,
+                    "max_lat": 21.097422,
+                    "max_lon": 107.355911,
+                    "time": 2424.189,
+                    "length": 50.046,
+                    "cost": 2284.005
+                },
+                "shape": "wdh`g@sg~`kEvTycCpHc|@qEvAcHrx@mTdcC_i@fbGcE|`@aMfyAwAvO{Gf_@eEhMmI~MmD~DiDlDsD~C}DpCgEbCqErBwE`BiFtA_C`@mB^mD`@eAJuFXwFFwFOuFa@qFu@kFiAcLeEyi@i_@}VsO{YgLcb@yR{f@yRsY{J_`@cLig@wL{f@wJmeR{aCswAgQw_AwLcy@kKuEm@en@iHq_@mEe]eDq_@{B_^e@}j@n@}n@jDwc@hEo`@tFa`@bJy]vIyWpImYnN{ZxOuXvP{qCtsBet@fi@w]tV{Y`Te]fQmQxFgSrFo[lIiUxE}[~Fu_@tAk_@Qke@iBsc@oFg_@kJwf@}Raf@eXi`@w[}q@eu@ud@yh@{UqZsTiZsY{b@c_I{xK{JoNcyBwzCoo@c|@iKsLeTkVuPoOuPmOiYmT}JwHqf@}Xyk@eWym@kSqm@yMgzCq]ydBsUsu@wPqw@aWso@iYmUyLoPeKuK_Ime@k`@q\\q[sZc_@eY{_@mWyb@}Tag@uTij@mTck@{Nii@eBsKcMyw@}C{RmCif@}@{PwAeu@gAqxC}Bk_CaB_dEoC_tE|EotB`gAukKpM{lAjQqlAtnAcqGzuBuvLhLao@|Mcj@tx@_zCxZw`AlGyRtMqc@fBeGpMwm@hLew@pJkcAxL{pCnGcgCb@qlDScMs@kc@sQujIwAqj@m@yU{J}sEaMkdF~@k`AtDs~@dGwy@|Hqy@bJyg@xGk_@`GwX~L}k@`DeJtWqu@t^cz@vd@s{@ti@mz@vzBqfD|pBo`Drr@ooArSce@tO_h@lKok@`Jeo@rGki@fEik@jA{i@KoGEiKScZsA}c@yHcx@iLit@ypAopFs{AoqFyCkLoJ__@s`BgoGsNmj@uFySuS_w@uB{HeNsl@sCyLqCoReBwLsDsi@mAwv@~Byy@bXkeDbG}i@pBqj@Iwg@mDag@sGof@oI{a@w^goAaRoe@wMw\\eHeVmOoh@sIoc@wGa]oDs[a@kD{Amb@^u]vDa^rIi`@`M}^nj@_bAz[gy@zQkt@zEwf@zBsUfBqaAEwf@KofAoFeeDf@s^nA{\\dEi^hIi\\`Wks@jLmVjLaPjN}OtLaNhY}[rhAs}AdU}WrMyYlEyc@zBkf@CwRG}c@eBwm@gEip@{Cc[cGe[sNib@_NiZquAccCcV}d@_Wem@_JwZcU{v@i[afBaRitAs^olCip@{{EwMg_AgHkg@{b@qzCqBqNiZuvBwH}^qXknBgJqaAsAc}@xHyhAdRkrA`t@mnExGehAuA_iAuL{bAyTy~@{eByiGyM}t@qGms@{E_sA_G{mIcCqaAaJiaAsQe~@kW{~@o`@{_A_Tyd@{sFuuLi]i{@sUa{@cMgx@uJg{@eKosAodAg`OqEmz@u@wx@cRcfVYgc@mKk{KuOu`Bkb@udB{a@glAei@c`BuDmLaq@itBo^_aBgf@maCeZmiAka@abA}mAomCgUgl@mOmt@eJ}u@_Am`AtH{~@vPecAdi@m{ClJwo@`GufAqCin@qImc@wOif@gXkh@m[u_@ob@k]iuAa`Aau@qr@ee@ms@gYkq@cHmZkEw^g^gqEcd@kqGaB_aAjB_`AbKs}@b^oaCvGga@hPglAtG}bA?cmAaEev@mSumA}ZaeAau@ahByaEscKed@k|@{l@gx@or@}r@wz@{j@e{F_zDim@oe@mY}^u]kg@oc@kz@yd@muAsN}g@ui@c_CeH_g@wBac@sAch@xCal@dJwu@nLga@~Rod@~i@qjAlvAynBngCk{DfYwm@tVav@xQc|@xMokAdBgzAy`@oaNwHgw@yQy{@cW}p@m^ul@ihAalAenCygC}xAisAiZia@wJgPgIgLeIcPkFmQg@gZh@aKq@qI}CkLyGqImJcF{KaBeLh@cKpDcUbL}TxLigAfj@kPnIsKrFe[`P_^zJm`@bT"
+            }
+        ],
+        "summary": {
+            "has_time_restrictions": false,
+            "has_toll": true,
+            "has_highway": true,
+            "has_ferry": false,
+            "min_lat": 20.992103,
+            "min_lon": 106.979124,
+            "max_lat": 21.097422,
+            "max_lon": 107.355911,
+            "time": 2424.189,
+            "length": 50.046,
+            "cost": 2284.005
+        },
+        "status_message": "Found route between points",
+        "status": 0,
+        "units": "kilometers",
+        "language": "en"
+    }
+}

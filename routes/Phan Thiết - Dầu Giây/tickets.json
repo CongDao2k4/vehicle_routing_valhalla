@@ -1,0 +1,1183 @@
+[
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL1A",
+            "Nút giao QL55"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 46280,
+                        "feeType2": 69420,
+                        "feeType3": 92560,
+                        "feeType4": 115700,
+                        "feeType5": 185120
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949978",
+            "11813154464"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL1A",
+            "Nút giao QL56"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 27560,
+                        "feeType2": 41340,
+                        "feeType3": 55120,
+                        "feeType4": 68900,
+                        "feeType5": 110240
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949978",
+            "13457949977"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL1A",
+            "Nút giao TL720"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 32760,
+                        "feeType2": 49140,
+                        "feeType3": 65520,
+                        "feeType4": 81900,
+                        "feeType5": 131040
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949978",
+            "13594672354"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL1A",
+            "Nút giao TL765"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 8320,
+                        "feeType2": 12480,
+                        "feeType3": 16640,
+                        "feeType4": 20800,
+                        "feeType5": 33280
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949978",
+            "11304967566"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL1A",
+            "Phan Thiết - Dầu Giây"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 46800,
+                        "feeType2": 70200,
+                        "feeType3": 93600,
+                        "feeType4": 117000,
+                        "feeType5": 187200
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949978",
+            "8579215378"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL55",
+            "Nút giao QL1A"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 46280,
+                        "feeType2": 69420,
+                        "feeType3": 92560,
+                        "feeType4": 115700,
+                        "feeType5": 185120
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11813154464",
+            "13457949978"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL55",
+            "Nút giao QL56"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 73840,
+                        "feeType2": 110760,
+                        "feeType3": 147680,
+                        "feeType4": 184600,
+                        "feeType5": 295360
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11813154464",
+            "13457949977"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL55",
+            "Nút giao TL720"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 13520,
+                        "feeType2": 20280,
+                        "feeType3": 27040,
+                        "feeType4": 33800,
+                        "feeType5": 54080
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11813154464",
+            "13594672354"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL55",
+            "Nút giao TL765"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 54600,
+                        "feeType2": 81900,
+                        "feeType3": 109200,
+                        "feeType4": 136500,
+                        "feeType5": 218400
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11813154464",
+            "11304967566"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL55",
+            "Phan Thiết - Dầu Giây"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 93080,
+                        "feeType2": 139620,
+                        "feeType3": 186160,
+                        "feeType4": 232700,
+                        "feeType5": 372320
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11813154464",
+            "8579215378"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL56",
+            "Nút giao QL1A"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 27560,
+                        "feeType2": 41340,
+                        "feeType3": 55120,
+                        "feeType4": 68900,
+                        "feeType5": 110240
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949977",
+            "13457949978"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL56",
+            "Nút giao QL55"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 73840,
+                        "feeType2": 110760,
+                        "feeType3": 147680,
+                        "feeType4": 184600,
+                        "feeType5": 295360
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949977",
+            "11813154464"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL56",
+            "Nút giao TL720"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 60320,
+                        "feeType2": 90480,
+                        "feeType3": 120640,
+                        "feeType4": 150800,
+                        "feeType5": 241280
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949977",
+            "13594672354"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL56",
+            "Nút giao TL765"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 19240,
+                        "feeType2": 28860,
+                        "feeType3": 38480,
+                        "feeType4": 48100,
+                        "feeType5": 76960
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949977",
+            "11304967566"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL56",
+            "Phan Thiết - Dầu Giây"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 19240,
+                        "feeType2": 28860,
+                        "feeType3": 38480,
+                        "feeType4": 48100,
+                        "feeType5": 76960
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949977",
+            "8579215378"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL720",
+            "Nút giao QL1A"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 32760,
+                        "feeType2": 49140,
+                        "feeType3": 65520,
+                        "feeType4": 81900,
+                        "feeType5": 131040
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672354",
+            "13457949978"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL720",
+            "Nút giao QL55"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 13520,
+                        "feeType2": 20280,
+                        "feeType3": 27040,
+                        "feeType4": 33800,
+                        "feeType5": 54080
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672354",
+            "11813154464"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL720",
+            "Nút giao QL56"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 60320,
+                        "feeType2": 90480,
+                        "feeType3": 120640,
+                        "feeType4": 150800,
+                        "feeType5": 241280
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672354",
+            "13457949977"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL720",
+            "Nút giao TL765"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 41080,
+                        "feeType2": 61620,
+                        "feeType3": 82160,
+                        "feeType4": 102700,
+                        "feeType5": 164320
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672354",
+            "11304967566"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL720",
+            "Phan Thiết - Dầu Giây"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 79560,
+                        "feeType2": 119340,
+                        "feeType3": 159120,
+                        "feeType4": 198900,
+                        "feeType5": 318240
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672354",
+            "8579215378"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL765",
+            "Nút giao QL1A"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 8320,
+                        "feeType2": 12480,
+                        "feeType3": 16640,
+                        "feeType4": 20800,
+                        "feeType5": 33280
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11304967566",
+            "13457949978"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL765",
+            "Nút giao QL55"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 54600,
+                        "feeType2": 81900,
+                        "feeType3": 109200,
+                        "feeType4": 136500,
+                        "feeType5": 218400
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11304967566",
+            "11813154464"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL765",
+            "Nút giao QL56"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 19240,
+                        "feeType2": 28860,
+                        "feeType3": 38480,
+                        "feeType4": 48100,
+                        "feeType5": 76960
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11304967566",
+            "13457949977"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL765",
+            "Nút giao TL720"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 41080,
+                        "feeType2": 61620,
+                        "feeType3": 82160,
+                        "feeType4": 102700,
+                        "feeType5": 164320
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11304967566",
+            "13594672354"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL765",
+            "Phan Thiết - Dầu Giây"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 38480,
+                        "feeType2": 57720,
+                        "feeType3": 76960,
+                        "feeType4": 96200,
+                        "feeType5": 153920
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11304967566",
+            "8579215378"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phan Thiết - Dầu Giây",
+            "Nút giao QL1A"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 46800,
+                        "feeType2": 70200,
+                        "feeType3": 93600,
+                        "feeType4": 117000,
+                        "feeType5": 187200
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8579215378",
+            "13457949978"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phan Thiết - Dầu Giây",
+            "Nút giao QL55"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 93080,
+                        "feeType2": 139620,
+                        "feeType3": 186160,
+                        "feeType4": 232700,
+                        "feeType5": 372320
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8579215378",
+            "11813154464"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phan Thiết - Dầu Giây",
+            "Nút giao QL56"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 19240,
+                        "feeType2": 28860,
+                        "feeType3": 38480,
+                        "feeType4": 48100,
+                        "feeType5": 76960
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8579215378",
+            "13457949977"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phan Thiết - Dầu Giây",
+            "Nút giao TL720"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 79560,
+                        "feeType2": 119340,
+                        "feeType3": 159120,
+                        "feeType4": 198900,
+                        "feeType5": 318240
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8579215378",
+            "13594672354"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phan Thiết - Dầu Giây",
+            "Nút giao TL765"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 38480,
+                        "feeType2": 57720,
+                        "feeType3": 76960,
+                        "feeType4": 96200,
+                        "feeType5": 153920
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8579215378",
+            "11304967566"
+        ]
+    },
+
+
+
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Phan Thiết",
+            "Nút giao QL1A"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 81900,
+                        "feeType2": 122850,
+                        "feeType3": 163800,
+                        "feeType4": 204750,
+                        "feeType5": 327600
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672376",
+            "13457949978"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Phan Thiết",
+            "Nút giao QL55"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 35620,
+                        "feeType2": 53430,
+                        "feeType3": 71240,
+                        "feeType4": 89050,
+                        "feeType5": 142480
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672376",
+            "11813154464"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Phan Thiết",
+            "Nút giao QL56"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 109460,
+                        "feeType2": 164190,
+                        "feeType3": 218920,
+                        "feeType4": 273650,
+                        "feeType5": 437840
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672376",
+            "13457949977"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Phan Thiết",
+            "Nút giao TL720"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 49140,
+                        "feeType2": 73710,
+                        "feeType3": 98280,
+                        "feeType4": 122850,
+                        "feeType5": 196560
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672376",
+            "13594672354"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Phan Thiết",
+            "Nút giao TL765"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 90220,
+                        "feeType2": 135330,
+                        "feeType3": 180440,
+                        "feeType4": 225550,
+                        "feeType5": 360880
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672376",
+            "11304967566"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Phan Thiết",
+            "Phan Thiết - Dầu Giây"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 128700,
+                        "feeType2": 193050,
+                        "feeType3": 257400,
+                        "feeType4": 321750,
+                        "feeType5": 514800
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672376",
+            "8579215378"
+        ]
+    },
+
+
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL1A",
+            "Nút giao Phan Thiết"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 81900,
+                        "feeType2": 122850,
+                        "feeType3": 163800,
+                        "feeType4": 204750,
+                        "feeType5": 327600
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949978",
+            "13594672376"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL55",
+            "Nút giao Phan Thiết"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 35620,
+                        "feeType2": 53430,
+                        "feeType3": 71240,
+                        "feeType4": 89050,
+                        "feeType5": 142480
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11813154464",
+            "13594672376"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL56",
+            "Nút giao Phan Thiết"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 109460,
+                        "feeType2": 164190,
+                        "feeType3": 218920,
+                        "feeType4": 273650,
+                        "feeType5": 437840
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13457949977",
+            "13594672376"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL720",
+            "Nút giao Phan Thiết"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 49140,
+                        "feeType2": 73710,
+                        "feeType3": 98280,
+                        "feeType4": 122850,
+                        "feeType5": 196560
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672354",
+            "13594672376"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao TL765",
+            "Nút giao Phan Thiết"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 90220,
+                        "feeType2": 135330,
+                        "feeType3": 180440,
+                        "feeType4": 225550,
+                        "feeType5": 360880
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11304967566",
+            "13594672376"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phan Thiết - Dầu Giây",
+            "Nút giao Phan Thiết"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 128700,
+                        "feeType2": 193050,
+                        "feeType3": 257400,
+                        "feeType4": 321750,
+                        "feeType5": 514800
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8579215378",
+            "13594672376"
+        ]
+    }
+]

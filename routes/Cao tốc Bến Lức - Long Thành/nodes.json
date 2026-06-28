@@ -1,0 +1,62 @@
+[
+    {
+        "stationName": "Nguyễn Văn Tạo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.6609445,
+        "longitude": 106.7234909,
+        "stationOsmId": "12103925344",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phước An",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.663791099475715,
+        "longitude": 106.9719749,
+        "stationOsmId": "13453097869",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.661748099475584,
+        "longitude": 106.5596307,
+        "stationOsmId": "9697403773",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL50",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.660256999475486,
+        "longitude": 106.6545182,
+        "stationOsmId": "12866199543",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.675525489391084,
+        "longitude": 107.0197876203359,
+        "stationOsmId": "1288554747",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "TP HCM - Trung Lương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.669824549476106,
+        "longitude": 106.54923705,
+        "stationOsmId": "1288834243",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

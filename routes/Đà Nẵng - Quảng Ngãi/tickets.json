@@ -1,0 +1,1637 @@
+[
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Bắc Quảng Ngãi",
+            "Chu Lai"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 67200,
+                        "feeType2": 100800,
+                        "feeType3": 134400,
+                        "feeType4": 168000,
+                        "feeType5": 268800
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12723387255",
+            "12725719649"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Bắc Quảng Ngãi",
+            "Dung Quất"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 35840,
+                        "feeType2": 53760,
+                        "feeType3": 72800,
+                        "feeType4": 90720,
+                        "feeType5": 145600
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12723387255",
+            "10236670094"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Bắc Quảng Ngãi",
+            "Hà Lam"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 136640,
+                        "feeType2": 204960,
+                        "feeType3": 272160,
+                        "feeType4": 341600,
+                        "feeType5": 546560
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12723387255",
+            "1374419129"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Bắc Quảng Ngãi",
+            "Phong Thử"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 182560,
+                        "feeType2": 272160,
+                        "feeType3": 364000,
+                        "feeType4": 454720,
+                        "feeType5": 728000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12723387255",
+            "1374419135"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Bắc Quảng Ngãi",
+            "Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 12320,
+                        "feeType2": 19040,
+                        "feeType3": 24640,
+                        "feeType4": 31360,
+                        "feeType5": 51520
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12723387255",
+            "1374419109"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Bắc Quảng Ngãi",
+            "Tam Kỳ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 97440,
+                        "feeType2": 146720,
+                        "feeType3": 196000,
+                        "feeType4": 244160,
+                        "feeType5": 390880
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12723387255",
+            "6860284192"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Bắc Quảng Ngãi",
+            "Túy Loan"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 204960,
+                        "feeType2": 305760,
+                        "feeType3": 407680,
+                        "feeType4": 510720,
+                        "feeType5": 816480
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12723387255",
+            "6888345522"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Chu Lai",
+            "Bắc Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 67200,
+                        "feeType2": 100800,
+                        "feeType3": 134400,
+                        "feeType4": 168000,
+                        "feeType5": 268800
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12725719649",
+            "12723387255"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Chu Lai",
+            "Dung Quất"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 30240,
+                        "feeType2": 45920,
+                        "feeType3": 61600,
+                        "feeType4": 77280,
+                        "feeType5": 123200
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12725719649",
+            "10236670094"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Chu Lai",
+            "Hà Lam"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 69440,
+                        "feeType2": 104160,
+                        "feeType3": 138880,
+                        "feeType4": 173600,
+                        "feeType5": 277760
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12725719649",
+            "1374419129"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Chu Lai",
+            "Phong Thử"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 115360,
+                        "feeType2": 172480,
+                        "feeType3": 229600,
+                        "feeType4": 286720,
+                        "feeType5": 459200
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12725719649",
+            "1374419135"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Chu Lai",
+            "Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 80640,
+                        "feeType2": 119840,
+                        "feeType3": 160160,
+                        "feeType4": 200480,
+                        "feeType5": 320320
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12725719649",
+            "1374419109"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Chu Lai",
+            "Tam Kỳ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 30240,
+                        "feeType2": 45920,
+                        "feeType3": 61600,
+                        "feeType4": 77280,
+                        "feeType5": 122080
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12725719649",
+            "6860284192"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Chu Lai",
+            "Túy Loan"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 136640,
+                        "feeType2": 206080,
+                        "feeType3": 273280,
+                        "feeType4": 341600,
+                        "feeType5": 547680
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12725719649",
+            "6888345522"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Dung Quất",
+            "Bắc Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 35840,
+                        "feeType2": 53760,
+                        "feeType3": 72800,
+                        "feeType4": 90720,
+                        "feeType5": 145600
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10236670094",
+            "12723387255"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Dung Quất",
+            "Chu Lai"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 30240,
+                        "feeType2": 45920,
+                        "feeType3": 61600,
+                        "feeType4": 77280,
+                        "feeType5": 123200
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10236670094",
+            "12725719649"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Dung Quất",
+            "Hà Lam"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 99680,
+                        "feeType2": 151200,
+                        "feeType3": 200480,
+                        "feeType4": 250880,
+                        "feeType5": 400960
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10236670094",
+            "1374419129"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Dung Quất",
+            "Phong Thử"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 146720,
+                        "feeType2": 218400,
+                        "feeType3": 291200,
+                        "feeType4": 364000,
+                        "feeType5": 582400
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10236670094",
+            "1374419135"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Dung Quất",
+            "Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 49280,
+                        "feeType2": 73920,
+                        "feeType3": 97440,
+                        "feeType4": 123200,
+                        "feeType5": 197120
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10236670094",
+            "1374419109"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Dung Quất",
+            "Tam Kỳ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 61600,
+                        "feeType2": 91840,
+                        "feeType3": 123200,
+                        "feeType4": 153440,
+                        "feeType5": 246400
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10236670094",
+            "6860284192"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Dung Quất",
+            "Túy Loan"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 168000,
+                        "feeType2": 252000,
+                        "feeType3": 334880,
+                        "feeType4": 418880,
+                        "feeType5": 670880
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10236670094",
+            "6888345522"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Hà Lam",
+            "Bắc Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 136640,
+                        "feeType2": 204960,
+                        "feeType3": 272160,
+                        "feeType4": 341600,
+                        "feeType5": 546560
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419129",
+            "12723387255"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Hà Lam",
+            "Chu Lai"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 69440,
+                        "feeType2": 104160,
+                        "feeType3": 138880,
+                        "feeType4": 173600,
+                        "feeType5": 277760
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419129",
+            "12725719649"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Hà Lam",
+            "Dung Quất"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 99680,
+                        "feeType2": 151200,
+                        "feeType3": 200480,
+                        "feeType4": 250880,
+                        "feeType5": 400960
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419129",
+            "10236670094"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Hà Lam",
+            "Phong Thử"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44800,
+                        "feeType2": 68320,
+                        "feeType3": 90720,
+                        "feeType4": 113120,
+                        "feeType5": 181440
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419129",
+            "1374419135"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Hà Lam",
+            "Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 150080,
+                        "feeType2": 224000,
+                        "feeType3": 299040,
+                        "feeType4": 374080,
+                        "feeType5": 598080
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419129",
+            "1374419109"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Hà Lam",
+            "Tam Kỳ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 38080,
+                        "feeType2": 58240,
+                        "feeType3": 78400,
+                        "feeType4": 96320,
+                        "feeType5": 154560
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419129",
+            "6860284192"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Hà Lam",
+            "Túy Loan"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 67200,
+                        "feeType2": 100800,
+                        "feeType3": 135520,
+                        "feeType4": 168000,
+                        "feeType5": 269920
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419129",
+            "6888345522"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phong Thử",
+            "Bắc Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 182560,
+                        "feeType2": 272160,
+                        "feeType3": 364000,
+                        "feeType4": 454720,
+                        "feeType5": 728000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419135",
+            "12723387255"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phong Thử",
+            "Chu Lai"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 115360,
+                        "feeType2": 172480,
+                        "feeType3": 229600,
+                        "feeType4": 286720,
+                        "feeType5": 459200
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419135",
+            "12725719649"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phong Thử",
+            "Dung Quất"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 146720,
+                        "feeType2": 218400,
+                        "feeType3": 291200,
+                        "feeType4": 364000,
+                        "feeType5": 582400
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419135",
+            "10236670094"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phong Thử",
+            "Hà Lam"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44800,
+                        "feeType2": 68320,
+                        "feeType3": 90720,
+                        "feeType4": 113120,
+                        "feeType5": 181440
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419135",
+            "1374419129"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phong Thử",
+            "Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 194880,
+                        "feeType2": 292320,
+                        "feeType3": 390880,
+                        "feeType4": 487200,
+                        "feeType5": 779520
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419135",
+            "1374419109"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phong Thử",
+            "Tam Kỳ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 85120,
+                        "feeType2": 126560,
+                        "feeType3": 168000,
+                        "feeType4": 211680,
+                        "feeType5": 337120
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419135",
+            "6860284192"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phong Thử",
+            "Túy Loan"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 21280,
+                        "feeType2": 32480,
+                        "feeType3": 43680,
+                        "feeType4": 54880,
+                        "feeType5": 88480
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419135",
+            "6888345522"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Quảng Ngãi",
+            "Bắc Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 12320,
+                        "feeType2": 19040,
+                        "feeType3": 24640,
+                        "feeType4": 31360,
+                        "feeType5": 51520
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419109",
+            "12723387255"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Quảng Ngãi",
+            "Chu Lai"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 80640,
+                        "feeType2": 119840,
+                        "feeType3": 160160,
+                        "feeType4": 200480,
+                        "feeType5": 320320
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419109",
+            "12725719649"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Quảng Ngãi",
+            "Dung Quất"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 49280,
+                        "feeType2": 73920,
+                        "feeType3": 97440,
+                        "feeType4": 123200,
+                        "feeType5": 197120
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419109",
+            "10236670094"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Quảng Ngãi",
+            "Hà Lam"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 150080,
+                        "feeType2": 224000,
+                        "feeType3": 299040,
+                        "feeType4": 374080,
+                        "feeType5": 598080
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419109",
+            "1374419129"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Quảng Ngãi",
+            "Phong Thử"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 194880,
+                        "feeType2": 292320,
+                        "feeType3": 390880,
+                        "feeType4": 487200,
+                        "feeType5": 779520
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419109",
+            "1374419135"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Quảng Ngãi",
+            "Tam Kỳ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 110880,
+                        "feeType2": 165760,
+                        "feeType3": 220640,
+                        "feeType4": 275520,
+                        "feeType5": 442400
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419109",
+            "6860284192"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Quảng Ngãi",
+            "Túy Loan"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 216160,
+                        "feeType2": 325920,
+                        "feeType3": 434560,
+                        "feeType4": 542080,
+                        "feeType5": 868000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374419109",
+            "6888345522"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Tam Kỳ",
+            "Bắc Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 97440,
+                        "feeType2": 146720,
+                        "feeType3": 196000,
+                        "feeType4": 244160,
+                        "feeType5": 390880
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6860284192",
+            "12723387255"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Tam Kỳ",
+            "Chu Lai"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 30240,
+                        "feeType2": 45920,
+                        "feeType3": 61600,
+                        "feeType4": 77280,
+                        "feeType5": 122080
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6860284192",
+            "12725719649"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Tam Kỳ",
+            "Dung Quất"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 61600,
+                        "feeType2": 91840,
+                        "feeType3": 123200,
+                        "feeType4": 153440,
+                        "feeType5": 246400
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6860284192",
+            "10236670094"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Tam Kỳ",
+            "Hà Lam"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 38080,
+                        "feeType2": 58240,
+                        "feeType3": 78400,
+                        "feeType4": 96320,
+                        "feeType5": 154560
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6860284192",
+            "1374419129"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Tam Kỳ",
+            "Phong Thử"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 85120,
+                        "feeType2": 126560,
+                        "feeType3": 168000,
+                        "feeType4": 211680,
+                        "feeType5": 337120
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6860284192",
+            "1374419135"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Tam Kỳ",
+            "Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 110880,
+                        "feeType2": 165760,
+                        "feeType3": 220640,
+                        "feeType4": 275520,
+                        "feeType5": 442400
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6860284192",
+            "1374419109"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Tam Kỳ",
+            "Túy Loan"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 106400,
+                        "feeType2": 159040,
+                        "feeType3": 211680,
+                        "feeType4": 266560,
+                        "feeType5": 425600
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6860284192",
+            "6888345522"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Túy Loan",
+            "Bắc Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 204960,
+                        "feeType2": 305760,
+                        "feeType3": 407680,
+                        "feeType4": 510720,
+                        "feeType5": 816480
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6888345522",
+            "12723387255"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Túy Loan",
+            "Chu Lai"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 136640,
+                        "feeType2": 206080,
+                        "feeType3": 273280,
+                        "feeType4": 341600,
+                        "feeType5": 547680
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6888345522",
+            "12725719649"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Túy Loan",
+            "Dung Quất"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 168000,
+                        "feeType2": 252000,
+                        "feeType3": 334880,
+                        "feeType4": 418880,
+                        "feeType5": 670880
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6888345522",
+            "10236670094"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Túy Loan",
+            "Hà Lam"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 67200,
+                        "feeType2": 100800,
+                        "feeType3": 135520,
+                        "feeType4": 168000,
+                        "feeType5": 269920
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6888345522",
+            "1374419129"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Túy Loan",
+            "Phong Thử"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 21280,
+                        "feeType2": 32480,
+                        "feeType3": 43680,
+                        "feeType4": 54880,
+                        "feeType5": 88480
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6888345522",
+            "1374419135"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Túy Loan",
+            "Quảng Ngãi"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 216160,
+                        "feeType2": 325920,
+                        "feeType3": 434560,
+                        "feeType4": 542080,
+                        "feeType5": 868000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6888345522",
+            "1374419109"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Túy Loan",
+            "Tam Kỳ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 106400,
+                        "feeType2": 159040,
+                        "feeType3": 211680,
+                        "feeType4": 266560,
+                        "feeType5": 425600
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6888345522",
+            "6860284192"
+        ]
+    },
+    {
+        "refType": "NODE",
+        "refId": "Tam Kỳ",
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 34000,
+                        "feeType2": 52000,
+                        "feeType3": 75000,
+                        "feeType4": 127000,
+                        "feeType5": 196000
+                    },
+                    {
+                        "priceType": 3,
+                        "priceTypeName": "Miễn giảm loại 1",
+                        "feeType1": 16000
+                    }
+                ]
+            },
+            {
+                "ticketType": 4,
+                "ticketTypeName": "Vé tháng",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 1031000,
+                        "feeType2": 1561000,
+                        "feeType3": 2239000,
+                        "feeType4": 3800000,
+                        "feeType5": 5891000
+                    },
+                    {
+                        "priceType": 3,
+                        "priceTypeName": "Miễn giảm loại 1",
+                        "feeType1": 501000
+                    }
+                ]
+            },
+            {
+                "ticketType": 5,
+                "ticketTypeName": "Vé quý",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 2783000,
+                        "feeType2": 4215000,
+                        "feeType3": 6044000,
+                        "feeType4": 10259000,
+                        "feeType5": 15905000
+                    },
+                    {
+                        "priceType": 3,
+                        "priceTypeName": "Miễn giảm loại 1",
+                        "feeType1": 1352000
+                    }
+                ]
+            }
+        ],
+        "osmId": "6860284192"
+    }
+]

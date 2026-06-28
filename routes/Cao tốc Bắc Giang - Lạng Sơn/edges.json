@@ -1,0 +1,302 @@
+[
+    {
+        "source": "Trạm 102",
+        "target": "Trạm 104",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 102 - Trạm 104",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13551007072",
+        "targetOsmId": "6837953448"
+    },
+    {
+        "source": "Trạm 102",
+        "target": "Trạm 242",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 102 - Trạm 242",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13551007072",
+        "targetOsmId": "6837952528"
+    },
+    {
+        "source": "Trạm 102",
+        "target": "Trạm 279",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 102 - Trạm 279",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13551007072",
+        "targetOsmId": "6838027406"
+    },
+    {
+        "source": "Trạm 102",
+        "target": "Trạm 45",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 102 - Trạm 45",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13551007072",
+        "targetOsmId": "6837952271"
+    },
+    {
+        "source": "Trạm 104",
+        "target": "Trạm 102",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 104 - Trạm 102",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837953448",
+        "targetOsmId": "13551007072"
+    },
+    {
+        "source": "Trạm 104",
+        "target": "Trạm 242",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 104 - Trạm 242",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837953448",
+        "targetOsmId": "6837952528"
+    },
+    {
+        "source": "Trạm 104",
+        "target": "Trạm 279",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 104 - Trạm 279",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837953448",
+        "targetOsmId": "6838027406"
+    },
+    {
+        "source": "Trạm 104",
+        "target": "Trạm 37",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 104 - Trạm 37",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837953448",
+        "targetOsmId": "6837953118"
+    },
+    {
+        "source": "Trạm 104",
+        "target": "Trạm 45",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 104 - Trạm 45",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837953448",
+        "targetOsmId": "6837952271"
+    },
+    {
+        "source": "Trạm 242",
+        "target": "Trạm 102",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 242 - Trạm 102",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837952528",
+        "targetOsmId": "13551007072"
+    },
+    {
+        "source": "Trạm 242",
+        "target": "Trạm 104",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 242 - Trạm 104",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837952528",
+        "targetOsmId": "6837953448"
+    },
+    {
+        "source": "Trạm 242",
+        "target": "Trạm 279",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 242 - Trạm 279",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837952528",
+        "targetOsmId": "6838027406"
+    },
+    {
+        "source": "Trạm 242",
+        "target": "Trạm 37",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 242 - Trạm 37",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837952528",
+        "targetOsmId": "6837953118"
+    },
+    {
+        "source": "Trạm 242",
+        "target": "Trạm 45",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 242 - Trạm 45",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837952528",
+        "targetOsmId": "6837952271"
+    },
+    {
+        "source": "Trạm 279",
+        "target": "Trạm 102",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 279 - Trạm 102",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6838027406",
+        "targetOsmId": "13551007072"
+    },
+    {
+        "source": "Trạm 279",
+        "target": "Trạm 104",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 279 - Trạm 104",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6838027406",
+        "targetOsmId": "6837953448"
+    },
+    {
+        "source": "Trạm 279",
+        "target": "Trạm 242",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 279 - Trạm 242",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6838027406",
+        "targetOsmId": "6837952528"
+    },
+    {
+        "source": "Trạm 279",
+        "target": "Trạm 37",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 279 - Trạm 37",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6838027406",
+        "targetOsmId": "6837953118"
+    },
+    {
+        "source": "Trạm 279",
+        "target": "Trạm 45",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 279 - Trạm 45",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6838027406",
+        "targetOsmId": "6837952271"
+    },
+    {
+        "source": "Trạm 37",
+        "target": "Trạm 104",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 37 - Trạm 104",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837953118",
+        "targetOsmId": "6837953448"
+    },
+    {
+        "source": "Trạm 37",
+        "target": "Trạm 242",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 37 - Trạm 242",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837953118",
+        "targetOsmId": "6837952528"
+    },
+    {
+        "source": "Trạm 37",
+        "target": "Trạm 279",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 37 - Trạm 279",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837953118",
+        "targetOsmId": "6838027406"
+    },
+    {
+        "source": "Trạm 37",
+        "target": "Trạm 45",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 37 - Trạm 45",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837953118",
+        "targetOsmId": "6837952271"
+    },
+    {
+        "source": "Trạm 45",
+        "target": "Trạm 102",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 45 - Trạm 102",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837952271",
+        "targetOsmId": "13551007072"
+    },
+    {
+        "source": "Trạm 45",
+        "target": "Trạm 104",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 45 - Trạm 104",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837952271",
+        "targetOsmId": "6837953448"
+    },
+    {
+        "source": "Trạm 45",
+        "target": "Trạm 242",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 45 - Trạm 242",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837952271",
+        "targetOsmId": "6837952528"
+    },
+    {
+        "source": "Trạm 45",
+        "target": "Trạm 279",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 45 - Trạm 279",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837952271",
+        "targetOsmId": "6838027406"
+    },
+    {
+        "source": "Trạm 45",
+        "target": "Trạm 37",
+        "routeName": "Cao tốc Bắc Giang - Lạng Sơn",
+        "stageName": "Trạm 45 - Trạm 37",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837952271",
+        "targetOsmId": "6837953118"
+    },
+    {
+        "source": "Trạm 37",
+        "target": "Trạm 102",
+        "routeName": "",
+        "stageName": "Trạm 37 - Trạm 102",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6837953118",
+        "targetOsmId": "13551007072"
+    },
+    {
+        "source": "Trạm 102",
+        "target": "Trạm 37",
+        "routeName": "",
+        "stageName": "Trạm 102 - Trạm 37",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13551007072",
+        "targetOsmId": "6837953118"
+    }
+]

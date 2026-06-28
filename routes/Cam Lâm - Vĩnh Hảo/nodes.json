@@ -1,0 +1,32 @@
+[
+    {
+        "stationName": "Km133+770",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.313317799522135,
+        "longitude": 108.72454569999998,
+        "stationOsmId": "13594729844",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Du Long",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.746778199557886,
+        "longitude": 109.05659249999998,
+        "stationOsmId": "11829703711",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phan Rang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.630341752126943,
+        "longitude": 108.89594479727944,
+        "stationOsmId": "1482468507",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

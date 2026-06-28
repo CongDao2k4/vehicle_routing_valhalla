@@ -1,0 +1,82 @@
+[
+    {
+        "stationName": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.8400015,
+        "longitude": 106.75127,
+        "stationOsmId": "13956682360",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao tỉnh lộ 353",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.77022350039945,
+        "longitude": 106.712905,
+        "stationOsmId": "8544582973",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao tỉnh lộ 392",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.851093700401343,
+        "longitude": 106.2021974,
+        "stationOsmId": "11946078822",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL 10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.799370380191224,
+        "longitude": 106.5231486817111,
+        "stationOsmId": "1483838042",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL 38",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.855743300401446,
+        "longitude": 106.1203753,
+        "stationOsmId": "12600009197",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL 38B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.85665920040146,
+        "longitude": 106.2943524,
+        "stationOsmId": "5930290765",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL 39",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.85005150040132,
+        "longitude": 106.0278676,
+        "stationOsmId": "4686546644",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đầu Tuyến",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.93170881538877,
+        "longitude": 105.97151315273268,
+        "stationOsmId": "1324667567",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

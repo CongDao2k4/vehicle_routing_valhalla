@@ -1,0 +1,842 @@
+[
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 102",
+            "Trạm 104"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 15000,
+                        "feeType2": 21000,
+                        "feeType3": 26000,
+                        "feeType4": 44000,
+                        "feeType5": 59000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13551007072",
+            "6837953448"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 102",
+            "Trạm 242"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44000,
+                        "feeType2": 62000,
+                        "feeType3": 77000,
+                        "feeType4": 124000,
+                        "feeType5": 168000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13551007072",
+            "6837952528"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 102",
+            "Trạm 279"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 95000,
+                        "feeType2": 136000,
+                        "feeType3": 168000,
+                        "feeType4": 272000,
+                        "feeType5": 367000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13551007072",
+            "6838027406"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 102",
+            "Trạm 45"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 118000,
+                        "feeType2": 168000,
+                        "feeType3": 107000,
+                        "feeType4": 336000,
+                        "feeType5": 454000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13551007072",
+            "6837952271"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 104",
+            "Trạm 102"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 15000,
+                        "feeType2": 21000,
+                        "feeType3": 26000,
+                        "feeType4": 44000,
+                        "feeType5": 59000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837953448",
+            "13551007072"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 104",
+            "Trạm 242"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 55000,
+                        "feeType2": 79000,
+                        "feeType3": 98000,
+                        "feeType4": 157000,
+                        "feeType5": 214000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837953448",
+            "6837952528"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 104",
+            "Trạm 279"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 111000,
+                        "feeType2": 159000,
+                        "feeType3": 196000,
+                        "feeType4": 317000,
+                        "feeType5": 428000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837953448",
+            "6838027406"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 104",
+            "Trạm 37"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 29000,
+                        "feeType2": 41000,
+                        "feeType3": 51000,
+                        "feeType4": 83000,
+                        "feeType5": 113000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837953448",
+            "6837953118"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 104",
+            "Trạm 45"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 133000,
+                        "feeType2": 189000,
+                        "feeType3": 234000,
+                        "feeType4": 378000,
+                        "feeType5": 511000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837953448",
+            "6837952271"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 242",
+            "Trạm 102"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44000,
+                        "feeType2": 62000,
+                        "feeType3": 77000,
+                        "feeType4": 124000,
+                        "feeType5": 168000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837952528",
+            "13551007072"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 242",
+            "Trạm 104"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 55000,
+                        "feeType2": 79000,
+                        "feeType3": 98000,
+                        "feeType4": 157000,
+                        "feeType5": 214000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837952528",
+            "6837953448"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 242",
+            "Trạm 279"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 55000,
+                        "feeType2": 80000,
+                        "feeType3": 98000,
+                        "feeType4": 159000,
+                        "feeType5": 214000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837952528",
+            "6838027406"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 242",
+            "Trạm 37"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 25000,
+                        "feeType2": 37000,
+                        "feeType3": 45000,
+                        "feeType4": 74000,
+                        "feeType5": 100000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837952528",
+            "6837953118"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 242",
+            "Trạm 45"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 78000,
+                        "feeType2": 110000,
+                        "feeType3": 135000,
+                        "feeType4": 221000,
+                        "feeType5": 298000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837952528",
+            "6837952271"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 279",
+            "Trạm 102"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 95000,
+                        "feeType2": 136000,
+                        "feeType3": 168000,
+                        "feeType4": 272000,
+                        "feeType5": 367000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6838027406",
+            "13551007072"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 279",
+            "Trạm 104"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 111000,
+                        "feeType2": 159000,
+                        "feeType3": 196000,
+                        "feeType4": 317000,
+                        "feeType5": 428000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6838027406",
+            "6837953448"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 279",
+            "Trạm 242"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 55000,
+                        "feeType2": 80000,
+                        "feeType3": 98000,
+                        "feeType4": 159000,
+                        "feeType5": 214000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6838027406",
+            "6837952528"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 279",
+            "Trạm 37"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 81000,
+                        "feeType2": 116000,
+                        "feeType3": 143000,
+                        "feeType4": 234000,
+                        "feeType5": 314000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6838027406",
+            "6837953118"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 279",
+            "Trạm 45"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 21000,
+                        "feeType2": 31000,
+                        "feeType3": 37000,
+                        "feeType4": 62000,
+                        "feeType5": 83000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6838027406",
+            "6837952271"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 37",
+            "Trạm 104"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 29000,
+                        "feeType2": 41000,
+                        "feeType3": 51000,
+                        "feeType4": 83000,
+                        "feeType5": 113000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837953118",
+            "6837953448"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 37",
+            "Trạm 242"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 25000,
+                        "feeType2": 37000,
+                        "feeType3": 45000,
+                        "feeType4": 74000,
+                        "feeType5": 100000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837953118",
+            "6837952528"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 37",
+            "Trạm 279"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 81000,
+                        "feeType2": 116000,
+                        "feeType3": 143000,
+                        "feeType4": 234000,
+                        "feeType5": 314000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837953118",
+            "6838027406"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 37",
+            "Trạm 45"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 103000,
+                        "feeType2": 147000,
+                        "feeType3": 182000,
+                        "feeType4": 295000,
+                        "feeType5": 398000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837953118",
+            "6837952271"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 37",
+            "Trạm 102"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 15000,
+                        "feeType2": 21000,
+                        "feeType3": 26000,
+                        "feeType4": 44000,
+                        "feeType5": 59000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837953118",
+            "13551007072"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 45",
+            "Trạm 102"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 118000,
+                        "feeType2": 168000,
+                        "feeType3": 107000,
+                        "feeType4": 336000,
+                        "feeType5": 454000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837952271",
+            "13551007072"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 45",
+            "Trạm 104"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 133000,
+                        "feeType2": 189000,
+                        "feeType3": 234000,
+                        "feeType4": 378000,
+                        "feeType5": 511000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837952271",
+            "6837953448"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 45",
+            "Trạm 242"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 78000,
+                        "feeType2": 110000,
+                        "feeType3": 135000,
+                        "feeType4": 221000,
+                        "feeType5": 298000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837952271",
+            "6837952528"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 45",
+            "Trạm 279"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 21000,
+                        "feeType2": 31000,
+                        "feeType3": 37000,
+                        "feeType4": 62000,
+                        "feeType5": 83000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837952271",
+            "6838027406"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 45",
+            "Trạm 37"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 103000,
+                        "feeType2": 147000,
+                        "feeType3": 182000,
+                        "feeType4": 295000,
+                        "feeType5": 398000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "6837952271",
+            "6837953118"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Trạm 102",
+            "Trạm 37"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 15000,
+                        "feeType2": 21000,
+                        "feeType3": 26000,
+                        "feeType4": 44000,
+                        "feeType5": 59000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13551007072",
+            "6837953118"
+        ]
+    }
+]

@@ -1,0 +1,1178 @@
+[
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Gia Miêu",
+            "Nút giao Hà Lĩnh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 9435,
+                        "feeType2": 14152,
+                        "feeType3": 18869,
+                        "feeType4": 23587,
+                        "feeType5": 37739
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297974",
+            "13603297981"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Gia Miêu",
+            "Nút giao Mai Sơn"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 19005,
+                        "feeType2": 28508,
+                        "feeType3": 38010,
+                        "feeType4": 47513,
+                        "feeType5": 76021
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297974",
+            "13603297967"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Gia Miêu",
+            "Nút giao Thiệu Giang"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 17886,
+                        "feeType2": 26829,
+                        "feeType3": 35771,
+                        "feeType4": 44715,
+                        "feeType5": 71543
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297974",
+            "13603305908"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Gia Miêu",
+            "Nút giao Đồng Giao"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 10466,
+                        "feeType2": 15699,
+                        "feeType3": 20932,
+                        "feeType4": 26165,
+                        "feeType5": 41864
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297974",
+            "13603297970"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Gia Miêu",
+            "Nút giao Đồng Thắng"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 35904,
+                        "feeType2": 53856,
+                        "feeType3": 71807,
+                        "feeType4": 89760,
+                        "feeType5": 143615
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297974",
+            "13603305911"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Gia Miêu",
+            "Nút giao Đồng Xuân"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 28434,
+                        "feeType2": 42651,
+                        "feeType3": 56867,
+                        "feeType4": 71085,
+                        "feeType5": 113735
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297974",
+            "13603305910"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Hà Lĩnh",
+            "Nút giao Gia Miêu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 9435,
+                        "feeType2": 14152,
+                        "feeType3": 18869,
+                        "feeType4": 23587,
+                        "feeType5": 37739
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297981",
+            "13603297974"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Hà Lĩnh",
+            "Nút giao Mai Sơn"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 28440,
+                        "feeType2": 42660,
+                        "feeType3": 56879,
+                        "feeType4": 71100,
+                        "feeType5": 113760
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297981",
+            "13603297967"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Hà Lĩnh",
+            "Nút giao Thiệu Giang"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 8451,
+                        "feeType2": 12677,
+                        "feeType3": 16902,
+                        "feeType4": 21128,
+                        "feeType5": 33804
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297981",
+            "13603305908"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Hà Lĩnh",
+            "Nút giao Đồng Giao"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 19901,
+                        "feeType2": 29851,
+                        "feeType3": 39801,
+                        "feeType4": 49752,
+                        "feeType5": 79603
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297981",
+            "13603297970"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Hà Lĩnh",
+            "Nút giao Đồng Thắng"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 26469,
+                        "feeType2": 39704,
+                        "feeType3": 52938,
+                        "feeType4": 66173,
+                        "feeType5": 105876
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297981",
+            "13603305911"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Hà Lĩnh",
+            "Nút giao Đồng Xuân"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 18999,
+                        "feeType2": 28499,
+                        "feeType3": 37998,
+                        "feeType4": 47498,
+                        "feeType5": 75996
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297981",
+            "13603305910"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Mai Sơn",
+            "Nút giao Gia Miêu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 19005,
+                        "feeType2": 28508,
+                        "feeType3": 38010,
+                        "feeType4": 47513,
+                        "feeType5": 76021
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297967",
+            "13603297974"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Mai Sơn",
+            "Nút giao Hà Lĩnh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 28440,
+                        "feeType2": 42660,
+                        "feeType3": 56879,
+                        "feeType4": 71100,
+                        "feeType5": 113760
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297967",
+            "13603297981"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Mai Sơn",
+            "Nút giao Thiệu Giang"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 36891,
+                        "feeType2": 55337,
+                        "feeType3": 73781,
+                        "feeType4": 92228,
+                        "feeType5": 147564
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297967",
+            "13603305908"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Mai Sơn",
+            "Nút giao Đồng Giao"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 8539,
+                        "feeType2": 12809,
+                        "feeType3": 17078,
+                        "feeType4": 21348,
+                        "feeType5": 34157
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297967",
+            "13603297970"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Mai Sơn",
+            "Nút giao Đồng Thắng"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 54909,
+                        "feeType2": 82364,
+                        "feeType3": 109817,
+                        "feeType4": 137273,
+                        "feeType5": 219636
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297967",
+            "13603305911"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Mai Sơn",
+            "Nút giao Đồng Xuân"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 47439,
+                        "feeType2": 71159,
+                        "feeType3": 94877,
+                        "feeType4": 118598,
+                        "feeType5": 189756
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297967",
+            "13603305910"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Thiệu Giang",
+            "Nút giao Gia Miêu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 17886,
+                        "feeType2": 26829,
+                        "feeType3": 35771,
+                        "feeType4": 44715,
+                        "feeType5": 71543
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305908",
+            "13603297974"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Thiệu Giang",
+            "Nút giao Hà Lĩnh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 8451,
+                        "feeType2": 12677,
+                        "feeType3": 16902,
+                        "feeType4": 21128,
+                        "feeType5": 33804
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305908",
+            "13603297981"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Thiệu Giang",
+            "Nút giao Mai Sơn"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 36891,
+                        "feeType2": 55337,
+                        "feeType3": 73781,
+                        "feeType4": 92228,
+                        "feeType5": 147564
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305908",
+            "13603297967"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Thiệu Giang",
+            "Nút giao Đồng Giao"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 28352,
+                        "feeType2": 42528,
+                        "feeType3": 56703,
+                        "feeType4": 70880,
+                        "feeType5": 113407
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305908",
+            "13603297970"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Thiệu Giang",
+            "Nút giao Đồng Thắng"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 18018,
+                        "feeType2": 27027,
+                        "feeType3": 36036,
+                        "feeType4": 45045,
+                        "feeType5": 72072
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305908",
+            "13603305911"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Thiệu Giang",
+            "Nút giao Đồng Xuân"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 10548,
+                        "feeType2": 15822,
+                        "feeType3": 21096,
+                        "feeType4": 26370,
+                        "feeType5": 42192
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305908",
+            "13603305910"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Giao",
+            "Nút giao Gia Miêu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 10466,
+                        "feeType2": 15699,
+                        "feeType3": 20932,
+                        "feeType4": 26165,
+                        "feeType5": 41864
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297970",
+            "13603297974"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Giao",
+            "Nút giao Hà Lĩnh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 19901,
+                        "feeType2": 29851,
+                        "feeType3": 39801,
+                        "feeType4": 49752,
+                        "feeType5": 79603
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297970",
+            "13603297981"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Giao",
+            "Nút giao Mai Sơn"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 8539,
+                        "feeType2": 12809,
+                        "feeType3": 17078,
+                        "feeType4": 21348,
+                        "feeType5": 34157
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297970",
+            "13603297967"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Giao",
+            "Nút giao Thiệu Giang"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 28352,
+                        "feeType2": 42528,
+                        "feeType3": 56703,
+                        "feeType4": 70880,
+                        "feeType5": 113407
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297970",
+            "13603305908"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Giao",
+            "Nút giao Đồng Thắng"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 46370,
+                        "feeType2": 69555,
+                        "feeType3": 92739,
+                        "feeType4": 115925,
+                        "feeType5": 185479
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297970",
+            "13603305911"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Giao",
+            "Nút giao Đồng Xuân"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 38900,
+                        "feeType2": 58350,
+                        "feeType3": 77799,
+                        "feeType4": 97250,
+                        "feeType5": 155599
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603297970",
+            "13603305910"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Thắng",
+            "Nút giao Gia Miêu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 35904,
+                        "feeType2": 53856,
+                        "feeType3": 71807,
+                        "feeType4": 89760,
+                        "feeType5": 143615
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305911",
+            "13603297974"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Thắng",
+            "Nút giao Hà Lĩnh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 26469,
+                        "feeType2": 39704,
+                        "feeType3": 52938,
+                        "feeType4": 66173,
+                        "feeType5": 105876
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305911",
+            "13603297981"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Thắng",
+            "Nút giao Mai Sơn"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 54909,
+                        "feeType2": 82364,
+                        "feeType3": 109817,
+                        "feeType4": 137273,
+                        "feeType5": 219636
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305911",
+            "13603297967"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Thắng",
+            "Nút giao Thiệu Giang"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 18018,
+                        "feeType2": 27027,
+                        "feeType3": 36036,
+                        "feeType4": 45045,
+                        "feeType5": 72072
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305911",
+            "13603305908"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Thắng",
+            "Nút giao Đồng Giao"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 46370,
+                        "feeType2": 69555,
+                        "feeType3": 92739,
+                        "feeType4": 115925,
+                        "feeType5": 185479
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305911",
+            "13603297970"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Thắng",
+            "Nút giao Đồng Xuân"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 7470,
+                        "feeType2": 11205,
+                        "feeType3": 14940,
+                        "feeType4": 18675,
+                        "feeType5": 29880
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305911",
+            "13603305910"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Xuân",
+            "Nút giao Gia Miêu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 28434,
+                        "feeType2": 42651,
+                        "feeType3": 56867,
+                        "feeType4": 71085,
+                        "feeType5": 113735
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305910",
+            "13603297974"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Xuân",
+            "Nút giao Hà Lĩnh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 18999,
+                        "feeType2": 28499,
+                        "feeType3": 37998,
+                        "feeType4": 47498,
+                        "feeType5": 75996
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305910",
+            "13603297981"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Xuân",
+            "Nút giao Mai Sơn"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 47439,
+                        "feeType2": 71159,
+                        "feeType3": 94877,
+                        "feeType4": 118598,
+                        "feeType5": 189756
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305910",
+            "13603297967"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Xuân",
+            "Nút giao Thiệu Giang"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 10548,
+                        "feeType2": 15822,
+                        "feeType3": 21096,
+                        "feeType4": 26370,
+                        "feeType5": 42192
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305910",
+            "13603305908"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Xuân",
+            "Nút giao Đồng Giao"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 38900,
+                        "feeType2": 58350,
+                        "feeType3": 77799,
+                        "feeType4": 97250,
+                        "feeType5": 155599
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305910",
+            "13603297970"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đồng Xuân",
+            "Nút giao Đồng Thắng"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 7470,
+                        "feeType2": 11205,
+                        "feeType3": 14940,
+                        "feeType4": 18675,
+                        "feeType5": 29880
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305910",
+            "13603305911"
+        ]
+    }
+]

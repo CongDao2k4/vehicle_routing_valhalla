@@ -1,0 +1,482 @@
+[
+  {
+    "source_epass": "Cẩm Y",
+    "target_epass": "Việt Hưng",
+    "source_origin_osm_name": "Trạm Thu Phí Cẩm Y",
+    "target_origin_osm_name": "Trạm Thu phí Việt Hưng",
+    "source_booths": [
+      {
+        "osm_id": "6221325028",
+        "lat": 21.09728870040599,
+        "lon": 107.3533607
+      },
+      {
+        "osm_id": "6221325013",
+        "lat": 21.097422600405988,
+        "lon": 107.3535879
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6221327319",
+        "lat": 20.97458660040388,
+        "lon": 106.9658825
+      },
+      {
+        "osm_id": "6221327320",
+        "lat": 20.974497900403883,
+        "lon": 106.96613929999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Cẩm Y",
+    "target_epass": "Đồng Lá",
+    "source_origin_osm_name": "Trạm Thu Phí Cẩm Y",
+    "target_origin_osm_name": "Trạm Thu Phí Đồng Lá",
+    "source_booths": [
+      {
+        "osm_id": "6221325028",
+        "lat": 21.09728870040599,
+        "lon": 107.3533607
+      },
+      {
+        "osm_id": "6221325013",
+        "lat": 21.097422600405988,
+        "lon": 107.3535879
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6427220541",
+        "lat": 21.0484647004052,
+        "lon": 107.1649089
+      },
+      {
+        "osm_id": "6427220542",
+        "lat": 21.0486300004052,
+        "lon": 107.1647073
+      }
+    ]
+  },
+  {
+    "source_epass": "Cẩm Y",
+    "target_epass": "Đồng Đăng",
+    "source_origin_osm_name": "Trạm Thu Phí Cẩm Y",
+    "target_origin_osm_name": "Trạm Thu Phí Đồng Đăng",
+    "source_booths": [
+      {
+        "osm_id": "6221325028",
+        "lat": 21.09728870040599,
+        "lon": 107.3533607
+      },
+      {
+        "osm_id": "6221325013",
+        "lat": 21.097422600405988,
+        "lon": 107.3535879
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8878196306",
+        "lat": 20.99269730040422,
+        "lon": 106.9871676
+      },
+      {
+        "osm_id": "8878196305",
+        "lat": 20.99260430040422,
+        "lon": 106.98714619999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Việt Hưng",
+    "target_epass": "Cẩm Y",
+    "source_origin_osm_name": "Trạm Thu phí Việt Hưng",
+    "target_origin_osm_name": "Trạm Thu Phí Cẩm Y",
+    "source_booths": [
+      {
+        "osm_id": "6221327319",
+        "lat": 20.97458660040388,
+        "lon": 106.9658825
+      },
+      {
+        "osm_id": "6221327320",
+        "lat": 20.974497900403883,
+        "lon": 106.96613929999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6221325028",
+        "lat": 21.09728870040599,
+        "lon": 107.3533607
+      },
+      {
+        "osm_id": "6221325013",
+        "lat": 21.097422600405988,
+        "lon": 107.3535879
+      }
+    ]
+  },
+  {
+    "source_epass": "Việt Hưng",
+    "target_epass": "Đoàn Kết",
+    "source_origin_osm_name": "Trạm Thu phí Việt Hưng",
+    "target_origin_osm_name": "Trạm Thu Phí Đoàn Kết",
+    "source_booths": [
+      {
+        "osm_id": "6221327319",
+        "lat": 20.97458660040388,
+        "lon": 106.9658825
+      },
+      {
+        "osm_id": "6221327320",
+        "lat": 20.974497900403883,
+        "lon": 106.96613929999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5610215373",
+        "lat": 21.082326500405756,
+        "lon": 107.392849
+      },
+      {
+        "osm_id": "5610214589",
+        "lat": 21.08248790040576,
+        "lon": 107.39282459999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Việt Hưng",
+    "target_epass": "Đồng Lá",
+    "source_origin_osm_name": "Trạm Thu phí Việt Hưng",
+    "target_origin_osm_name": "Trạm Thu Phí Đồng Lá",
+    "source_booths": [
+      {
+        "osm_id": "6221327319",
+        "lat": 20.97458660040388,
+        "lon": 106.9658825
+      },
+      {
+        "osm_id": "6221327320",
+        "lat": 20.974497900403883,
+        "lon": 106.96613929999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6427220541",
+        "lat": 21.0484647004052,
+        "lon": 107.1649089
+      },
+      {
+        "osm_id": "6427220542",
+        "lat": 21.0486300004052,
+        "lon": 107.1647073
+      }
+    ]
+  },
+  {
+    "source_epass": "Việt Hưng",
+    "target_epass": "Đồng Đăng",
+    "source_origin_osm_name": "Trạm Thu phí Việt Hưng",
+    "target_origin_osm_name": "Trạm Thu Phí Đồng Đăng",
+    "source_booths": [
+      {
+        "osm_id": "6221327319",
+        "lat": 20.97458660040388,
+        "lon": 106.9658825
+      },
+      {
+        "osm_id": "6221327320",
+        "lat": 20.974497900403883,
+        "lon": 106.96613929999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8878196306",
+        "lat": 20.99269730040422,
+        "lon": 106.9871676
+      },
+      {
+        "osm_id": "8878196305",
+        "lat": 20.99260430040422,
+        "lon": 106.98714619999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Đoàn Kết",
+    "target_epass": "Việt Hưng",
+    "source_origin_osm_name": "Trạm Thu Phí Đoàn Kết",
+    "target_origin_osm_name": "Trạm Thu phí Việt Hưng",
+    "source_booths": [
+      {
+        "osm_id": "5610215373",
+        "lat": 21.082326500405756,
+        "lon": 107.392849
+      },
+      {
+        "osm_id": "5610214589",
+        "lat": 21.08248790040576,
+        "lon": 107.39282459999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6221327319",
+        "lat": 20.97458660040388,
+        "lon": 106.9658825
+      },
+      {
+        "osm_id": "6221327320",
+        "lat": 20.974497900403883,
+        "lon": 106.96613929999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Đoàn Kết",
+    "target_epass": "Đồng Đăng",
+    "source_origin_osm_name": "Trạm Thu Phí Đoàn Kết",
+    "target_origin_osm_name": "Trạm Thu Phí Đồng Đăng",
+    "source_booths": [
+      {
+        "osm_id": "5610215373",
+        "lat": 21.082326500405756,
+        "lon": 107.392849
+      },
+      {
+        "osm_id": "5610214589",
+        "lat": 21.08248790040576,
+        "lon": 107.39282459999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8878196306",
+        "lat": 20.99269730040422,
+        "lon": 106.9871676
+      },
+      {
+        "osm_id": "8878196305",
+        "lat": 20.99260430040422,
+        "lon": 106.98714619999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Đồng Lá",
+    "target_epass": "Cẩm Y",
+    "source_origin_osm_name": "Trạm Thu Phí Đồng Lá",
+    "target_origin_osm_name": "Trạm Thu Phí Cẩm Y",
+    "source_booths": [
+      {
+        "osm_id": "6427220541",
+        "lat": 21.0484647004052,
+        "lon": 107.1649089
+      },
+      {
+        "osm_id": "6427220542",
+        "lat": 21.0486300004052,
+        "lon": 107.1647073
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6221325028",
+        "lat": 21.09728870040599,
+        "lon": 107.3533607
+      },
+      {
+        "osm_id": "6221325013",
+        "lat": 21.097422600405988,
+        "lon": 107.3535879
+      }
+    ]
+  },
+  {
+    "source_epass": "Đồng Lá",
+    "target_epass": "Việt Hưng",
+    "source_origin_osm_name": "Trạm Thu Phí Đồng Lá",
+    "target_origin_osm_name": "Trạm Thu phí Việt Hưng",
+    "source_booths": [
+      {
+        "osm_id": "6427220541",
+        "lat": 21.0484647004052,
+        "lon": 107.1649089
+      },
+      {
+        "osm_id": "6427220542",
+        "lat": 21.0486300004052,
+        "lon": 107.1647073
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6221327319",
+        "lat": 20.97458660040388,
+        "lon": 106.9658825
+      },
+      {
+        "osm_id": "6221327320",
+        "lat": 20.974497900403883,
+        "lon": 106.96613929999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Đồng Lá",
+    "target_epass": "Đồng Đăng",
+    "source_origin_osm_name": "Trạm Thu Phí Đồng Lá",
+    "target_origin_osm_name": "Trạm Thu Phí Đồng Đăng",
+    "source_booths": [
+      {
+        "osm_id": "6427220541",
+        "lat": 21.0484647004052,
+        "lon": 107.1649089
+      },
+      {
+        "osm_id": "6427220542",
+        "lat": 21.0486300004052,
+        "lon": 107.1647073
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8878196306",
+        "lat": 20.99269730040422,
+        "lon": 106.9871676
+      },
+      {
+        "osm_id": "8878196305",
+        "lat": 20.99260430040422,
+        "lon": 106.98714619999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Đồng Đăng",
+    "target_epass": "Cẩm Y",
+    "source_origin_osm_name": "Trạm Thu Phí Đồng Đăng",
+    "target_origin_osm_name": "Trạm Thu Phí Cẩm Y",
+    "source_booths": [
+      {
+        "osm_id": "8878196306",
+        "lat": 20.99269730040422,
+        "lon": 106.9871676
+      },
+      {
+        "osm_id": "8878196305",
+        "lat": 20.99260430040422,
+        "lon": 106.98714619999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6221325028",
+        "lat": 21.09728870040599,
+        "lon": 107.3533607
+      },
+      {
+        "osm_id": "6221325013",
+        "lat": 21.097422600405988,
+        "lon": 107.3535879
+      }
+    ]
+  },
+  {
+    "source_epass": "Đồng Đăng",
+    "target_epass": "Việt Hưng",
+    "source_origin_osm_name": "Trạm Thu Phí Đồng Đăng",
+    "target_origin_osm_name": "Trạm Thu phí Việt Hưng",
+    "source_booths": [
+      {
+        "osm_id": "8878196306",
+        "lat": 20.99269730040422,
+        "lon": 106.9871676
+      },
+      {
+        "osm_id": "8878196305",
+        "lat": 20.99260430040422,
+        "lon": 106.98714619999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6221327319",
+        "lat": 20.97458660040388,
+        "lon": 106.9658825
+      },
+      {
+        "osm_id": "6221327320",
+        "lat": 20.974497900403883,
+        "lon": 106.96613929999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Đồng Đăng",
+    "target_epass": "Đoàn Kết",
+    "source_origin_osm_name": "Trạm Thu Phí Đồng Đăng",
+    "target_origin_osm_name": "Trạm Thu Phí Đoàn Kết",
+    "source_booths": [
+      {
+        "osm_id": "8878196306",
+        "lat": 20.99269730040422,
+        "lon": 106.9871676
+      },
+      {
+        "osm_id": "8878196305",
+        "lat": 20.99260430040422,
+        "lon": 106.98714619999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5610215373",
+        "lat": 21.082326500405756,
+        "lon": 107.392849
+      },
+      {
+        "osm_id": "5610214589",
+        "lat": 21.08248790040576,
+        "lon": 107.39282459999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Đồng Đăng",
+    "target_epass": "Đồng Lá",
+    "source_origin_osm_name": "Trạm Thu Phí Đồng Đăng",
+    "target_origin_osm_name": "Trạm Thu Phí Đồng Lá",
+    "source_booths": [
+      {
+        "osm_id": "8878196306",
+        "lat": 20.99269730040422,
+        "lon": 106.9871676
+      },
+      {
+        "osm_id": "8878196305",
+        "lat": 20.99260430040422,
+        "lon": 106.98714619999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6427220541",
+        "lat": 21.0484647004052,
+        "lon": 107.1649089
+      },
+      {
+        "osm_id": "6427220542",
+        "lat": 21.0486300004052,
+        "lon": 107.1647073
+      }
+    ]
+  }
+]

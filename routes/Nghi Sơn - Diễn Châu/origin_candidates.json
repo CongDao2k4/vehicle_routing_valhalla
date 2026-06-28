@@ -1,0 +1,542 @@
+[
+  {
+    "source_epass": "Nút giao Diễn Cát",
+    "target_epass": "Nút giao Nghi Sơn",
+    "source_origin_osm_name": "Nút giao Diễn Cát, Diễn Châu, Nghệ An",
+    "target_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603305927",
+        "lat": 18.96669180031211,
+        "lon": 105.5589777
+      },
+      {
+        "osm_id": "13603305926",
+        "lat": 18.966738200312115,
+        "lon": 105.5590853
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Diễn Cát",
+    "target_epass": "Nút giao Quỳnh Lưu",
+    "source_origin_osm_name": "Nút giao Diễn Cát, Diễn Châu, Nghệ An",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu",
+    "source_booths": [
+      {
+        "osm_id": "13603305927",
+        "lat": 18.96669180031211,
+        "lon": 105.5589777
+      },
+      {
+        "osm_id": "13603305926",
+        "lat": 18.966738200312115,
+        "lon": 105.5590853
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305920",
+        "lat": 19.16762610032585,
+        "lon": 105.6102029
+      },
+      {
+        "osm_id": "13603305921",
+        "lat": 19.167527100325845,
+        "lon": 105.6102768
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Diễn Cát",
+    "target_epass": "Nút giao Quỳnh Lưu",
+    "source_origin_osm_name": "Nút giao Diễn Cát, Diễn Châu, Nghệ An",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305927",
+        "lat": 18.96669180031211,
+        "lon": 105.5589777
+      },
+      {
+        "osm_id": "13603305926",
+        "lat": 18.966738200312115,
+        "lon": 105.5590853
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305922",
+        "lat": 19.171372800326093,
+        "lon": 105.6079313
+      },
+      {
+        "osm_id": "13603305923",
+        "lat": 19.1714702003261,
+        "lon": 105.6078768
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Diễn Cát",
+    "target_epass": "Nút giao Quỳnh Vinh",
+    "source_origin_osm_name": "Nút giao Diễn Cát, Diễn Châu, Nghệ An",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Vinh",
+    "source_booths": [
+      {
+        "osm_id": "13603305927",
+        "lat": 18.96669180031211,
+        "lon": 105.5589777
+      },
+      {
+        "osm_id": "13603305926",
+        "lat": 18.966738200312115,
+        "lon": 105.5590853
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305924",
+        "lat": 19.272293000332635,
+        "lon": 105.6943134
+      },
+      {
+        "osm_id": "13603305925",
+        "lat": 19.272203500332637,
+        "lon": 105.6943859
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Nghi Sơn",
+    "target_epass": "Nút giao Diễn Cát",
+    "source_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "target_origin_osm_name": "Nút giao Diễn Cát, Diễn Châu, Nghệ An",
+    "source_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305927",
+        "lat": 18.96669180031211,
+        "lon": 105.5589777
+      },
+      {
+        "osm_id": "13603305926",
+        "lat": 18.966738200312115,
+        "lon": 105.5590853
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Nghi Sơn",
+    "target_epass": "Nút giao Quỳnh Lưu",
+    "source_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu",
+    "source_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305920",
+        "lat": 19.16762610032585,
+        "lon": 105.6102029
+      },
+      {
+        "osm_id": "13603305921",
+        "lat": 19.167527100325845,
+        "lon": 105.6102768
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Nghi Sơn",
+    "target_epass": "Nút giao Quỳnh Lưu",
+    "source_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305922",
+        "lat": 19.171372800326093,
+        "lon": 105.6079313
+      },
+      {
+        "osm_id": "13603305923",
+        "lat": 19.1714702003261,
+        "lon": 105.6078768
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Nghi Sơn",
+    "target_epass": "Nút giao Quỳnh Vinh",
+    "source_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Vinh",
+    "source_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305924",
+        "lat": 19.272293000332635,
+        "lon": 105.6943134
+      },
+      {
+        "osm_id": "13603305925",
+        "lat": 19.272203500332637,
+        "lon": 105.6943859
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Quỳnh Lưu",
+    "target_epass": "Nút giao Diễn Cát",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu",
+    "target_origin_osm_name": "Nút giao Diễn Cát, Diễn Châu, Nghệ An",
+    "source_booths": [
+      {
+        "osm_id": "13603305920",
+        "lat": 19.16762610032585,
+        "lon": 105.6102029
+      },
+      {
+        "osm_id": "13603305921",
+        "lat": 19.167527100325845,
+        "lon": 105.6102768
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305927",
+        "lat": 18.96669180031211,
+        "lon": 105.5589777
+      },
+      {
+        "osm_id": "13603305926",
+        "lat": 18.966738200312115,
+        "lon": 105.5590853
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Quỳnh Lưu",
+    "target_epass": "Nút giao Diễn Cát",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu - nh 2",
+    "target_origin_osm_name": "Nút giao Diễn Cát, Diễn Châu, Nghệ An",
+    "source_booths": [
+      {
+        "osm_id": "13603305922",
+        "lat": 19.171372800326093,
+        "lon": 105.6079313
+      },
+      {
+        "osm_id": "13603305923",
+        "lat": 19.1714702003261,
+        "lon": 105.6078768
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305927",
+        "lat": 18.96669180031211,
+        "lon": 105.5589777
+      },
+      {
+        "osm_id": "13603305926",
+        "lat": 18.966738200312115,
+        "lon": 105.5590853
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Quỳnh Lưu",
+    "target_epass": "Nút giao Nghi Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu",
+    "target_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603305920",
+        "lat": 19.16762610032585,
+        "lon": 105.6102029
+      },
+      {
+        "osm_id": "13603305921",
+        "lat": 19.167527100325845,
+        "lon": 105.6102768
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Quỳnh Lưu",
+    "target_epass": "Nút giao Nghi Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu - nh 2",
+    "target_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603305922",
+        "lat": 19.171372800326093,
+        "lon": 105.6079313
+      },
+      {
+        "osm_id": "13603305923",
+        "lat": 19.1714702003261,
+        "lon": 105.6078768
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Quỳnh Lưu",
+    "target_epass": "Nút giao Quỳnh Vinh",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Vinh",
+    "source_booths": [
+      {
+        "osm_id": "13603305920",
+        "lat": 19.16762610032585,
+        "lon": 105.6102029
+      },
+      {
+        "osm_id": "13603305921",
+        "lat": 19.167527100325845,
+        "lon": 105.6102768
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305924",
+        "lat": 19.272293000332635,
+        "lon": 105.6943134
+      },
+      {
+        "osm_id": "13603305925",
+        "lat": 19.272203500332637,
+        "lon": 105.6943859
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Quỳnh Lưu",
+    "target_epass": "Nút giao Quỳnh Vinh",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Vinh",
+    "source_booths": [
+      {
+        "osm_id": "13603305922",
+        "lat": 19.171372800326093,
+        "lon": 105.6079313
+      },
+      {
+        "osm_id": "13603305923",
+        "lat": 19.1714702003261,
+        "lon": 105.6078768
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305924",
+        "lat": 19.272293000332635,
+        "lon": 105.6943134
+      },
+      {
+        "osm_id": "13603305925",
+        "lat": 19.272203500332637,
+        "lon": 105.6943859
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Quỳnh Vinh",
+    "target_epass": "Nút giao Diễn Cát",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Vinh",
+    "target_origin_osm_name": "Nút giao Diễn Cát, Diễn Châu, Nghệ An",
+    "source_booths": [
+      {
+        "osm_id": "13603305924",
+        "lat": 19.272293000332635,
+        "lon": 105.6943134
+      },
+      {
+        "osm_id": "13603305925",
+        "lat": 19.272203500332637,
+        "lon": 105.6943859
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305927",
+        "lat": 18.96669180031211,
+        "lon": 105.5589777
+      },
+      {
+        "osm_id": "13603305926",
+        "lat": 18.966738200312115,
+        "lon": 105.5590853
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Quỳnh Vinh",
+    "target_epass": "Nút giao Nghi Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Vinh",
+    "target_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603305924",
+        "lat": 19.272293000332635,
+        "lon": 105.6943134
+      },
+      {
+        "osm_id": "13603305925",
+        "lat": 19.272203500332637,
+        "lon": 105.6943859
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Quỳnh Vinh",
+    "target_epass": "Nút giao Quỳnh Lưu",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Vinh",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu",
+    "source_booths": [
+      {
+        "osm_id": "13603305924",
+        "lat": 19.272293000332635,
+        "lon": 105.6943134
+      },
+      {
+        "osm_id": "13603305925",
+        "lat": 19.272203500332637,
+        "lon": 105.6943859
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305920",
+        "lat": 19.16762610032585,
+        "lon": 105.6102029
+      },
+      {
+        "osm_id": "13603305921",
+        "lat": 19.167527100325845,
+        "lon": 105.6102768
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Quỳnh Vinh",
+    "target_epass": "Nút giao Quỳnh Lưu",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Vinh",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Quỳnh Lưu - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305924",
+        "lat": 19.272293000332635,
+        "lon": 105.6943134
+      },
+      {
+        "osm_id": "13603305925",
+        "lat": 19.272203500332637,
+        "lon": 105.6943859
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305922",
+        "lat": 19.171372800326093,
+        "lon": 105.6079313
+      },
+      {
+        "osm_id": "13603305923",
+        "lat": 19.1714702003261,
+        "lon": 105.6078768
+      }
+    ]
+  }
+]

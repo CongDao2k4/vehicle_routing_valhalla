@@ -1,0 +1,62 @@
+[
+    {
+        "source": "Du Long",
+        "target": "Km133+770",
+        "routeName": "Cam Lâm - Vĩnh Hảo",
+        "stageName": "Du Long - Km133+770",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11829703711",
+        "targetOsmId": "13594729844"
+    },
+    {
+        "source": "Du Long",
+        "target": "Phan Rang",
+        "routeName": "Cam Lâm - Vĩnh Hảo",
+        "stageName": "Du Long - Phan Rang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11829703711",
+        "targetOsmId": "1482468507"
+    },
+    {
+        "source": "Km133+770",
+        "target": "Du Long",
+        "routeName": "Cam Lâm - Vĩnh Hảo",
+        "stageName": "Km133+770 - Du Long",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594729844",
+        "targetOsmId": "11829703711"
+    },
+    {
+        "source": "Km133+770",
+        "target": "Phan Rang",
+        "routeName": "Cam Lâm - Vĩnh Hảo",
+        "stageName": "Km133+770 - Phan Rang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594729844",
+        "targetOsmId": "1482468507"
+    },
+    {
+        "source": "Phan Rang",
+        "target": "Du Long",
+        "routeName": "Cam Lâm - Vĩnh Hảo",
+        "stageName": "Phan Rang - Du Long",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1482468507",
+        "targetOsmId": "11829703711"
+    },
+    {
+        "source": "Phan Rang",
+        "target": "Km133+770",
+        "routeName": "Cam Lâm - Vĩnh Hảo",
+        "stageName": "Phan Rang - Km133+770",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1482468507",
+        "targetOsmId": "13594729844"
+    }
+]

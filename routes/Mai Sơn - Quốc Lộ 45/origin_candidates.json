@@ -1,0 +1,3602 @@
+[
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "source_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "source_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Thiệu Giang",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "target_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "source_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Thiệu Giang",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "source_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "source_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "source_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Đồng Xuân",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "target_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "source_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Gia Miêu",
+    "target_epass": "Nút giao Đồng Xuân",
+    "source_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "source_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "source_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "source_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Thiệu Giang",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "target_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "source_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Thiệu Giang",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "source_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "source_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "source_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Đồng Xuân",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "target_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "source_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Hà Lĩnh",
+    "target_epass": "Nút giao Đồng Xuân",
+    "source_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "source_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "source_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "source_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "source_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "source_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "source_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "source_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Thiệu Giang",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "target_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "source_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Thiệu Giang",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "source_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Thiệu Giang",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "target_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "source_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "source_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "source_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "source_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Xuân",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "target_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "source_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Xuân",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "source_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Mai Sơn",
+    "target_epass": "Nút giao Đồng Xuân",
+    "source_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "target_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "source_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Thiệu Giang",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "source_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Thiệu Giang",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Thiệu Giang",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "source_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Thiệu Giang",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Thiệu Giang",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Thiệu Giang",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Thiệu Giang",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Thiệu Giang",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "source_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Thiệu Giang",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Thiệu Giang",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Thiệu Giang",
+    "target_epass": "Nút giao Đồng Xuân",
+    "source_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "target_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "source_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "source_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "source_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "source_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "source_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Thiệu Giang",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "target_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "source_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Thiệu Giang",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "source_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Đồng Xuân",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "target_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "source_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Giao",
+    "target_epass": "Nút giao Đồng Xuân",
+    "source_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "target_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "source_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Thiệu Giang",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Đồng Xuân",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Xuân",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung",
+    "source_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297974",
+        "lat": 20.083741300376115,
+        "lon": 105.80951919999998
+      },
+      {
+        "osm_id": "13603297973",
+        "lat": 20.083650800376112,
+        "lon": 105.8094345
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Xuân",
+    "target_epass": "Nút giao Gia Miêu",
+    "source_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "target_origin_osm_name": "Trạm Thu Phí Hà Trung - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297975",
+        "lat": 20.081202,
+        "lon": 105.814264
+      },
+      {
+        "osm_id": "13603297976",
+        "lat": 20.0812723,
+        "lon": 105.8143035
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Xuân",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ)",
+    "source_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297981",
+        "lat": 20.00022140037241,
+        "lon": 105.7703828
+      },
+      {
+        "osm_id": "13603297982",
+        "lat": 20.000250000372414,
+        "lon": 105.7702934
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Xuân",
+    "target_epass": "Nút giao Hà Lĩnh",
+    "source_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "target_origin_osm_name": "Trạm thu phí Tống Sơn (Hà Lĩnh cũ) - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297983",
+        "lat": 19.998933400372355,
+        "lon": 105.7737157
+      },
+      {
+        "osm_id": "13603297984",
+        "lat": 19.99890430037236,
+        "lon": 105.77380829999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Xuân",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297967",
+        "lat": 20.18747420038046,
+        "lon": 105.9561645
+      },
+      {
+        "osm_id": "13603297966",
+        "lat": 20.18802090038048,
+        "lon": 105.95612669999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Xuân",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297968",
+        "lat": 20.18686550038043,
+        "lon": 105.9527415
+      },
+      {
+        "osm_id": "12307791424",
+        "lat": 20.18727330038045,
+        "lon": 105.95214389999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Xuân",
+    "target_epass": "Nút giao Mai Sơn",
+    "source_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "target_origin_osm_name": "Trạm thu phí Nút giao Mai Sơn - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13664135930",
+        "lat": 20.1837035,
+        "lon": 105.9459687
+      },
+      {
+        "osm_id": "13664135931",
+        "lat": 20.1835817,
+        "lon": 105.9460489
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Xuân",
+    "target_epass": "Nút giao Thiệu Giang",
+    "source_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "target_origin_osm_name": "Trạm thu phí Thiệu Giang",
+    "source_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305908",
+        "lat": 19.92150180036876,
+        "lon": 105.7340003
+      },
+      {
+        "osm_id": "13603305907",
+        "lat": 19.92480070036892,
+        "lon": 105.741179
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Xuân",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao",
+    "source_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297970",
+        "lat": 20.169122100379717,
+        "lon": 105.87018159999998
+      },
+      {
+        "osm_id": "13603297969",
+        "lat": 20.16905510037971,
+        "lon": 105.87016219999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Xuân",
+    "target_epass": "Nút giao Đồng Giao",
+    "source_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "target_origin_osm_name": "Trạm thu phí Đồng Giao - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603297971",
+        "lat": 20.16521280037955,
+        "lon": 105.8689605
+      },
+      {
+        "osm_id": "13603297972",
+        "lat": 20.165137200379544,
+        "lon": 105.86892899999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Xuân",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm thu phí Đông Xuân",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13603305910",
+        "lat": 19.82797580036421,
+        "lon": 105.69180729999998
+      },
+      {
+        "osm_id": "13603305909",
+        "lat": 19.8278790003642,
+        "lon": 105.6916697
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  }
+]

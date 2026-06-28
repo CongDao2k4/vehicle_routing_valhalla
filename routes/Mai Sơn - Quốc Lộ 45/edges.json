@@ -1,0 +1,422 @@
+[
+    {
+        "source": "Nút giao Gia Miêu",
+        "target": "Nút giao Hà Lĩnh",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Gia Miêu - Nút giao Hà Lĩnh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297974",
+        "targetOsmId": "13603297981"
+    },
+    {
+        "source": "Nút giao Gia Miêu",
+        "target": "Nút giao Mai Sơn",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Gia Miêu - Nút giao Mai Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297974",
+        "targetOsmId": "13603297967"
+    },
+    {
+        "source": "Nút giao Gia Miêu",
+        "target": "Nút giao Thiệu Giang",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Gia Miêu - Nút giao Thiệu Giang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297974",
+        "targetOsmId": "13603305908"
+    },
+    {
+        "source": "Nút giao Gia Miêu",
+        "target": "Nút giao Đồng Giao",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Gia Miêu - Nút giao Đồng Giao",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297974",
+        "targetOsmId": "13603297970"
+    },
+    {
+        "source": "Nút giao Gia Miêu",
+        "target": "Nút giao Đồng Thắng",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Gia Miêu - Nút giao Đồng Thắng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297974",
+        "targetOsmId": "13603305911"
+    },
+    {
+        "source": "Nút giao Gia Miêu",
+        "target": "Nút giao Đồng Xuân",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Gia Miêu - Nút giao Đồng Xuân",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297974",
+        "targetOsmId": "13603305910"
+    },
+    {
+        "source": "Nút giao Hà Lĩnh",
+        "target": "Nút giao Gia Miêu",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Hà Lĩnh - Nút giao Gia Miêu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297981",
+        "targetOsmId": "13603297974"
+    },
+    {
+        "source": "Nút giao Hà Lĩnh",
+        "target": "Nút giao Mai Sơn",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Hà Lĩnh - Nút giao Mai Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297981",
+        "targetOsmId": "13603297967"
+    },
+    {
+        "source": "Nút giao Hà Lĩnh",
+        "target": "Nút giao Thiệu Giang",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Hà Lĩnh - Nút giao Thiệu Giang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297981",
+        "targetOsmId": "13603305908"
+    },
+    {
+        "source": "Nút giao Hà Lĩnh",
+        "target": "Nút giao Đồng Giao",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Hà Lĩnh - Nút giao Đồng Giao",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297981",
+        "targetOsmId": "13603297970"
+    },
+    {
+        "source": "Nút giao Hà Lĩnh",
+        "target": "Nút giao Đồng Thắng",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Hà Lĩnh - Nút giao Đồng Thắng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297981",
+        "targetOsmId": "13603305911"
+    },
+    {
+        "source": "Nút giao Hà Lĩnh",
+        "target": "Nút giao Đồng Xuân",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Hà Lĩnh - Nút giao Đồng Xuân",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297981",
+        "targetOsmId": "13603305910"
+    },
+    {
+        "source": "Nút giao Mai Sơn",
+        "target": "Nút giao Gia Miêu",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Mai Sơn - Nút giao Gia Miêu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297967",
+        "targetOsmId": "13603297974"
+    },
+    {
+        "source": "Nút giao Mai Sơn",
+        "target": "Nút giao Hà Lĩnh",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Mai Sơn - Nút giao Hà Lĩnh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297967",
+        "targetOsmId": "13603297981"
+    },
+    {
+        "source": "Nút giao Mai Sơn",
+        "target": "Nút giao Thiệu Giang",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Mai Sơn - Nút giao Thiệu Giang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297967",
+        "targetOsmId": "13603305908"
+    },
+    {
+        "source": "Nút giao Mai Sơn",
+        "target": "Nút giao Đồng Giao",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Mai Sơn - Nút giao Đồng Giao",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297967",
+        "targetOsmId": "13603297970"
+    },
+    {
+        "source": "Nút giao Mai Sơn",
+        "target": "Nút giao Đồng Thắng",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Mai Sơn - Nút giao Đồng Thắng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297967",
+        "targetOsmId": "13603305911"
+    },
+    {
+        "source": "Nút giao Mai Sơn",
+        "target": "Nút giao Đồng Xuân",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Mai Sơn - Nút giao Đồng Xuân",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297967",
+        "targetOsmId": "13603305910"
+    },
+    {
+        "source": "Nút giao Thiệu Giang",
+        "target": "Nút giao Gia Miêu",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Thiệu Giang - Nút giao Gia Miêu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305908",
+        "targetOsmId": "13603297974"
+    },
+    {
+        "source": "Nút giao Thiệu Giang",
+        "target": "Nút giao Hà Lĩnh",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Thiệu Giang - Nút giao Hà Lĩnh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305908",
+        "targetOsmId": "13603297981"
+    },
+    {
+        "source": "Nút giao Thiệu Giang",
+        "target": "Nút giao Mai Sơn",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Thiệu Giang - Nút giao Mai Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305908",
+        "targetOsmId": "13603297967"
+    },
+    {
+        "source": "Nút giao Thiệu Giang",
+        "target": "Nút giao Đồng Giao",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Thiệu Giang - Nút giao Đồng Giao",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305908",
+        "targetOsmId": "13603297970"
+    },
+    {
+        "source": "Nút giao Thiệu Giang",
+        "target": "Nút giao Đồng Thắng",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Thiệu Giang - Nút giao Đồng Thắng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305908",
+        "targetOsmId": "13603305911"
+    },
+    {
+        "source": "Nút giao Thiệu Giang",
+        "target": "Nút giao Đồng Xuân",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Thiệu Giang - Nút giao Đồng Xuân",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305908",
+        "targetOsmId": "13603305910"
+    },
+    {
+        "source": "Nút giao Đồng Giao",
+        "target": "Nút giao Gia Miêu",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Giao - Nút giao Gia Miêu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297970",
+        "targetOsmId": "13603297974"
+    },
+    {
+        "source": "Nút giao Đồng Giao",
+        "target": "Nút giao Hà Lĩnh",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Giao - Nút giao Hà Lĩnh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297970",
+        "targetOsmId": "13603297981"
+    },
+    {
+        "source": "Nút giao Đồng Giao",
+        "target": "Nút giao Mai Sơn",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Giao - Nút giao Mai Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297970",
+        "targetOsmId": "13603297967"
+    },
+    {
+        "source": "Nút giao Đồng Giao",
+        "target": "Nút giao Thiệu Giang",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Giao - Nút giao Thiệu Giang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297970",
+        "targetOsmId": "13603305908"
+    },
+    {
+        "source": "Nút giao Đồng Giao",
+        "target": "Nút giao Đồng Thắng",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Giao - Nút giao Đồng Thắng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297970",
+        "targetOsmId": "13603305911"
+    },
+    {
+        "source": "Nút giao Đồng Giao",
+        "target": "Nút giao Đồng Xuân",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Giao - Nút giao Đồng Xuân",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603297970",
+        "targetOsmId": "13603305910"
+    },
+    {
+        "source": "Nút giao Đồng Thắng",
+        "target": "Nút giao Gia Miêu",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Thắng - Nút giao Gia Miêu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305911",
+        "targetOsmId": "13603297974"
+    },
+    {
+        "source": "Nút giao Đồng Thắng",
+        "target": "Nút giao Hà Lĩnh",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Thắng - Nút giao Hà Lĩnh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305911",
+        "targetOsmId": "13603297981"
+    },
+    {
+        "source": "Nút giao Đồng Thắng",
+        "target": "Nút giao Mai Sơn",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Thắng - Nút giao Mai Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305911",
+        "targetOsmId": "13603297967"
+    },
+    {
+        "source": "Nút giao Đồng Thắng",
+        "target": "Nút giao Thiệu Giang",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Thắng - Nút giao Thiệu Giang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305911",
+        "targetOsmId": "13603305908"
+    },
+    {
+        "source": "Nút giao Đồng Thắng",
+        "target": "Nút giao Đồng Giao",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Thắng - Nút giao Đồng Giao",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305911",
+        "targetOsmId": "13603297970"
+    },
+    {
+        "source": "Nút giao Đồng Thắng",
+        "target": "Nút giao Đồng Xuân",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Thắng - Nút giao Đồng Xuân",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305911",
+        "targetOsmId": "13603305910"
+    },
+    {
+        "source": "Nút giao Đồng Xuân",
+        "target": "Nút giao Gia Miêu",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Xuân - Nút giao Gia Miêu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305910",
+        "targetOsmId": "13603297974"
+    },
+    {
+        "source": "Nút giao Đồng Xuân",
+        "target": "Nút giao Hà Lĩnh",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Xuân - Nút giao Hà Lĩnh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305910",
+        "targetOsmId": "13603297981"
+    },
+    {
+        "source": "Nút giao Đồng Xuân",
+        "target": "Nút giao Mai Sơn",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Xuân - Nút giao Mai Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305910",
+        "targetOsmId": "13603297967"
+    },
+    {
+        "source": "Nút giao Đồng Xuân",
+        "target": "Nút giao Thiệu Giang",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Xuân - Nút giao Thiệu Giang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305910",
+        "targetOsmId": "13603305908"
+    },
+    {
+        "source": "Nút giao Đồng Xuân",
+        "target": "Nút giao Đồng Giao",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Xuân - Nút giao Đồng Giao",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305910",
+        "targetOsmId": "13603297970"
+    },
+    {
+        "source": "Nút giao Đồng Xuân",
+        "target": "Nút giao Đồng Thắng",
+        "routeName": "Mai Sơn - Quốc Lộ 45",
+        "stageName": "Nút giao Đồng Xuân - Nút giao Đồng Thắng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305910",
+        "targetOsmId": "13603305911"
+    }
+]

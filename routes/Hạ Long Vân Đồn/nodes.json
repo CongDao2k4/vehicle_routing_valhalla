@@ -1,0 +1,52 @@
+[
+    {
+        "stationName": "Cẩm Y",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.09728870040599,
+        "longitude": 107.3533607,
+        "stationOsmId": "6221325028",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Việt Hưng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.97458660040388,
+        "longitude": 106.9658825,
+        "stationOsmId": "6221327319",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đồng Lá",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.0484647004052,
+        "longitude": 107.1649089,
+        "stationOsmId": "6427220541",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đồng Đăng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.992675460777047,
+        "longitude": 106.98718749348149,
+        "stationOsmId": "1483324798",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đoàn Kết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.08240593520609,
+        "longitude": 107.39283151498898,
+        "stationOsmId": "1316305913",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

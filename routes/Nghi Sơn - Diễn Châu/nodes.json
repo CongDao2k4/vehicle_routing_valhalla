@@ -1,0 +1,42 @@
+[
+    {
+        "stationName": "Nút giao Diễn Cát",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 18.96669180031211,
+        "longitude": 105.5589777,
+        "stationOsmId": "13603305927",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Nghi Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.3647537,
+        "longitude": 105.6952887,
+        "stationOsmId": "13603305917",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Quỳnh Lưu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.16762610032585,
+        "longitude": 105.6102029,
+        "stationOsmId": "13603305920",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Quỳnh Vinh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.272293000332635,
+        "longitude": 105.6943134,
+        "stationOsmId": "13603305924",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

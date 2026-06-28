@@ -1,0 +1,72 @@
+[
+    {
+        "stationName": "Nút giao Đồng Thắng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.75857320036069,
+        "longitude": 105.6693109,
+        "stationOsmId": "13603305911",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Gia Miêu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.083741300376115,
+        "longitude": 105.80951919999998,
+        "stationOsmId": "13603297974",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Hà Lĩnh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.00022140037241,
+        "longitude": 105.7703828,
+        "stationOsmId": "13603297981",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Mai Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.18747420038046,
+        "longitude": 105.9561645,
+        "stationOsmId": "13603297967",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Thiệu Giang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.92150180036876,
+        "longitude": 105.7340003,
+        "stationOsmId": "13603305908",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Đồng Giao",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.16912210037972,
+        "longitude": 105.87018159999998,
+        "stationOsmId": "13603297970",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Đồng Xuân",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.82797580036421,
+        "longitude": 105.69180729999998,
+        "stationOsmId": "13603305910",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

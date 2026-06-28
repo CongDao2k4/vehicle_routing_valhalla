@@ -1,0 +1,1968 @@
+[
+    {
+        "stationName": "BOT 319",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.768827299482608,
+        "longitude": 106.9229147,
+        "stationOsmId": "9754127696",
+        "incoming_edges": [
+            "Nút giao VĐ 3 - HLD (C)",
+            "NH51",
+            "Dầu Giây",
+            "Phan Thiết - Dầu Giây",
+            "Biên Hòa - Vũng Tàu",
+            "Long Phước"
+        ],
+        "outgoing_edges": [
+            "Nút giao VĐ 3 - HLD (C)",
+            "NH51",
+            "Dầu Giây",
+            "Phan Thiết - Dầu Giây",
+            "Biên Hòa - Vũng Tàu",
+            "Long Phước"
+        ]
+    },
+    {
+        "stationName": "Tam Kỳ",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 15.548552399971983,
+        "longitude": 108.51842630000002,
+        "stationOsmId": "6860284192",
+        "incoming_edges": [
+            "Quảng Ngãi",
+            "Bắc Quảng Ngãi",
+            "Phong Thử",
+            "Túy Loan",
+            "Dung Quất",
+            "Hà Lam",
+            "Chu Lai"
+        ],
+        "outgoing_edges": [
+            "Quảng Ngãi",
+            "Bắc Quảng Ngãi",
+            "Phong Thử",
+            "Túy Loan",
+            "Dung Quất",
+            "Hà Lam",
+            "Chu Lai"
+        ]
+    },
+    {
+        "stationName": "Cầu Giẽ Hà Nam",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.665186800396704,
+        "longitude": 105.9166475,
+        "stationOsmId": "1274537951",
+        "incoming_edges": [
+            "Vực Vòng",
+            "Pháp Vân",
+            "Vạn Điểm",
+            "Thường Tín",
+            "Liêm Tuyền",
+            "Cao Bồ"
+        ],
+        "outgoing_edges": [
+            "Vực Vòng",
+            "Pháp Vân",
+            "Vạn Điểm",
+            "Thường Tín",
+            "Liêm Tuyền",
+            "Cao Bồ"
+        ]
+    },
+    {
+        "stationName": "Trạm 242",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.490973900409863,
+        "longitude": 106.3714743,
+        "stationOsmId": "6837952528",
+        "incoming_edges": [
+            "Trạm 45",
+            "Trạm 102",
+            "Trạm 37",
+            "Trạm 279",
+            "Trạm 104"
+        ],
+        "outgoing_edges": [
+            "Trạm 45",
+            "Trạm 102",
+            "Trạm 37",
+            "Trạm 279",
+            "Trạm 104"
+        ]
+    },
+    {
+        "stationName": "An Dân (Thạch Bàn)",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 13.349179799716865,
+        "longitude": 109.2081907,
+        "stationOsmId": "8436783101",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "An Sương - An Lạc",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.79502456083986,
+        "longitude": 106.59663958436786,
+        "stationOsmId": "1101467778",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "An Thuận Phát (Phước Tân)",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.87959379949014,
+        "longitude": 106.911847,
+        "stationOsmId": "10823778103",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "BOT Quốc Lộ 17B",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.96477320040369,
+        "longitude": 106.5191774,
+        "stationOsmId": "2174037722",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Bình Thung",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.907618060148613,
+        "longitude": 106.79102643896864,
+        "stationOsmId": "1010875691",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Bình Thuận",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.932602371898122,
+        "longitude": 107.96800349083978,
+        "stationOsmId": "1482439056",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Bạc Liêu",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 9.374107199412157,
+        "longitude": 105.7122544,
+        "stationOsmId": "10198627130",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Bắc Bình Định",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 14.397198499836245,
+        "longitude": 109.01778799999998,
+        "stationOsmId": "8432045544",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Bắc Ninh Hải Dương",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 21.08015440040572,
+        "longitude": 106.0921856,
+        "stationOsmId": "6862997895",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Bắc Thăng Long - Nội Bài",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 21.203349700407465,
+        "longitude": 105.7797789,
+        "stationOsmId": "12369764927",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Bến Lức",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.656030899475216,
+        "longitude": 106.4734695,
+        "stationOsmId": "2214428847",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Bến Thủy 1",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 18.648599900288502,
+        "longitude": 105.7045709,
+        "stationOsmId": "10198878792",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Bến Thủy 2",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 18.640936300287912,
+        "longitude": 105.6991218,
+        "stationOsmId": "10198877242",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cai Chanh",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.912202600854188,
+        "longitude": 107.39056248469794,
+        "stationOsmId": "1410065457",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cai Lậy - QL1",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.410184194612592,
+        "longitude": 106.06065573378643,
+        "stationOsmId": "1017066822",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cai Lậy - Tuyến tránh",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.393384086706927,
+        "longitude": 106.1438217759597,
+        "stationOsmId": "1225571951",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cam Thịnh",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.872420899568906,
+        "longitude": 109.1085785,
+        "stationOsmId": "4086614472",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Chơn Thành",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.36389149952612,
+        "longitude": 106.6276194,
+        "stationOsmId": "9201724261",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cà Ná",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.373640099526892,
+        "longitude": 108.8810689,
+        "stationOsmId": "6860674132",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cần Thơ - Phụng Hiệp",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 9.972865699436683,
+        "longitude": 105.74045099999998,
+        "stationOsmId": "9381034607",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cầu Bạch Đằng",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.8628088004016,
+        "longitude": 106.7849049,
+        "stationOsmId": "12323861336",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cầu Phú Cường",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.983531699497444,
+        "longitude": 106.6431918,
+        "stationOsmId": "13148658999",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cầu Rạch Miễu",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.314729876318813,
+        "longitude": 106.34837555286845,
+        "stationOsmId": "1025088286",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cẩm Phả",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 21.00303405808283,
+        "longitude": 107.3273623742909,
+        "stationOsmId": "-19037572",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cổ Chiên",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.019911169934328,
+        "longitude": 106.29746562304084,
+        "stationOsmId": "1011243028",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "DT741",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.221867296920102,
+        "longitude": 106.72532641673897,
+        "stationOsmId": "1096685801",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Ea Đar Đắk Lắk",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 12.812885499659654,
+        "longitude": 108.5116708,
+        "stationOsmId": "668471135",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Genimex trạm số 1",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.97783619949704,
+        "longitude": 106.74488449999998,
+        "stationOsmId": "9322484528",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Genimex trạm số 2",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.974010799496767,
+        "longitude": 106.7712123,
+        "stationOsmId": "9301612561",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Genimex trạm số 3",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.027577999500611,
+        "longitude": 106.7749224,
+        "stationOsmId": "10030773244",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Gia Lai 1",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 13.874361699775724,
+        "longitude": 108.00810769999998,
+        "stationOsmId": "10198842784",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Gia Lai 2",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 13.413531099723944,
+        "longitude": 108.09282399999998,
+        "stationOsmId": "9921799661",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Hoàng Mai",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 19.301875955798863,
+        "longitude": 105.72421030724514,
+        "stationOsmId": "1183845008",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Hà Nội - Bắc Giang",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 21.09034654982544,
+        "longitude": 105.96045260948794,
+        "stationOsmId": "1095628565",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Hòa Lạc Hòa Bình",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.9652301393474,
+        "longitude": 105.3980535300808,
+        "stationOsmId": "1105237556",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Hòa Phước",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 16.050652600030315,
+        "longitude": 108.20513789999998,
+        "stationOsmId": "6856306592",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Hạc Trì",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 21.29458515209657,
+        "longitude": 105.4492600616463,
+        "stationOsmId": "1182173344",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Hầm Cù Mông",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 13.703475792467366,
+        "longitude": 109.1745154532575,
+        "stationOsmId": "1156958867",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Hầm Đèo Cả",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 12.90329032751639,
+        "longitude": 109.36572994297042,
+        "stationOsmId": "1177157173",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "KM124+720 Gia Lai",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 14.0546549,
+        "longitude": 108.3295798,
+        "stationOsmId": "13954067960",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Liên Đầm",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.5664484,
+        "longitude": 107.998814,
+        "stationOsmId": "13955413679",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Lào Cai - Sapa",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 22.4167523004016,
+        "longitude": 103.9070398,
+        "stationOsmId": "11183842756",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Lái Thiêu",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.888731999490767,
+        "longitude": 106.7007135,
+        "stationOsmId": "6859613339",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Mỹ Lộc",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.447490400390063,
+        "longitude": 106.1197806,
+        "stationOsmId": "2581153386",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nam Bình Định",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 13.87136999977538,
+        "longitude": 109.125348,
+        "stationOsmId": "6950227536",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Ninh Lộc",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 12.444463499622486,
+        "longitude": 109.1206085,
+        "stationOsmId": "6860612354",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Ninh Xuân (Khánh Hòa)",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 12.50712116358481,
+        "longitude": 109.0689016035974,
+        "stationOsmId": "1178115953",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phú Bài",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 16.370315400066637,
+        "longitude": 107.7249504,
+        "stationOsmId": "6860166455",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phú Hữu",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.791568399484131,
+        "longitude": 106.80751779999999,
+        "stationOsmId": "9369335528",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phú Mỹ",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.759983949482018,
+        "longitude": 106.76485485,
+        "stationOsmId": "1098418720",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phả Lại",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 21.116672400406284,
+        "longitude": 106.2764928,
+        "stationOsmId": "13602049340",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Quán Hàu",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 17.391885866330295,
+        "longitude": 106.64694542224848,
+        "stationOsmId": "1175282468",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Quốc Lộ 5 Trạm số 1 Hưng Yên",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.9492920004034,
+        "longitude": 106.01254389999998,
+        "stationOsmId": "481837637",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Quốc Lộ 5 Trạm số 2 Hải Phòng",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.90844120040257,
+        "longitude": 106.5726631,
+        "stationOsmId": "10185562123",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Suối Giữa",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.005232549469996,
+        "longitude": 106.6456086332862,
+        "stationOsmId": "1012928174",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Sóc Trăng",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 9.659737599422748,
+        "longitude": 105.9312135,
+        "stationOsmId": "10198601713",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Sông Phan",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.87528119948984,
+        "longitude": 107.93136599999998,
+        "stationOsmId": "1588276876",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "TL 353",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.7761463003996,
+        "longitude": 106.72394325,
+        "stationOsmId": "1329847084",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Tam Nông",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 21.24329240040793,
+        "longitude": 105.3260393,
+        "stationOsmId": "1038124365",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Tasco Quảng Bình",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 17.890236200223878,
+        "longitude": 106.4508467,
+        "stationOsmId": "668714123",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Thanh Lương",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.72278312473486,
+        "longitude": 106.58323898498924,
+        "stationOsmId": "1012698037",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Thu phí T1 QL91",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.111776099443633,
+        "longitude": 105.6487572,
+        "stationOsmId": "5003536551",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Thu phí số 2 QL14",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.564025999542377,
+        "longitude": 106.95400569999998,
+        "stationOsmId": "1508894331",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Thuận Phú",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.577375420033396,
+        "longitude": 106.89440792879918,
+        "stationOsmId": "1254808120",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Thái Nguyên Chợ Mới",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 21.644076800410176,
+        "longitude": 105.7861744,
+        "stationOsmId": "10001978675",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Tiên Cựu",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.7766163003996,
+        "longitude": 106.5080382,
+        "stationOsmId": "6864061670",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Toàn Mỹ (Đắk Nông)",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 12.56122269963406,
+        "longitude": 107.822395,
+        "stationOsmId": "10198600410",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm Bù Nho",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.727515863906032,
+        "longitude": 106.87504140773216,
+        "stationOsmId": "1172933249",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm Thu phí Cầu Mỹ Lợi",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.4628468907798,
+        "longitude": 106.64416358295638,
+        "stationOsmId": "1173001123",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm Thu phí Km 49+550 Quốc lộ 19",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 13.944511999783748,
+        "longitude": 108.8577499,
+        "stationOsmId": "8938682367",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm Xa Lộ - Hà Nội",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.819014499485986,
+        "longitude": 106.75793189999999,
+        "stationOsmId": "6775351396",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm thu phí Bắc Hầm Hải Vân",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 16.228360900050603,
+        "longitude": 108.0847514,
+        "stationOsmId": "668605383",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trảng Bom",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.945379057786033,
+        "longitude": 107.05745417583005,
+        "stationOsmId": "1093353487",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Tân Khai",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.56984940463746,
+        "longitude": 106.61733226303792,
+        "stationOsmId": "176792793",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Tân Lập",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.38815642549126,
+        "longitude": 106.82561830415916,
+        "stationOsmId": "1020149679",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Tư Nghĩa",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 15.063467799914788,
+        "longitude": 108.8395454,
+        "stationOsmId": "6860315448",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Văn Lang",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 21.285534900408383,
+        "longitude": 105.4040101,
+        "stationOsmId": "6563222996",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Vĩnh Phú",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.88681552674493,
+        "longitude": 106.69970961752706,
+        "stationOsmId": "1007900115",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Xuân Mai Hòa Bình",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.87036550040176,
+        "longitude": 105.513756,
+        "stationOsmId": "12452756354",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Yên Lệnh",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.65895350039653,
+        "longitude": 106.0490359,
+        "stationOsmId": "10198957829",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đông Hà",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 16.785203600112425,
+        "longitude": 107.1500252,
+        "stationOsmId": "3516472469",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đông Hưng",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.558728600393625,
+        "longitude": 106.3679126,
+        "stationOsmId": "10198933880",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đường 768",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.980256428744656,
+        "longitude": 106.84771107495057,
+        "stationOsmId": "1090402313",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đại Yên",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 20.986202800404104,
+        "longitude": 106.9030714,
+        "stationOsmId": "12788166743",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đắk Song",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 12.188447599597843,
+        "longitude": 107.6377142,
+        "stationOsmId": "10826144165",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Định An",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 11.859633899567774,
+        "longitude": 108.4578695,
+        "stationOsmId": "1403291202",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đức Hòa",
+        "stationType": 1,
+        "stationTypeName": "OPEN",
+        "latitude": 10.777566299483194,
+        "longitude": 106.4394739,
+        "stationOsmId": "10196742008",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "An Thái Trung",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.31726439945475,
+        "longitude": 105.885385,
+        "stationOsmId": "13594609049",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cai Lậy",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.412157684385676,
+        "longitude": 106.16486761983658,
+        "stationOsmId": "1225570745",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cái Bè",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.407114079909496,
+        "longitude": 106.03205202650614,
+        "stationOsmId": "1482412311",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Km51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.43531706151076,
+        "longitude": 106.29512318694024,
+        "stationOsmId": "1308093769",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Km133+770",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.313317799522135,
+        "longitude": 108.72454569999998,
+        "stationOsmId": "13594729844",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Chợ Lầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.262766399518206,
+        "longitude": 108.4911356,
+        "stationOsmId": "10852800021",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Ma Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.089454499505129,
+        "longitude": 108.1323194,
+        "stationOsmId": "13594711865",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Đại Ninh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.253188899517466,
+        "longitude": 108.3460087,
+        "stationOsmId": "11866479440",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Vĩnh Hảo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.304354799521436,
+        "longitude": 108.7250364,
+        "stationOsmId": "11865554273",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "KM430+500",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 18.9578335,
+        "longitude": 105.5616175,
+        "stationOsmId": "13906136880",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Diễn Cát",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 18.96669180031211,
+        "longitude": 105.5589777,
+        "stationOsmId": "13603305927",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Nghi Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.3647537,
+        "longitude": 105.6952887,
+        "stationOsmId": "13603305917",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Quỳnh Lưu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.16762610032585,
+        "longitude": 105.6102029,
+        "stationOsmId": "13603305920",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Quỳnh Vinh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.272293000332635,
+        "longitude": 105.6943134,
+        "stationOsmId": "13603305924",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Biên Hòa - Vũng Tàu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.7626385,
+        "longitude": 106.9742636,
+        "stationOsmId": "11596377024",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.918267652903994,
+        "longitude": 107.16401977868696,
+        "stationOsmId": "1006324193",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Long Phước",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.7858212287184,
+        "longitude": 106.85187469408388,
+        "stationOsmId": "631536968",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "NH51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.765222099482369,
+        "longitude": 106.9566699,
+        "stationOsmId": "5606336350",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao VĐ 3 - HLD (C)",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.786707199483805,
+        "longitude": 106.8309516,
+        "stationOsmId": "12462757073",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phan Thiết - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.838869899487335,
+        "longitude": 107.1480463,
+        "stationOsmId": "8579215378",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Bắc Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 15.157886899925956,
+        "longitude": 108.751731,
+        "stationOsmId": "12723387255",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Chu Lai",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 15.442284099959496,
+        "longitude": 108.59304729999998,
+        "stationOsmId": "12725719649",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Dung Quất",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 15.352231199948896,
+        "longitude": 108.7340259,
+        "stationOsmId": "10236670094",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Hà Lam",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 15.71029794576383,
+        "longitude": 108.33535277554552,
+        "stationOsmId": "1374419129",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phong Thử",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 15.890632603734034,
+        "longitude": 108.17368595254888,
+        "stationOsmId": "1374419135",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 15.109496301711824,
+        "longitude": 108.75765989541584,
+        "stationOsmId": "1374419109",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Túy Loan",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 15.972812000021358,
+        "longitude": 108.16284480000002,
+        "stationOsmId": "6888345522",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cam Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 12.057252676053531,
+        "longitude": 109.12468686389896,
+        "stationOsmId": "1482474233",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cam Ranh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.880754049313992,
+        "longitude": 109.09660342750368,
+        "stationOsmId": "1482468510",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Diên Khánh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 12.254637199604115,
+        "longitude": 109.0237223,
+        "stationOsmId": "11910194124",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Suối Dầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 12.178860399596942,
+        "longitude": 109.0588927,
+        "stationOsmId": "12645469228",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cao Bồ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.288024500384388,
+        "longitude": 106.0126298,
+        "stationOsmId": "12725730599",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Liêm Tuyền",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.53999269317483,
+        "longitude": 105.94829054993772,
+        "stationOsmId": "1374421271",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Pháp Vân",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.90746269952868,
+        "longitude": 105.86136670049196,
+        "stationOsmId": "1330194837",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Thường Tín",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.87189741511597,
+        "longitude": 105.87751376184823,
+        "stationOsmId": "1484967644",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Vực Vòng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.645372700396155,
+        "longitude": 105.9384956,
+        "stationOsmId": "2326748263",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Vạn Điểm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.77382280039953,
+        "longitude": 105.9072876,
+        "stationOsmId": "6425386072",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đại Xuyên",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.701874100397696,
+        "longitude": 105.9126403,
+        "stationOsmId": "8344470069",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cẩm Y",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.09728870040599,
+        "longitude": 107.3533607,
+        "stationOsmId": "6221325028",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Việt Hưng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.97458660040388,
+        "longitude": 106.9658825,
+        "stationOsmId": "6221327319",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đồng Lá",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.0484647004052,
+        "longitude": 107.1649089,
+        "stationOsmId": "6427220541",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đồng Đăng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.992675460777047,
+        "longitude": 106.98718749348149,
+        "stationOsmId": "1483324798",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Du Long",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.746778199557886,
+        "longitude": 109.05659249999998,
+        "stationOsmId": "11829703711",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phan Rang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.630341752126943,
+        "longitude": 108.89594479727944,
+        "stationOsmId": "1482468507",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Hải Hà",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.46507040040974,
+        "longitude": 107.70575979999998,
+        "stationOsmId": "10997783392",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Móng Cái",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.51238684197242,
+        "longitude": 107.94985323003482,
+        "stationOsmId": "1483440873",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Tiên Yên",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.30870409880774,
+        "longitude": 107.47614418071788,
+        "stationOsmId": "1483440868",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đầm Hà",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.348686748799228,
+        "longitude": 107.55313650370996,
+        "stationOsmId": "1483440869",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.4388506004096,
+        "longitude": 105.1233753,
+        "stationOsmId": "6554485169",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.533200300410016,
+        "longitude": 104.9725923,
+        "stationOsmId": "6554530141",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.648064300410176,
+        "longitude": 104.8909391,
+        "stationOsmId": "6880975506",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.87824810040937,
+        "longitude": 104.675479,
+        "stationOsmId": "6876859120",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 22.15278350040644,
+        "longitude": 104.3437083,
+        "stationOsmId": "6554703289",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 22.34336820040313,
+        "longitude": 104.10600119999998,
+        "stationOsmId": "6554701337",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.279407500408325,
+        "longitude": 105.6693158,
+        "stationOsmId": "6970456533",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.35732210040904,
+        "longitude": 105.6061728,
+        "stationOsmId": "3008944938",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.35503360040902,
+        "longitude": 105.4639686,
+        "stationOsmId": "6554465773",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.365362400409104,
+        "longitude": 105.3802266,
+        "stationOsmId": "4965039224",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.390488100409296,
+        "longitude": 105.3300138,
+        "stationOsmId": "3992131737",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.423556900409512,
+        "longitude": 105.2309367,
+        "stationOsmId": "6877650786",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Km237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 22.365095900402697,
+        "longitude": 104.0809068,
+        "stationOsmId": "11619047243",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.252734217629648,
+        "longitude": 105.7396005366243,
+        "stationOsmId": "1329842882",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 22.315823,
+        "longitude": 104.1787317,
+        "stationOsmId": "13955471075",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Nghi Phương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 18.823348400301747,
+        "longitude": 105.5865241,
+        "stationOsmId": "11938173243",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao QL46B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 18.706994600293005,
+        "longitude": 105.6137435,
+        "stationOsmId": "12450564745",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao QL8A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 18.534202100279487,
+        "longitude": 105.6580146,
+        "stationOsmId": "12600009196",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nguyễn Văn Tạo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.6609445,
+        "longitude": 106.7234909,
+        "stationOsmId": "12103925344",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phước An",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.663791099475715,
+        "longitude": 106.9719749,
+        "stationOsmId": "13453097869",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.661748099475584,
+        "longitude": 106.5596307,
+        "stationOsmId": "9697403773",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL50",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.660256999475486,
+        "longitude": 106.6545182,
+        "stationOsmId": "12866199543",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.675525489391084,
+        "longitude": 107.0197876203359,
+        "stationOsmId": "1288554747",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "TP HCM - Trung Lương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.669824549476106,
+        "longitude": 106.54923705,
+        "stationOsmId": "1288834243",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Vạn Thiện",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.612120000352856,
+        "longitude": 105.6713864,
+        "stationOsmId": "12579076280",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Đồng Thắng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.75857320036069,
+        "longitude": 105.6693109,
+        "stationOsmId": "13603305911",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.8963772994913,
+        "longitude": 107.42155239999998,
+        "stationOsmId": "13457949978",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao QL55",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.858925399488712,
+        "longitude": 107.74151129999998,
+        "stationOsmId": "11813154464",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao QL56",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.859510499488753,
+        "longitude": 107.2355806,
+        "stationOsmId": "13457949977",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao TL720",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.86183249948891,
+        "longitude": 107.6465972,
+        "stationOsmId": "13594672354",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao TL765",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.885088499490518,
+        "longitude": 107.3659241,
+        "stationOsmId": "11304967566",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Gia Miêu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.083741300376115,
+        "longitude": 105.80951919999998,
+        "stationOsmId": "13603297974",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Hà Lĩnh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.00022140037241,
+        "longitude": 105.7703828,
+        "stationOsmId": "13603297981",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Mai Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.18747420038046,
+        "longitude": 105.9561645,
+        "stationOsmId": "13603297967",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Thiệu Giang",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.92150180036876,
+        "longitude": 105.7340003,
+        "stationOsmId": "13603305908",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Đồng Giao",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.16912210037972,
+        "longitude": 105.87018159999998,
+        "stationOsmId": "13603297970",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Đồng Xuân",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 19.82797580036421,
+        "longitude": 105.69180729999998,
+        "stationOsmId": "13603305910",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.8400015,
+        "longitude": 106.75127,
+        "stationOsmId": "13956682360",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao tỉnh lộ 353",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.77022350039945,
+        "longitude": 106.712905,
+        "stationOsmId": "8544582973",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao tỉnh lộ 392",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.851093700401343,
+        "longitude": 106.2021974,
+        "stationOsmId": "11946078822",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL 10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.799370380191224,
+        "longitude": 106.5231486817111,
+        "stationOsmId": "1483838042",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL 38",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.855743300401446,
+        "longitude": 106.1203753,
+        "stationOsmId": "12600009197",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL 38B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.85665920040146,
+        "longitude": 106.2943524,
+        "stationOsmId": "5930290765",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "QL 39",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.85005150040132,
+        "longitude": 106.0278676,
+        "stationOsmId": "4686546644",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đầu Tuyến",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.93170881538877,
+        "longitude": 105.97151315273268,
+        "stationOsmId": "1324667567",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm 102",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.33928200040889,
+        "longitude": 106.27055799999998,
+        "stationOsmId": "13551007072",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm 104",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.31592320040868,
+        "longitude": 106.2590521,
+        "stationOsmId": "6837953448",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm 279",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.62055750041017,
+        "longitude": 106.5587157,
+        "stationOsmId": "6838027406",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm 45",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.686714400410143,
+        "longitude": 106.6277949,
+        "stationOsmId": "6837952271",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm 37",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.38911010040928,
+        "longitude": 106.3022497,
+        "stationOsmId": "6837953118",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đoàn Kết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.08240593520609,
+        "longitude": 107.39283151498898,
+        "stationOsmId": "1316305913",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": null,
+        "longitude": null,
+        "stationOsmId": null,
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

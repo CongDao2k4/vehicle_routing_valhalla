@@ -1,0 +1,362 @@
+[
+  {
+    "source_epass": "An Thái Trung",
+    "target_epass": "Cai Lậy",
+    "source_origin_osm_name": "Trạm Thu phí An Thái Trung",
+    "target_origin_osm_name": "Trạm Thu Phí Cai Lậy",
+    "source_booths": [
+      {
+        "osm_id": "13594609049",
+        "lat": 10.31726439945475,
+        "lon": 105.885385
+      },
+      {
+        "osm_id": "13594609044",
+        "lat": 10.3175518,
+        "lon": 105.8801114
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10828855521",
+        "lat": 10.412145899460215,
+        "lon": 106.1648993
+      },
+      {
+        "osm_id": "10828855520",
+        "lat": 10.412184199460215,
+        "lon": 106.1647913
+      }
+    ]
+  },
+  {
+    "source_epass": "An Thái Trung",
+    "target_epass": "Cái Bè",
+    "source_origin_osm_name": "Trạm Thu phí An Thái Trung",
+    "target_origin_osm_name": "Trạm Thu Phí Cái Bè",
+    "source_booths": [
+      {
+        "osm_id": "13594609049",
+        "lat": 10.31726439945475,
+        "lon": 105.885385
+      },
+      {
+        "osm_id": "13594609044",
+        "lat": 10.3175518,
+        "lon": 105.8801114
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10222717445",
+        "lat": 10.407141199459918,
+        "lon": 106.0321193
+      },
+      {
+        "osm_id": "10222717444",
+        "lat": 10.40711559945992,
+        "lon": 106.0319739
+      }
+    ]
+  },
+  {
+    "source_epass": "An Thái Trung",
+    "target_epass": "Km51",
+    "source_origin_osm_name": "Trạm Thu phí An Thái Trung",
+    "target_origin_osm_name": "Trạm thu phí Thân Cửu Nghĩa - Km51",
+    "source_booths": [
+      {
+        "osm_id": "13594609049",
+        "lat": 10.31726439945475,
+        "lon": 105.885385
+      },
+      {
+        "osm_id": "13594609044",
+        "lat": 10.3175518,
+        "lon": 105.8801114
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997784002",
+        "lat": 10.43522219946158,
+        "lon": 106.29513649999998
+      },
+      {
+        "osm_id": "10997784001",
+        "lat": 10.43543619946159,
+        "lon": 106.29511159999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Cai Lậy",
+    "target_epass": "An Thái Trung",
+    "source_origin_osm_name": "Trạm Thu Phí Cai Lậy",
+    "target_origin_osm_name": "Trạm Thu phí An Thái Trung",
+    "source_booths": [
+      {
+        "osm_id": "10828855521",
+        "lat": 10.412145899460215,
+        "lon": 106.1648993
+      },
+      {
+        "osm_id": "10828855520",
+        "lat": 10.412184199460215,
+        "lon": 106.1647913
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13594609049",
+        "lat": 10.31726439945475,
+        "lon": 105.885385
+      },
+      {
+        "osm_id": "13594609044",
+        "lat": 10.3175518,
+        "lon": 105.8801114
+      }
+    ]
+  },
+  {
+    "source_epass": "Cai Lậy",
+    "target_epass": "Cái Bè",
+    "source_origin_osm_name": "Trạm Thu Phí Cai Lậy",
+    "target_origin_osm_name": "Trạm Thu Phí Cái Bè",
+    "source_booths": [
+      {
+        "osm_id": "10828855521",
+        "lat": 10.412145899460215,
+        "lon": 106.1648993
+      },
+      {
+        "osm_id": "10828855520",
+        "lat": 10.412184199460215,
+        "lon": 106.1647913
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10222717445",
+        "lat": 10.407141199459918,
+        "lon": 106.0321193
+      },
+      {
+        "osm_id": "10222717444",
+        "lat": 10.40711559945992,
+        "lon": 106.0319739
+      }
+    ]
+  },
+  {
+    "source_epass": "Cai Lậy",
+    "target_epass": "Km51",
+    "source_origin_osm_name": "Trạm Thu Phí Cai Lậy",
+    "target_origin_osm_name": "Trạm thu phí Thân Cửu Nghĩa - Km51",
+    "source_booths": [
+      {
+        "osm_id": "10828855521",
+        "lat": 10.412145899460215,
+        "lon": 106.1648993
+      },
+      {
+        "osm_id": "10828855520",
+        "lat": 10.412184199460215,
+        "lon": 106.1647913
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997784002",
+        "lat": 10.43522219946158,
+        "lon": 106.29513649999998
+      },
+      {
+        "osm_id": "10997784001",
+        "lat": 10.43543619946159,
+        "lon": 106.29511159999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Cái Bè",
+    "target_epass": "An Thái Trung",
+    "source_origin_osm_name": "Trạm Thu Phí Cái Bè",
+    "target_origin_osm_name": "Trạm Thu phí An Thái Trung",
+    "source_booths": [
+      {
+        "osm_id": "10222717445",
+        "lat": 10.407141199459918,
+        "lon": 106.0321193
+      },
+      {
+        "osm_id": "10222717444",
+        "lat": 10.40711559945992,
+        "lon": 106.0319739
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13594609049",
+        "lat": 10.31726439945475,
+        "lon": 105.885385
+      },
+      {
+        "osm_id": "13594609044",
+        "lat": 10.3175518,
+        "lon": 105.8801114
+      }
+    ]
+  },
+  {
+    "source_epass": "Cái Bè",
+    "target_epass": "Cai Lậy",
+    "source_origin_osm_name": "Trạm Thu Phí Cái Bè",
+    "target_origin_osm_name": "Trạm Thu Phí Cai Lậy",
+    "source_booths": [
+      {
+        "osm_id": "10222717445",
+        "lat": 10.407141199459918,
+        "lon": 106.0321193
+      },
+      {
+        "osm_id": "10222717444",
+        "lat": 10.40711559945992,
+        "lon": 106.0319739
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10828855521",
+        "lat": 10.412145899460215,
+        "lon": 106.1648993
+      },
+      {
+        "osm_id": "10828855520",
+        "lat": 10.412184199460215,
+        "lon": 106.1647913
+      }
+    ]
+  },
+  {
+    "source_epass": "Cái Bè",
+    "target_epass": "Km51",
+    "source_origin_osm_name": "Trạm Thu Phí Cái Bè",
+    "target_origin_osm_name": "Trạm thu phí Thân Cửu Nghĩa - Km51",
+    "source_booths": [
+      {
+        "osm_id": "10222717445",
+        "lat": 10.407141199459918,
+        "lon": 106.0321193
+      },
+      {
+        "osm_id": "10222717444",
+        "lat": 10.40711559945992,
+        "lon": 106.0319739
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997784002",
+        "lat": 10.43522219946158,
+        "lon": 106.29513649999998
+      },
+      {
+        "osm_id": "10997784001",
+        "lat": 10.43543619946159,
+        "lon": 106.29511159999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Km51",
+    "target_epass": "An Thái Trung",
+    "source_origin_osm_name": "Trạm thu phí Thân Cửu Nghĩa - Km51",
+    "target_origin_osm_name": "Trạm Thu phí An Thái Trung",
+    "source_booths": [
+      {
+        "osm_id": "10997784002",
+        "lat": 10.43522219946158,
+        "lon": 106.29513649999998
+      },
+      {
+        "osm_id": "10997784001",
+        "lat": 10.43543619946159,
+        "lon": 106.29511159999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13594609049",
+        "lat": 10.31726439945475,
+        "lon": 105.885385
+      },
+      {
+        "osm_id": "13594609044",
+        "lat": 10.3175518,
+        "lon": 105.8801114
+      }
+    ]
+  },
+  {
+    "source_epass": "Km51",
+    "target_epass": "Cai Lậy",
+    "source_origin_osm_name": "Trạm thu phí Thân Cửu Nghĩa - Km51",
+    "target_origin_osm_name": "Trạm Thu Phí Cai Lậy",
+    "source_booths": [
+      {
+        "osm_id": "10997784002",
+        "lat": 10.43522219946158,
+        "lon": 106.29513649999998
+      },
+      {
+        "osm_id": "10997784001",
+        "lat": 10.43543619946159,
+        "lon": 106.29511159999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10828855521",
+        "lat": 10.412145899460215,
+        "lon": 106.1648993
+      },
+      {
+        "osm_id": "10828855520",
+        "lat": 10.412184199460215,
+        "lon": 106.1647913
+      }
+    ]
+  },
+  {
+    "source_epass": "Km51",
+    "target_epass": "Cái Bè",
+    "source_origin_osm_name": "Trạm thu phí Thân Cửu Nghĩa - Km51",
+    "target_origin_osm_name": "Trạm Thu Phí Cái Bè",
+    "source_booths": [
+      {
+        "osm_id": "10997784002",
+        "lat": 10.43522219946158,
+        "lon": 106.29513649999998
+      },
+      {
+        "osm_id": "10997784001",
+        "lat": 10.43543619946159,
+        "lon": 106.29511159999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10222717445",
+        "lat": 10.407141199459918,
+        "lon": 106.0321193
+      },
+      {
+        "osm_id": "10222717444",
+        "lat": 10.40711559945992,
+        "lon": 106.0319739
+      }
+    ]
+  }
+]

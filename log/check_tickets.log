@@ -1,0 +1,9 @@
+=== 1. CHECK TICKET NULL OSM_ID VS CSV ===
+- All null osmId tickets have matching epass_name in CSV.
+
+=== 2. CHECK TICKET NODE VS NODES.JSON ===
+- All ticket NODE osmId exist in nodes.json.
+
+=== 3. CHECK TICKET EDGE VS EDGES.JSON ===
+- All ticket EDGE pairs exist in edges.json.
+

@@ -1,0 +1,62 @@
+[
+    {
+        "source": "Nút giao Nghi Sơn",
+        "target": "Nút giao Vạn Thiện",
+        "routeName": "Quốc Lộ 45 - Nghi Sơn",
+        "stageName": "Nút giao Nghi Sơn - Nút giao Vạn Thiện",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305917",
+        "targetOsmId": "12579076280"
+    },
+    {
+        "source": "Nút giao Nghi Sơn",
+        "target": "Nút giao Đồng Thắng",
+        "routeName": "Quốc Lộ 45 - Nghi Sơn",
+        "stageName": "Nút giao Nghi Sơn - Nút giao Đồng Thắng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305917",
+        "targetOsmId": "13603305911"
+    },
+    {
+        "source": "Nút giao Vạn Thiện",
+        "target": "Nút giao Đồng Thắng",
+        "routeName": "Quốc Lộ 45 - Nghi Sơn",
+        "stageName": "Nút giao Vạn Thiện - Nút giao Đồng Thắng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12579076280",
+        "targetOsmId": "13603305911"
+    },
+    {
+        "source": "Nút giao Vạn Thiện",
+        "target": "Nút giao Nghi Sơn",
+        "routeName": "Quốc Lộ 45 - Nghi Sơn",
+        "stageName": "Nút giao Vạn Thiện - Nút giao Nghi Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12579076280",
+        "targetOsmId": "13603305917"
+    },
+    {
+        "source": "Nút giao Đồng Thắng",
+        "target": "Nút giao Nghi Sơn",
+        "routeName": "Quốc Lộ 45 - Nghi Sơn",
+        "stageName": "Nút giao Đồng Thắng - Nút giao Nghi Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305911",
+        "targetOsmId": "13603305917"
+    },
+    {
+        "source": "Nút giao Đồng Thắng",
+        "target": "Nút giao Vạn Thiện",
+        "routeName": "Quốc Lộ 45 - Nghi Sơn",
+        "stageName": "Nút giao Đồng Thắng - Nút giao Vạn Thiện",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305911",
+        "targetOsmId": "12579076280"
+    }
+]

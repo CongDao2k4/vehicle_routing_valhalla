@@ -1,0 +1,86 @@
+[
+    {
+        "stationName": "BOT 319",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.768827299482608,
+        "longitude": 106.9229147,
+        "stationOsmId": "9754127696",
+        "incoming_edges": [
+            "Nút giao VĐ 3 - HLD (C)",
+            "NH51",
+            "Dầu Giây",
+            "Phan Thiết - Dầu Giây",
+            "Biên Hòa - Vũng Tàu",
+            "Long Phước"
+        ],
+        "outgoing_edges": [
+            "Nút giao VĐ 3 - HLD (C)",
+            "NH51",
+            "Dầu Giây",
+            "Phan Thiết - Dầu Giây",
+            "Biên Hòa - Vũng Tàu",
+            "Long Phước"
+        ]
+    },
+    {
+        "stationName": "Biên Hòa - Vũng Tàu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.7626385,
+        "longitude": 106.9742636,
+        "stationOsmId": "11596377024",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.918267652903994,
+        "longitude": 107.16401977868696,
+        "stationOsmId": "1006324193",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Long Phước",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.7858212287184,
+        "longitude": 106.85187469408388,
+        "stationOsmId": "631536968",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "NH51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.765222099482369,
+        "longitude": 106.9566699,
+        "stationOsmId": "5606336350",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao VĐ 3 - HLD (C)",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.786707199483805,
+        "longitude": 106.8309516,
+        "stationOsmId": "12462757073",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phan Thiết - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.838869899487335,
+        "longitude": 107.1480463,
+        "stationOsmId": "8579215378",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

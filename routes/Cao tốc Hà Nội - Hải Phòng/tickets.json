@@ -1,0 +1,1570 @@
+[
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+            "Nút giao tỉnh lộ 353"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 11753,
+                        "feeType2": 16787,
+                        "feeType3": 22384,
+                        "feeType4": 35819,
+                        "feeType5": 72423
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13956682360",
+            "8544582973"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+            "Nút giao tỉnh lộ 392"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 135721,
+                        "feeType2": 193840,
+                        "feeType3": 258475,
+                        "feeType4": 413613,
+                        "feeType5": 533208
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13956682360",
+            "11946078822"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+            "QL 10"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 56231,
+                        "feeType2": 80310,
+                        "feeType3": 107089,
+                        "feeType4": 171365,
+                        "feeType5": 247162
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13956682360",
+            "1483838042"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+            "QL 38"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 151846,
+                        "feeType2": 216870,
+                        "feeType3": 289184,
+                        "feeType4": 462754,
+                        "feeType5": 596558
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13956682360",
+            "12600009197"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+            "QL 38B"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 113699,
+                        "feeType2": 162387,
+                        "feeType3": 216535,
+                        "feeType4": 346500,
+                        "feeType5": 446689
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13956682360",
+            "5930290765"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+            "QL 39"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 171600,
+                        "feeType2": 245083,
+                        "feeType3": 326805,
+                        "feeType4": 522954,
+                        "feeType5": 674165
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13956682360",
+            "4686546644"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+            "Đầu Tuyến"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 215974,
+                        "feeType2": 308459,
+                        "feeType3": 411314,
+                        "feeType4": 658186,
+                        "feeType5": 848499
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13956682360",
+            "1324667567"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 353",
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 11753,
+                        "feeType2": 16787,
+                        "feeType3": 22384,
+                        "feeType4": 35819,
+                        "feeType5": 72423
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8544582973",
+            "13956682360"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 353",
+            "Nút giao tỉnh lộ 392"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 117280,
+                        "feeType2": 167503,
+                        "feeType3": 223356,
+                        "feeType4": 357415,
+                        "feeType5": 460761
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8544582973",
+            "11946078822"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 353",
+            "QL 10"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44471,
+                        "feeType2": 63515,
+                        "feeType3": 84694,
+                        "feeType4": 135527,
+                        "feeType5": 174714
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8544582973",
+            "1483838042"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 353",
+            "QL 38"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 133411,
+                        "feeType2": 190542,
+                        "feeType3": 254077,
+                        "feeType4": 406575,
+                        "feeType5": 524135
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8544582973",
+            "12600009197"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 353",
+            "QL 38B"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 95258,
+                        "feeType2": 136050,
+                        "feeType3": 181416,
+                        "feeType4": 290302,
+                        "feeType5": 374242
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8544582973",
+            "5930290765"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 353",
+            "QL 39"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 153153,
+                        "feeType2": 218737,
+                        "feeType3": 291674,
+                        "feeType4": 466738,
+                        "feeType5": 601694
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8544582973",
+            "4686546644"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 353",
+            "Đầu Tuyến"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 197533,
+                        "feeType2": 282122,
+                        "feeType3": 376195,
+                        "feeType4": 601988,
+                        "feeType5": 776051
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "8544582973",
+            "1324667567"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 392",
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 135721,
+                        "feeType2": 193840,
+                        "feeType3": 258475,
+                        "feeType4": 413613,
+                        "feeType5": 533208
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11946078822",
+            "13956682360"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 392",
+            "Nút giao tỉnh lộ 353"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 117280,
+                        "feeType2": 167503,
+                        "feeType3": 223356,
+                        "feeType4": 357415,
+                        "feeType5": 460761
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11946078822",
+            "8544582973"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 392",
+            "QL 10"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 72809,
+                        "feeType2": 103988,
+                        "feeType3": 138662,
+                        "feeType4": 221888,
+                        "feeType5": 286046
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11946078822",
+            "1483838042"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 392",
+            "QL 38"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 16125,
+                        "feeType2": 23030,
+                        "feeType3": 30709,
+                        "feeType4": 49141,
+                        "feeType5": 63350
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11946078822",
+            "12600009197"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 392",
+            "QL 38B"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 22022,
+                        "feeType2": 31453,
+                        "feeType3": 41940,
+                        "feeType4": 67113,
+                        "feeType5": 86519
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11946078822",
+            "5930290765"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 392",
+            "QL 39"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 35879,
+                        "feeType2": 51243,
+                        "feeType3": 68330,
+                        "feeType4": 109342,
+                        "feeType5": 140957
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11946078822",
+            "4686546644"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao tỉnh lộ 392",
+            "Đầu Tuyến"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 80253,
+                        "feeType2": 114619,
+                        "feeType3": 152839,
+                        "feeType4": 244573,
+                        "feeType5": 315291
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11946078822",
+            "1324667567"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 10",
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 56231,
+                        "feeType2": 80310,
+                        "feeType3": 107089,
+                        "feeType4": 171365,
+                        "feeType5": 247162
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1483838042",
+            "13956682360"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 10",
+            "Nút giao tỉnh lộ 353"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44471,
+                        "feeType2": 63515,
+                        "feeType3": 84694,
+                        "feeType4": 135527,
+                        "feeType5": 174714
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1483838042",
+            "8544582973"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 10",
+            "Nút giao tỉnh lộ 392"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 72809,
+                        "feeType2": 103988,
+                        "feeType3": 138662,
+                        "feeType4": 221888,
+                        "feeType5": 286046
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1483838042",
+            "11946078822"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 10",
+            "QL 38"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 88934,
+                        "feeType2": 127018,
+                        "feeType3": 169372,
+                        "feeType4": 271029,
+                        "feeType5": 349396
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1483838042",
+            "12600009197"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 10",
+            "QL 38B"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 50787,
+                        "feeType2": 72535,
+                        "feeType3": 96722,
+                        "feeType4": 154775,
+                        "feeType5": 199528
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1483838042",
+            "5930290765"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 10",
+            "QL 39"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 108682,
+                        "feeType2": 155222,
+                        "feeType3": 206980,
+                        "feeType4": 331211,
+                        "feeType5": 426979
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1483838042",
+            "4686546644"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 10",
+            "Đầu Tuyến"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 153062,
+                        "feeType2": 218607,
+                        "feeType3": 291501,
+                        "feeType4": 466461,
+                        "feeType5": 601337
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1483838042",
+            "1324667567"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38",
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 151846,
+                        "feeType2": 216870,
+                        "feeType3": 289184,
+                        "feeType4": 462754,
+                        "feeType5": 596558
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12600009197",
+            "13956682360"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38",
+            "Nút giao tỉnh lộ 353"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 133411,
+                        "feeType2": 190542,
+                        "feeType3": 254077,
+                        "feeType4": 406575,
+                        "feeType5": 524135
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12600009197",
+            "8544582973"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38",
+            "Nút giao tỉnh lộ 392"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 16125,
+                        "feeType2": 23030,
+                        "feeType3": 30709,
+                        "feeType4": 49141,
+                        "feeType5": 63350
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12600009197",
+            "11946078822"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38",
+            "QL 10"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 88934,
+                        "feeType2": 127018,
+                        "feeType3": 169372,
+                        "feeType4": 271029,
+                        "feeType5": 349396
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12600009197",
+            "1483838042"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38",
+            "QL 38B"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 38147,
+                        "feeType2": 54483,
+                        "feeType3": 72650,
+                        "feeType4": 116254,
+                        "feeType5": 149869
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12600009197",
+            "5930290765"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38",
+            "QL 39"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 19754,
+                        "feeType2": 28213,
+                        "feeType3": 37621,
+                        "feeType4": 60201,
+                        "feeType5": 77608
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12600009197",
+            "4686546644"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38",
+            "Đầu Tuyến"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 64128,
+                        "feeType2": 91590,
+                        "feeType3": 122130,
+                        "feeType4": 195432,
+                        "feeType5": 251941
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12600009197",
+            "1324667567"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38B",
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 113699,
+                        "feeType2": 162387,
+                        "feeType3": 216535,
+                        "feeType4": 346500,
+                        "feeType5": 446689
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "5930290765",
+            "13956682360"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38B",
+            "Nút giao tỉnh lộ 353"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 95258,
+                        "feeType2": 136050,
+                        "feeType3": 181416,
+                        "feeType4": 290302,
+                        "feeType5": 374242
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "5930290765",
+            "8544582973"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38B",
+            "Nút giao tỉnh lộ 392"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 22022,
+                        "feeType2": 31453,
+                        "feeType3": 41940,
+                        "feeType4": 67113,
+                        "feeType5": 86519
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "5930290765",
+            "11946078822"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38B",
+            "QL 10"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 50787,
+                        "feeType2": 72535,
+                        "feeType3": 96722,
+                        "feeType4": 154775,
+                        "feeType5": 199528
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "5930290765",
+            "1483838042"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38B",
+            "QL 38"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 38147,
+                        "feeType2": 54483,
+                        "feeType3": 72650,
+                        "feeType4": 116254,
+                        "feeType5": 149869
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "5930290765",
+            "12600009197"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38B",
+            "QL 39"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 57895,
+                        "feeType2": 82687,
+                        "feeType3": 110258,
+                        "feeType4": 176436,
+                        "feeType5": 227452
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "5930290765",
+            "4686546644"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 38B",
+            "Đầu Tuyến"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 102275,
+                        "feeType2": 146072,
+                        "feeType3": 194779,
+                        "feeType4": 311686,
+                        "feeType5": 401810
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "5930290765",
+            "1324667567"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 39",
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 171600,
+                        "feeType2": 245083,
+                        "feeType3": 326805,
+                        "feeType4": 522954,
+                        "feeType5": 674165
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "4686546644",
+            "13956682360"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 39",
+            "Nút giao tỉnh lộ 353"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 153153,
+                        "feeType2": 218737,
+                        "feeType3": 291674,
+                        "feeType4": 466738,
+                        "feeType5": 601694
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "4686546644",
+            "8544582973"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 39",
+            "Nút giao tỉnh lộ 392"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 35879,
+                        "feeType2": 51243,
+                        "feeType3": 68330,
+                        "feeType4": 109342,
+                        "feeType5": 140957
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "4686546644",
+            "11946078822"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 39",
+            "QL 10"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 108682,
+                        "feeType2": 155222,
+                        "feeType3": 206980,
+                        "feeType4": 331211,
+                        "feeType5": 426979
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "4686546644",
+            "1483838042"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 39",
+            "QL 38"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 19754,
+                        "feeType2": 28213,
+                        "feeType3": 37621,
+                        "feeType4": 60201,
+                        "feeType5": 77608
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "4686546644",
+            "12600009197"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 39",
+            "QL 38B"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 57895,
+                        "feeType2": 82687,
+                        "feeType3": 110258,
+                        "feeType4": 176436,
+                        "feeType5": 227452
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "4686546644",
+            "5930290765"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "QL 39",
+            "Đầu Tuyến"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44380,
+                        "feeType2": 63385,
+                        "feeType3": 84521,
+                        "feeType4": 135251,
+                        "feeType5": 174358
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "4686546644",
+            "1324667567"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Đầu Tuyến",
+            "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 215974,
+                        "feeType2": 308459,
+                        "feeType3": 411314,
+                        "feeType4": 658186,
+                        "feeType5": 848499
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1324667567",
+            "13956682360"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Đầu Tuyến",
+            "Nút giao tỉnh lộ 392"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 80253,
+                        "feeType2": 114619,
+                        "feeType3": 152839,
+                        "feeType4": 244573,
+                        "feeType5": 315291
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1324667567",
+            "11946078822"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Đầu Tuyến",
+            "QL 10"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 153062,
+                        "feeType2": 218607,
+                        "feeType3": 291501,
+                        "feeType4": 466461,
+                        "feeType5": 601337
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1324667567",
+            "1483838042"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Đầu Tuyến",
+            "QL 38"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 64128,
+                        "feeType2": 91590,
+                        "feeType3": 122130,
+                        "feeType4": 195432,
+                        "feeType5": 251941
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1324667567",
+            "12600009197"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Đầu Tuyến",
+            "QL 38B"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 102275,
+                        "feeType2": 146072,
+                        "feeType3": 194779,
+                        "feeType4": 311686,
+                        "feeType5": 401810
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1324667567",
+            "5930290765"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Đầu Tuyến",
+            "QL 39"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44380,
+                        "feeType2": 63385,
+                        "feeType3": 84521,
+                        "feeType4": 135251,
+                        "feeType5": 174358
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1324667567",
+            "4686546644"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Đầu Tuyến",
+            "Nút giao tỉnh lộ 353"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 197533,
+                        "feeType2": 282122,
+                        "feeType3": 376195,
+                        "feeType4": 601988,
+                        "feeType5": 776051
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1324667567",
+            "8544582973"
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "source_epass": "Nút giao Nghi Sơn",
+    "target_epass": "Nút giao Vạn Thiện",
+    "source_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "target_origin_osm_name": "Trạm Thu Phí Vạn Thiện ( Nhánh 2 )",
+    "source_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12579076271",
+        "lat": 19.61210130035285,
+        "lon": 105.6714022
+      },
+      {
+        "osm_id": "12579076280",
+        "lat": 19.612087200352853,
+        "lon": 105.67130589999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Nghi Sơn",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Vạn Thiện",
+    "target_epass": "Nút giao Đồng Thắng",
+    "source_origin_osm_name": "Trạm Thu Phí Vạn Thiện ( Nhánh 2 )",
+    "target_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "source_booths": [
+      {
+        "osm_id": "12579076271",
+        "lat": 19.61210130035285,
+        "lon": 105.6714022
+      },
+      {
+        "osm_id": "12579076280",
+        "lat": 19.612087200352853,
+        "lon": 105.67130589999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Vạn Thiện",
+    "target_epass": "Nút giao Nghi Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Vạn Thiện ( Nhánh 2 )",
+    "target_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "source_booths": [
+      {
+        "osm_id": "12579076271",
+        "lat": 19.61210130035285,
+        "lon": 105.6714022
+      },
+      {
+        "osm_id": "12579076280",
+        "lat": 19.612087200352853,
+        "lon": 105.67130589999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Nghi Sơn",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm thu phí BOT Nút giao Nghi Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13603305917",
+        "lat": 19.36475370033841,
+        "lon": 105.6952887
+      },
+      {
+        "osm_id": "4713812586",
+        "lat": 19.36520160033844,
+        "lon": 105.6945974
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao Đồng Thắng",
+    "target_epass": "Nút giao Vạn Thiện",
+    "source_origin_osm_name": "Trạm Thu Phí Nút giao Đồng Thắng",
+    "target_origin_osm_name": "Trạm Thu Phí Vạn Thiện ( Nhánh 2 )",
+    "source_booths": [
+      {
+        "osm_id": "13603305911",
+        "lat": 19.75857320036069,
+        "lon": 105.6693109
+      },
+      {
+        "osm_id": "13603305912",
+        "lat": 19.75846430036069,
+        "lon": 105.66925109999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12579076271",
+        "lat": 19.61210130035285,
+        "lon": 105.6714022
+      },
+      {
+        "osm_id": "12579076280",
+        "lat": 19.612087200352853,
+        "lon": 105.67130589999998
+      }
+    ]
+  }
+]

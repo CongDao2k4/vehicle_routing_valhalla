@@ -1,0 +1,426 @@
+[
+    {
+        "source": "Nút giao QL1A",
+        "target": "Nút giao QL55",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL1A - Nút giao QL55",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949978",
+        "targetOsmId": "11813154464"
+    },
+    {
+        "source": "Nút giao QL1A",
+        "target": "Nút giao QL56",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL1A - Nút giao QL56",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949978",
+        "targetOsmId": "13457949977"
+    },
+    {
+        "source": "Nút giao QL1A",
+        "target": "Nút giao TL720",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL1A - Nút giao TL720",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949978",
+        "targetOsmId": "13594672354"
+    },
+    {
+        "source": "Nút giao QL1A",
+        "target": "Nút giao TL765",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL1A - Nút giao TL765",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949978",
+        "targetOsmId": "11304967566"
+    },
+    {
+        "source": "Nút giao QL1A",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL1A - Phan Thiết - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949978",
+        "targetOsmId": "8579215378"
+    },
+    {
+        "source": "Nút giao QL55",
+        "target": "Nút giao QL1A",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL55 - Nút giao QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11813154464",
+        "targetOsmId": "13457949978"
+    },
+    {
+        "source": "Nút giao QL55",
+        "target": "Nút giao QL56",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL55 - Nút giao QL56",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11813154464",
+        "targetOsmId": "13457949977"
+    },
+    {
+        "source": "Nút giao QL55",
+        "target": "Nút giao TL720",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL55 - Nút giao TL720",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11813154464",
+        "targetOsmId": "13594672354"
+    },
+    {
+        "source": "Nút giao QL55",
+        "target": "Nút giao TL765",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL55 - Nút giao TL765",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11813154464",
+        "targetOsmId": "11304967566"
+    },
+    {
+        "source": "Nút giao QL55",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL55 - Phan Thiết - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11813154464",
+        "targetOsmId": "8579215378"
+    },
+    {
+        "source": "Nút giao QL56",
+        "target": "Nút giao QL1A",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL56 - Nút giao QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949977",
+        "targetOsmId": "13457949978"
+    },
+    {
+        "source": "Nút giao QL56",
+        "target": "Nút giao QL55",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL56 - Nút giao QL55",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949977",
+        "targetOsmId": "11813154464"
+    },
+    {
+        "source": "Nút giao QL56",
+        "target": "Nút giao TL720",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL56 - Nút giao TL720",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949977",
+        "targetOsmId": "13594672354"
+    },
+    {
+        "source": "Nút giao QL56",
+        "target": "Nút giao TL765",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL56 - Nút giao TL765",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949977",
+        "targetOsmId": "11304967566"
+    },
+    {
+        "source": "Nút giao QL56",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL56 - Phan Thiết - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949977",
+        "targetOsmId": "8579215378"
+    },
+    {
+        "source": "Nút giao TL720",
+        "target": "Nút giao QL1A",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL720 - Nút giao QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672354",
+        "targetOsmId": "13457949978"
+    },
+    {
+        "source": "Nút giao TL720",
+        "target": "Nút giao QL55",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL720 - Nút giao QL55",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672354",
+        "targetOsmId": "11813154464"
+    },
+    {
+        "source": "Nút giao TL720",
+        "target": "Nút giao QL56",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL720 - Nút giao QL56",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672354",
+        "targetOsmId": "13457949977"
+    },
+    {
+        "source": "Nút giao TL720",
+        "target": "Nút giao TL765",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL720 - Nút giao TL765",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672354",
+        "targetOsmId": "11304967566"
+    },
+    {
+        "source": "Nút giao TL720",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL720 - Phan Thiết - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672354",
+        "targetOsmId": "8579215378"
+    },
+    {
+        "source": "Nút giao TL765",
+        "target": "Nút giao QL1A",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL765 - Nút giao QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11304967566",
+        "targetOsmId": "13457949978"
+    },
+    {
+        "source": "Nút giao TL765",
+        "target": "Nút giao QL55",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL765 - Nút giao QL55",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11304967566",
+        "targetOsmId": "11813154464"
+    },
+    {
+        "source": "Nút giao TL765",
+        "target": "Nút giao QL56",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL765 - Nút giao QL56",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11304967566",
+        "targetOsmId": "13457949977"
+    },
+    {
+        "source": "Nút giao TL765",
+        "target": "Nút giao TL720",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL765 - Nút giao TL720",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11304967566",
+        "targetOsmId": "13594672354"
+    },
+    {
+        "source": "Nút giao TL765",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL765 - Phan Thiết - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11304967566",
+        "targetOsmId": "8579215378"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "Nút giao QL1A",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Phan Thiết - Dầu Giây - Nút giao QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "13457949978"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "Nút giao QL55",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Phan Thiết - Dầu Giây - Nút giao QL55",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "11813154464"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "Nút giao QL56",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Phan Thiết - Dầu Giây - Nút giao QL56",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "13457949977"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "Nút giao TL720",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Phan Thiết - Dầu Giây - Nút giao TL720",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "13594672354"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "Nút giao TL765",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Phan Thiết - Dầu Giây - Nút giao TL765",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "11304967566"
+    },
+
+
+    {
+        "source": "Nút giao Phan Thiết",
+        "target": "Nút giao QL1A",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao Phan Thiết - Nút giao QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672376",
+        "targetOsmId": "13457949978"
+    },
+    {
+        "source": "Nút giao Phan Thiết",
+        "target": "Nút giao QL55",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao Phan Thiết - Nút giao QL55",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672376",
+        "targetOsmId": "11813154464"
+    },
+    {
+        "source": "Nút giao Phan Thiết",
+        "target": "Nút giao QL56",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao Phan Thiết - Nút giao QL56",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672376",
+        "targetOsmId": "13457949977"
+    },
+    {
+        "source": "Nút giao Phan Thiết",
+        "target": "Nút giao TL720",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao Phan Thiết - Nút giao TL720",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672376",
+        "targetOsmId": "13594672354"
+    },
+    {
+        "source": "Nút giao Phan Thiết",
+        "target": "Nút giao TL765",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao Phan Thiết - Nút giao TL765",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672376",
+        "targetOsmId": "11304967566"
+    },
+    {
+        "source": "Nút giao Phan Thiết",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao Phan Thiết - Phan Thiết - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672376",
+        "targetOsmId": "8579215378"
+    },
+
+
+    {
+        "source": "Nút giao QL1A",
+        "target": "Nút giao Phan Thiết",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL1A - Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949978",
+        "targetOsmId": "13594672376"
+    },
+    {
+        "source": "Nút giao QL55",
+        "target": "Nút giao Phan Thiết",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL55 - Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11813154464",
+        "targetOsmId": "13594672376"
+    },
+    {
+        "source": "Nút giao QL56",
+        "target": "Nút giao Phan Thiết",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao QL56 - Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13457949977",
+        "targetOsmId": "13594672376"
+    },
+    {
+        "source": "Nút giao TL720",
+        "target": "Nút giao Phan Thiết",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL720 - Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672354",
+        "targetOsmId": "13594672376"
+    },
+    {
+        "source": "Nút giao TL765",
+        "target": "Nút giao Phan Thiết",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Nút giao TL765 - Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11304967566",
+        "targetOsmId": "13594672376"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "Nút giao Phan Thiết",
+        "routeName": "Phan Thiết - Dầu Giây",
+        "stageName": "Phan Thiết - Dầu Giây - Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "13594672376"
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Diễn Cát",
+            "Nút giao Nghi Sơn"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44775,
+                        "feeType2": 67163,
+                        "feeType3": 89550,
+                        "feeType4": 111938,
+                        "feeType5": 179100
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305927",
+            "13603305917"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Diễn Cát",
+            "Nút giao Quỳnh Lưu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 21330,
+                        "feeType2": 31995,
+                        "feeType3": 42660,
+                        "feeType4": 53325,
+                        "feeType5": 85320
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305927",
+            "13603305920"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Diễn Cát",
+            "Nút giao Quỳnh Vinh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 35100,
+                        "feeType2": 52650,
+                        "feeType3": 70200,
+                        "feeType4": 87750,
+                        "feeType5": 140400
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305927",
+            "13603305924"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Nghi Sơn",
+            "Nút giao Diễn Cát"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44775,
+                        "feeType2": 67163,
+                        "feeType3": 89550,
+                        "feeType4": 111938,
+                        "feeType5": 179100
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305917",
+            "13603305927"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Nghi Sơn",
+            "Nút giao Quỳnh Lưu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 23445,
+                        "feeType2": 35168,
+                        "feeType3": 46890,
+                        "feeType4": 58613,
+                        "feeType5": 93780
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305917",
+            "13603305920"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Nghi Sơn",
+            "Nút giao Quỳnh Vinh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 9675,
+                        "feeType2": 14513,
+                        "feeType3": 19350,
+                        "feeType4": 24188,
+                        "feeType5": 38700
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305917",
+            "13603305924"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Quỳnh Lưu",
+            "Nút giao Diễn Cát"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 21330,
+                        "feeType2": 31995,
+                        "feeType3": 42660,
+                        "feeType4": 53325,
+                        "feeType5": 85320
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305920",
+            "13603305927"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Quỳnh Lưu",
+            "Nút giao Nghi Sơn"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 23445,
+                        "feeType2": 35168,
+                        "feeType3": 46890,
+                        "feeType4": 58613,
+                        "feeType5": 93780
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305920",
+            "13603305917"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Quỳnh Lưu",
+            "Nút giao Quỳnh Vinh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 13770,
+                        "feeType2": 20655,
+                        "feeType3": 27540,
+                        "feeType4": 34425,
+                        "feeType5": 55080
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305920",
+            "13603305924"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Quỳnh Vinh",
+            "Nút giao Diễn Cát"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 35100,
+                        "feeType2": 52650,
+                        "feeType3": 70200,
+                        "feeType4": 87750,
+                        "feeType5": 140400
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305924",
+            "13603305927"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Quỳnh Vinh",
+            "Nút giao Nghi Sơn"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 9675,
+                        "feeType2": 14513,
+                        "feeType3": 19350,
+                        "feeType4": 24188,
+                        "feeType5": 38700
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305924",
+            "13603305917"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Quỳnh Vinh",
+            "Nút giao Quỳnh Lưu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 13770,
+                        "feeType2": 20655,
+                        "feeType3": 27540,
+                        "feeType4": 34425,
+                        "feeType5": 55080
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13603305924",
+            "13603305920"
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "source": "Hải Hà",
+        "target": "Móng Cái",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Hải Hà - Móng Cái",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10997783392",
+        "targetOsmId": "1483440873"
+    },
+    {
+        "source": "Hải Hà",
+        "target": "Tiên Yên",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Hải Hà - Tiên Yên",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10997783392",
+        "targetOsmId": "1483440868"
+    },
+    {
+        "source": "Hải Hà",
+        "target": "Đầm Hà",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Hải Hà - Đầm Hà",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10997783392",
+        "targetOsmId": "1483440869"
+    },
+    {
+        "source": "Móng Cái",
+        "target": "Hải Hà",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Móng Cái - Hải Hà",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483440873",
+        "targetOsmId": "10997783392"
+    },
+    {
+        "source": "Móng Cái",
+        "target": "Tiên Yên",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Móng Cái - Tiên Yên",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483440873",
+        "targetOsmId": "1483440868"
+    },
+    {
+        "source": "Móng Cái",
+        "target": "Đầm Hà",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Móng Cái - Đầm Hà",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483440873",
+        "targetOsmId": "1483440869"
+    },
+    {
+        "source": "Tiên Yên",
+        "target": "Hải Hà",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Tiên Yên - Hải Hà",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483440868",
+        "targetOsmId": "10997783392"
+    },
+    {
+        "source": "Tiên Yên",
+        "target": "Móng Cái",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Tiên Yên - Móng Cái",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483440868",
+        "targetOsmId": "1483440873"
+    },
+    {
+        "source": "Tiên Yên",
+        "target": "Đầm Hà",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Tiên Yên - Đầm Hà",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483440868",
+        "targetOsmId": "1483440869"
+    },
+    {
+        "source": "Đầm Hà",
+        "target": "Hải Hà",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Đầm Hà - Hải Hà",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483440869",
+        "targetOsmId": "10997783392"
+    },
+    {
+        "source": "Đầm Hà",
+        "target": "Móng Cái",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Đầm Hà - Móng Cái",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483440869",
+        "targetOsmId": "1483440873"
+    },
+    {
+        "source": "Đầm Hà",
+        "target": "Tiên Yên",
+        "routeName": "Tiên Yên - Móng Cái",
+        "stageName": "Đầm Hà - Tiên Yên",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483440869",
+        "targetOsmId": "1483440868"
+    }
+]

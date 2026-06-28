@@ -1,0 +1,1622 @@
+[
+  {
+    "source_epass": "BOT 319",
+    "target_epass": "Biên Hòa - Vũng Tàu",
+    "source_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "target_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "source_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ]
+  },
+  {
+    "source_epass": "BOT 319",
+    "target_epass": "Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "target_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ]
+  },
+  {
+    "source_epass": "BOT 319",
+    "target_epass": "Long Phước",
+    "source_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "target_origin_osm_name": "Trạm Thu phí Long Phước",
+    "source_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ]
+  },
+  {
+    "source_epass": "BOT 319",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "source_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ]
+  },
+  {
+    "source_epass": "BOT 319",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ]
+  },
+  {
+    "source_epass": "BOT 319",
+    "target_epass": "Nút giao VĐ 3 - HLD (C)",
+    "source_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "target_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "source_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ]
+  },
+  {
+    "source_epass": "BOT 319",
+    "target_epass": "Phan Thiết - Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "target_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ]
+  },
+  {
+    "source_epass": "Biên Hòa - Vũng Tàu",
+    "target_epass": "BOT 319",
+    "source_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "target_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "source_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ]
+  },
+  {
+    "source_epass": "Biên Hòa - Vũng Tàu",
+    "target_epass": "Dầu Giây",
+    "source_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "target_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ]
+  },
+  {
+    "source_epass": "Biên Hòa - Vũng Tàu",
+    "target_epass": "Long Phước",
+    "source_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "target_origin_osm_name": "Trạm Thu phí Long Phước",
+    "source_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ]
+  },
+  {
+    "source_epass": "Biên Hòa - Vũng Tàu",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "source_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ]
+  },
+  {
+    "source_epass": "Biên Hòa - Vũng Tàu",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ]
+  },
+  {
+    "source_epass": "Biên Hòa - Vũng Tàu",
+    "target_epass": "Nút giao VĐ 3 - HLD (C)",
+    "source_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "target_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "source_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ]
+  },
+  {
+    "source_epass": "Biên Hòa - Vũng Tàu",
+    "target_epass": "Phan Thiết - Dầu Giây",
+    "source_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "target_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ]
+  },
+  {
+    "source_epass": "Dầu Giây",
+    "target_epass": "Phan Thiết - Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ]
+  },
+  {
+    "source_epass": "Dầu Giây",
+    "target_epass": "BOT 319",
+    "source_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "source_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ]
+  },
+  {
+    "source_epass": "Dầu Giây",
+    "target_epass": "Biên Hòa - Vũng Tàu",
+    "source_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "target_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "source_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ]
+  },
+  {
+    "source_epass": "Dầu Giây",
+    "target_epass": "Long Phước",
+    "source_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu phí Long Phước",
+    "source_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ]
+  },
+  {
+    "source_epass": "Dầu Giây",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "source_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ]
+  },
+  {
+    "source_epass": "Dầu Giây",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ]
+  },
+  {
+    "source_epass": "Dầu Giây",
+    "target_epass": "Nút giao VĐ 3 - HLD (C)",
+    "source_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "source_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ]
+  },
+  {
+    "source_epass": "Long Phước",
+    "target_epass": "BOT 319",
+    "source_origin_osm_name": "Trạm Thu phí Long Phước",
+    "target_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "source_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ]
+  },
+  {
+    "source_epass": "Long Phước",
+    "target_epass": "Biên Hòa - Vũng Tàu",
+    "source_origin_osm_name": "Trạm Thu phí Long Phước",
+    "target_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "source_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ]
+  },
+  {
+    "source_epass": "Long Phước",
+    "target_epass": "Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu phí Long Phước",
+    "target_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ]
+  },
+  {
+    "source_epass": "Long Phước",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Trạm Thu phí Long Phước",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "source_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ]
+  },
+  {
+    "source_epass": "Long Phước",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Trạm Thu phí Long Phước",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ]
+  },
+  {
+    "source_epass": "Long Phước",
+    "target_epass": "Phan Thiết - Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu phí Long Phước",
+    "target_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "BOT 319",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "target_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "source_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "BOT 319",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "source_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "Biên Hòa - Vũng Tàu",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "target_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "source_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "Biên Hòa - Vũng Tàu",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "target_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "source_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "target_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "Long Phước",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "target_origin_osm_name": "Trạm Thu phí Long Phước",
+    "source_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "Long Phước",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "target_origin_osm_name": "Trạm Thu phí Long Phước",
+    "source_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "Nút giao VĐ 3 - HLD (C)",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "target_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "source_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "Nút giao VĐ 3 - HLD (C)",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "target_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "source_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "Phan Thiết - Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "target_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ]
+  },
+  {
+    "source_epass": "NH51",
+    "target_epass": "Phan Thiết - Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "target_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao VĐ 3 - HLD (C)",
+    "target_epass": "BOT 319",
+    "source_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "target_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "source_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao VĐ 3 - HLD (C)",
+    "target_epass": "Biên Hòa - Vũng Tàu",
+    "source_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "target_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "source_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao VĐ 3 - HLD (C)",
+    "target_epass": "Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "target_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao VĐ 3 - HLD (C)",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "source_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao VĐ 3 - HLD (C)",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ]
+  },
+  {
+    "source_epass": "Nút giao VĐ 3 - HLD (C)",
+    "target_epass": "Phan Thiết - Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "target_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ]
+  },
+  {
+    "source_epass": "Phan Thiết - Dầu Giây",
+    "target_epass": "BOT 319",
+    "source_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu Phí BOT 319",
+    "source_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "9754127696.0",
+        "lat": 10.768827299482608,
+        "lon": 106.9229147
+      },
+      {
+        "osm_id": "9754127695.0",
+        "lat": 10.7687072994826,
+        "lon": 106.9229737
+      }
+    ]
+  },
+  {
+    "source_epass": "Phan Thiết - Dầu Giây",
+    "target_epass": "Biên Hòa - Vũng Tàu",
+    "source_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "target_origin_osm_name": "Nút giao Long Thành cao tốc Biên Hòa – Vũng Tàu",
+    "source_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11596377024.0",
+        "lat": 10.762638499482192,
+        "lon": 106.9742636
+      },
+      {
+        "osm_id": "13906819840.0",
+        "lat": 10.7568264,
+        "lon": 106.9785748
+      }
+    ]
+  },
+  {
+    "source_epass": "Phan Thiết - Dầu Giây",
+    "target_epass": "Dầu Giây",
+    "source_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu Phí Dầu Giây",
+    "source_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6425303962.0",
+        "lat": 10.91827129949283,
+        "lon": 107.16390959999998
+      },
+      {
+        "osm_id": "6425303961.0",
+        "lat": 10.918226499492826,
+        "lon": 107.1641296
+      }
+    ]
+  },
+  {
+    "source_epass": "Phan Thiết - Dầu Giây",
+    "target_epass": "Long Phước",
+    "source_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu phí Long Phước",
+    "source_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2592845362.0",
+        "lat": 10.785677799483736,
+        "lon": 106.8518841
+      },
+      {
+        "osm_id": "2592830364.0",
+        "lat": 10.785995299483757,
+        "lon": 106.8518784
+      }
+    ]
+  },
+  {
+    "source_epass": "Phan Thiết - Dầu Giây",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51",
+    "source_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5606336350.0",
+        "lat": 10.765222099482369,
+        "lon": 106.9566699
+      },
+      {
+        "osm_id": "9249544956.0",
+        "lat": 10.765030099482354,
+        "lon": 106.9574637
+      },
+      {
+        "osm_id": "5606335895.0",
+        "lat": 10.7657864,
+        "lon": 106.9564618
+      }
+    ]
+  },
+  {
+    "source_epass": "Phan Thiết - Dầu Giây",
+    "target_epass": "NH51",
+    "source_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 51 - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "2976056988.0",
+        "lat": 10.7656604,
+        "lon": 106.9617237
+      },
+      {
+        "osm_id": "5964362021.0",
+        "lat": 10.7650961,
+        "lon": 106.9619405
+      }
+    ]
+  },
+  {
+    "source_epass": "Phan Thiết - Dầu Giây",
+    "target_epass": "Nút giao VĐ 3 - HLD (C)",
+    "source_origin_osm_name": "Trạm Thu phí Đường Cao tốc Phan Thiết- Dầu Giây",
+    "target_origin_osm_name": "Trạm Thu phí Vành Đai 3",
+    "source_booths": [
+      {
+        "osm_id": "8579215378.0",
+        "lat": 10.838869899487335,
+        "lon": 107.1480463
+      },
+      {
+        "osm_id": "8579215313.0",
+        "lat": 10.83905099948735,
+        "lon": 107.1480506
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12462757073.0",
+        "lat": 10.786707199483804,
+        "lon": 106.8309516
+      },
+      {
+        "osm_id": "12462757074.0",
+        "lat": 10.786742399483805,
+        "lon": 106.8307775
+      }
+    ]
+  }
+]

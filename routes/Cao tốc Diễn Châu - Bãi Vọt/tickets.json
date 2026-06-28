@@ -1,0 +1,338 @@
+[
+    {
+        "refType": "EDGE",
+        "refId": [
+            "KM430+500",
+            "Nút giao Nghi Phương"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 26305,
+                        "feeType2": 34196,
+                        "feeType3": 44718,
+                        "feeType4": 71023,
+                        "feeType5": 99959
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13906136880",
+            "11938173243"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "KM430+500",
+            "Nút giao QL46B"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 48070,
+                        "feeType2": 62491,
+                        "feeType3": 81719,
+                        "feeType4": 129789,
+                        "feeType5": 182665
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13906136880",
+            "12450564745"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "KM430+500",
+            "Nút giao QL8A"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 82286,
+                        "feeType2": 106972,
+                        "feeType3": 139887,
+                        "feeType4": 222173,
+                        "feeType5": 312687
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13906136880",
+            "12600009196"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Nghi Phương",
+            "KM430+500"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 26305,
+                        "feeType2": 34196,
+                        "feeType3": 44718,
+                        "feeType4": 71023,
+                        "feeType5": 99959
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11938173243",
+            "13906136880"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Nghi Phương",
+            "Nút giao QL46B"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 21765,
+                        "feeType2": 28294,
+                        "feeType3": 37000,
+                        "feeType4": 58765,
+                        "feeType5": 82707
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11938173243",
+            "12450564745"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Nghi Phương",
+            "Nút giao QL8A"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 55981,
+                        "feeType2": 72776,
+                        "feeType3": 95168,
+                        "feeType4": 151150,
+                        "feeType5": 212729
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11938173243",
+            "12600009196"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL46B",
+            "KM430+500"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 48070,
+                        "feeType2": 62491,
+                        "feeType3": 81719,
+                        "feeType4": 129789,
+                        "feeType5": 182665
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12450564745",
+            "13906136880"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL46B",
+            "Nút giao Nghi Phương"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 21765,
+                        "feeType2": 28294,
+                        "feeType3": 37000,
+                        "feeType4": 58765,
+                        "feeType5": 82707
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12450564745",
+            "11938173243"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL46B",
+            "Nút giao QL8A"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 34216,
+                        "feeType2": 44481,
+                        "feeType3": 58168,
+                        "feeType4": 92384,
+                        "feeType5": 130022
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12450564745",
+            "12600009196"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL8A",
+            "KM430+500"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 82286,
+                        "feeType2": 106972,
+                        "feeType3": 139887,
+                        "feeType4": 222173,
+                        "feeType5": 312687
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12600009196",
+            "13906136880"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL8A",
+            "Nút giao Nghi Phương"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 55981,
+                        "feeType2": 72776,
+                        "feeType3": 95168,
+                        "feeType4": 151150,
+                        "feeType5": 212729
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12600009196",
+            "11938173243"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao QL8A",
+            "Nút giao QL46B"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 34216,
+                        "feeType2": 44481,
+                        "feeType3": 58168,
+                        "feeType4": 92384,
+                        "feeType5": 130022
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12600009196",
+            "12450564745"
+        ]
+    }
+]

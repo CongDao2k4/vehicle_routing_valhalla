@@ -1,0 +1,74 @@
+[
+    {
+        "stationName": "Trạm 242",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.490973900409863,
+        "longitude": 106.3714743,
+        "stationOsmId": "6837952528",
+        "incoming_edges": [
+            "Trạm 45",
+            "Trạm 102",
+            "Trạm 37",
+            "Trạm 279",
+            "Trạm 104"
+        ],
+        "outgoing_edges": [
+            "Trạm 45",
+            "Trạm 102",
+            "Trạm 37",
+            "Trạm 279",
+            "Trạm 104"
+        ]
+    },
+    {
+        "stationName": "Trạm 102",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.33928200040889,
+        "longitude": 106.27055799999998,
+        "stationOsmId": "13551007072",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm 104",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.31592320040868,
+        "longitude": 106.2590521,
+        "stationOsmId": "6837953448",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm 279",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.62055750041017,
+        "longitude": 106.5587157,
+        "stationOsmId": "6838027406",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm 45",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.686714400410143,
+        "longitude": 106.6277949,
+        "stationOsmId": "6837952271",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Trạm 37",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.38911010040928,
+        "longitude": 106.3022497,
+        "stationOsmId": "6837953118",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

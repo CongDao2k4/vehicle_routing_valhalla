@@ -1,0 +1,362 @@
+[
+  {
+    "source_epass": "Cam Lâm",
+    "target_epass": "Cam Ranh",
+    "source_origin_osm_name": "Trạm Thu Phí Cam Lâm",
+    "target_origin_osm_name": "Trạm Thu Phí Cam Ranh",
+    "source_booths": [
+      {
+        "osm_id": "11829703716",
+        "lat": 12.057210899585622,
+        "lon": 109.12459699999998
+      },
+      {
+        "osm_id": "11910227077",
+        "lat": 12.057314599585627,
+        "lon": 109.1245588
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703708",
+        "lat": 11.880724399569647,
+        "lon": 109.0965372
+      },
+      {
+        "osm_id": "11829703709",
+        "lat": 11.880826499569654,
+        "lon": 109.0965962
+      }
+    ]
+  },
+  {
+    "source_epass": "Cam Lâm",
+    "target_epass": "Diên Khánh",
+    "source_origin_osm_name": "Trạm Thu Phí Cam Lâm",
+    "target_origin_osm_name": "Trạm Thu Phí Diên Khánh",
+    "source_booths": [
+      {
+        "osm_id": "11829703716",
+        "lat": 12.057210899585622,
+        "lon": 109.12459699999998
+      },
+      {
+        "osm_id": "11910227077",
+        "lat": 12.057314599585627,
+        "lon": 109.1245588
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11910194124",
+        "lat": 12.254637199604115,
+        "lon": 109.0237223
+      },
+      {
+        "osm_id": "11910194125",
+        "lat": 12.254725299604129,
+        "lon": 109.02364099999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Cam Lâm",
+    "target_epass": "Suối Dầu",
+    "source_origin_osm_name": "Trạm Thu Phí Cam Lâm",
+    "target_origin_osm_name": "Trạm thu phí Suối Dầu",
+    "source_booths": [
+      {
+        "osm_id": "11829703716",
+        "lat": 12.057210899585622,
+        "lon": 109.12459699999998
+      },
+      {
+        "osm_id": "11910227077",
+        "lat": 12.057314599585627,
+        "lon": 109.1245588
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12645469228",
+        "lat": 12.178860399596942,
+        "lon": 109.0588927
+      },
+      {
+        "osm_id": "12645469227",
+        "lat": 12.178777699596932,
+        "lon": 109.0589193
+      }
+    ]
+  },
+  {
+    "source_epass": "Cam Ranh",
+    "target_epass": "Cam Lâm",
+    "source_origin_osm_name": "Trạm Thu Phí Cam Ranh",
+    "target_origin_osm_name": "Trạm Thu Phí Cam Lâm",
+    "source_booths": [
+      {
+        "osm_id": "11829703708",
+        "lat": 11.880724399569647,
+        "lon": 109.0965372
+      },
+      {
+        "osm_id": "11829703709",
+        "lat": 11.880826499569654,
+        "lon": 109.0965962
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703716",
+        "lat": 12.057210899585622,
+        "lon": 109.12459699999998
+      },
+      {
+        "osm_id": "11910227077",
+        "lat": 12.057314599585627,
+        "lon": 109.1245588
+      }
+    ]
+  },
+  {
+    "source_epass": "Cam Ranh",
+    "target_epass": "Diên Khánh",
+    "source_origin_osm_name": "Trạm Thu Phí Cam Ranh",
+    "target_origin_osm_name": "Trạm Thu Phí Diên Khánh",
+    "source_booths": [
+      {
+        "osm_id": "11829703708",
+        "lat": 11.880724399569647,
+        "lon": 109.0965372
+      },
+      {
+        "osm_id": "11829703709",
+        "lat": 11.880826499569654,
+        "lon": 109.0965962
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11910194124",
+        "lat": 12.254637199604115,
+        "lon": 109.0237223
+      },
+      {
+        "osm_id": "11910194125",
+        "lat": 12.254725299604129,
+        "lon": 109.02364099999998
+      }
+    ]
+  },
+  {
+    "source_epass": "Cam Ranh",
+    "target_epass": "Suối Dầu",
+    "source_origin_osm_name": "Trạm Thu Phí Cam Ranh",
+    "target_origin_osm_name": "Trạm thu phí Suối Dầu",
+    "source_booths": [
+      {
+        "osm_id": "11829703708",
+        "lat": 11.880724399569647,
+        "lon": 109.0965372
+      },
+      {
+        "osm_id": "11829703709",
+        "lat": 11.880826499569654,
+        "lon": 109.0965962
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12645469228",
+        "lat": 12.178860399596942,
+        "lon": 109.0588927
+      },
+      {
+        "osm_id": "12645469227",
+        "lat": 12.178777699596932,
+        "lon": 109.0589193
+      }
+    ]
+  },
+  {
+    "source_epass": "Diên Khánh",
+    "target_epass": "Cam Lâm",
+    "source_origin_osm_name": "Trạm Thu Phí Diên Khánh",
+    "target_origin_osm_name": "Trạm Thu Phí Cam Lâm",
+    "source_booths": [
+      {
+        "osm_id": "11910194124",
+        "lat": 12.254637199604115,
+        "lon": 109.0237223
+      },
+      {
+        "osm_id": "11910194125",
+        "lat": 12.254725299604129,
+        "lon": 109.02364099999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703716",
+        "lat": 12.057210899585622,
+        "lon": 109.12459699999998
+      },
+      {
+        "osm_id": "11910227077",
+        "lat": 12.057314599585627,
+        "lon": 109.1245588
+      }
+    ]
+  },
+  {
+    "source_epass": "Diên Khánh",
+    "target_epass": "Cam Ranh",
+    "source_origin_osm_name": "Trạm Thu Phí Diên Khánh",
+    "target_origin_osm_name": "Trạm Thu Phí Cam Ranh",
+    "source_booths": [
+      {
+        "osm_id": "11910194124",
+        "lat": 12.254637199604115,
+        "lon": 109.0237223
+      },
+      {
+        "osm_id": "11910194125",
+        "lat": 12.254725299604129,
+        "lon": 109.02364099999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703708",
+        "lat": 11.880724399569647,
+        "lon": 109.0965372
+      },
+      {
+        "osm_id": "11829703709",
+        "lat": 11.880826499569654,
+        "lon": 109.0965962
+      }
+    ]
+  },
+  {
+    "source_epass": "Diên Khánh",
+    "target_epass": "Suối Dầu",
+    "source_origin_osm_name": "Trạm Thu Phí Diên Khánh",
+    "target_origin_osm_name": "Trạm thu phí Suối Dầu",
+    "source_booths": [
+      {
+        "osm_id": "11910194124",
+        "lat": 12.254637199604115,
+        "lon": 109.0237223
+      },
+      {
+        "osm_id": "11910194125",
+        "lat": 12.254725299604129,
+        "lon": 109.02364099999998
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12645469228",
+        "lat": 12.178860399596942,
+        "lon": 109.0588927
+      },
+      {
+        "osm_id": "12645469227",
+        "lat": 12.178777699596932,
+        "lon": 109.0589193
+      }
+    ]
+  },
+  {
+    "source_epass": "Suối Dầu",
+    "target_epass": "Cam Lâm",
+    "source_origin_osm_name": "Trạm thu phí Suối Dầu",
+    "target_origin_osm_name": "Trạm Thu Phí Cam Lâm",
+    "source_booths": [
+      {
+        "osm_id": "12645469228",
+        "lat": 12.178860399596942,
+        "lon": 109.0588927
+      },
+      {
+        "osm_id": "12645469227",
+        "lat": 12.178777699596932,
+        "lon": 109.0589193
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703716",
+        "lat": 12.057210899585622,
+        "lon": 109.12459699999998
+      },
+      {
+        "osm_id": "11910227077",
+        "lat": 12.057314599585627,
+        "lon": 109.1245588
+      }
+    ]
+  },
+  {
+    "source_epass": "Suối Dầu",
+    "target_epass": "Cam Ranh",
+    "source_origin_osm_name": "Trạm thu phí Suối Dầu",
+    "target_origin_osm_name": "Trạm Thu Phí Cam Ranh",
+    "source_booths": [
+      {
+        "osm_id": "12645469228",
+        "lat": 12.178860399596942,
+        "lon": 109.0588927
+      },
+      {
+        "osm_id": "12645469227",
+        "lat": 12.178777699596932,
+        "lon": 109.0589193
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703708",
+        "lat": 11.880724399569647,
+        "lon": 109.0965372
+      },
+      {
+        "osm_id": "11829703709",
+        "lat": 11.880826499569654,
+        "lon": 109.0965962
+      }
+    ]
+  },
+  {
+    "source_epass": "Suối Dầu",
+    "target_epass": "Diên Khánh",
+    "source_origin_osm_name": "Trạm thu phí Suối Dầu",
+    "target_origin_osm_name": "Trạm Thu Phí Diên Khánh",
+    "source_booths": [
+      {
+        "osm_id": "12645469228",
+        "lat": 12.178860399596942,
+        "lon": 109.0588927
+      },
+      {
+        "osm_id": "12645469227",
+        "lat": 12.178777699596932,
+        "lon": 109.0589193
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11910194124",
+        "lat": 12.254637199604115,
+        "lon": 109.0237223
+      },
+      {
+        "osm_id": "11910194125",
+        "lat": 12.254725299604129,
+        "lon": 109.02364099999998
+      }
+    ]
+  }
+]

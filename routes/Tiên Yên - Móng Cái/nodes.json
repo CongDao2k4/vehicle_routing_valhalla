@@ -1,0 +1,42 @@
+[
+    {
+        "stationName": "Hải Hà",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.46507040040974,
+        "longitude": 107.70575979999998,
+        "stationOsmId": "10997783392",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Móng Cái",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.51238684197242,
+        "longitude": 107.94985323003482,
+        "stationOsmId": "1483440873",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Tiên Yên",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.30870409880774,
+        "longitude": 107.47614418071788,
+        "stationOsmId": "1483440868",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Đầm Hà",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.348686748799228,
+        "longitude": 107.55313650370996,
+        "stationOsmId": "1483440869",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

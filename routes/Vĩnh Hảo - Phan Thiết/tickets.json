@@ -1,0 +1,850 @@
+[
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Chợ Lầu",
+            "Nút giao Ma Lâm"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 41331,
+                        "feeType2": 61997,
+                        "feeType3": 82664,
+                        "feeType4": 103329,
+                        "feeType5": 165326
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10852800021",
+            "13594711865"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Chợ Lầu",
+            "Nút giao Đại Ninh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 14289,
+                        "feeType2": 21434,
+                        "feeType3": 28579,
+                        "feeType4": 35723,
+                        "feeType5": 57157
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10852800021",
+            "11866479440"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Chợ Lầu",
+            "Nút giao Vĩnh Hảo"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 25270,
+                        "feeType2": 37905,
+                        "feeType3": 50540,
+                        "feeType4": 63176,
+                        "feeType5": 101081
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10852800021",
+            "11865554273"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Ma Lâm",
+            "Nút giao Chợ Lầu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 41331,
+                        "feeType2": 61997,
+                        "feeType3": 82664,
+                        "feeType4": 103329,
+                        "feeType5": 165326
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594711865",
+            "10852800021"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Ma Lâm",
+            "Nút giao Đại Ninh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 27042,
+                        "feeType2": 40563,
+                        "feeType3": 54085,
+                        "feeType4": 67606,
+                        "feeType5": 108169
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594711865",
+            "11866479440"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Ma Lâm",
+            "Nút giao Vĩnh Hảo"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 66601,
+                        "feeType2": 99902,
+                        "feeType3": 133204,
+                        "feeType4": 166505,
+                        "feeType5": 266407
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594711865",
+            "11865554273"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đại Ninh",
+            "Nút giao Chợ Lầu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 14289,
+                        "feeType2": 21434,
+                        "feeType3": 28579,
+                        "feeType4": 35723,
+                        "feeType5": 57157
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11866479440",
+            "10852800021"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đại Ninh",
+            "Nút giao Ma Lâm"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 27042,
+                        "feeType2": 40563,
+                        "feeType3": 54085,
+                        "feeType4": 67606,
+                        "feeType5": 108169
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11866479440",
+            "13594711865"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đại Ninh",
+            "Nút giao Vĩnh Hảo"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 39559,
+                        "feeType2": 59339,
+                        "feeType3": 79119,
+                        "feeType4": 98899,
+                        "feeType5": 158238
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11866479440",
+            "11865554273"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Vĩnh Hảo",
+            "Nút giao Chợ Lầu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 25270,
+                        "feeType2": 37905,
+                        "feeType3": 50540,
+                        "feeType4": 63176,
+                        "feeType5": 101081
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11865554273",
+            "10852800021"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Vĩnh Hảo",
+            "Nút giao Ma Lâm"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 66601,
+                        "feeType2": 99902,
+                        "feeType3": 133204,
+                        "feeType4": 166505,
+                        "feeType5": 266407
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11865554273",
+            "13594711865"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Vĩnh Hảo",
+            "Nút giao Đại Ninh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 39559,
+                        "feeType2": 59339,
+                        "feeType3": 79119,
+                        "feeType4": 98899,
+                        "feeType5": 158238
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11865554273",
+            "11866479440"
+        ]
+    },
+
+
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Km133+770",
+            "Nút giao Chợ Lầu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 25900,
+                        "feeType2": 38850,
+                        "feeType3": 51800,
+                        "feeType4": 64751,
+                        "feeType5": 103601
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594729844",
+            "10852800021"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Km133+770",
+            "Nút giao Ma Lâm"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 67231,
+                        "feeType2": 100847,
+                        "feeType3": 134464,
+                        "feeType4": 168080,
+                        "feeType5": 268927
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594729844",
+            "13594711865"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Km133+770",
+            "Nút giao Phan Thiết"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 90555,
+                        "feeType2": 135834,
+                        "feeType3": 181113,
+                        "feeType4": 226391,
+                        "feeType5": 362225
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594729844",
+            "13594672376"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Km133+770",
+            "Nút giao Đại Ninh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 40189,
+                        "feeType2": 60284,
+                        "feeType3": 80379,
+                        "feeType4": 100474,
+                        "feeType5": 160758
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594729844",
+            "11866479440"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Km133+770",
+            "Nút giao Vĩnh Hảo"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 630,
+                        "feeType2": 945,
+                        "feeType3": 1260,
+                        "feeType4": 1575,
+                        "feeType5": 2520
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594729844",
+            "11865554273"
+        ]
+    },
+
+
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Chợ Lầu",
+            "Km133+770"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 25900,
+                        "feeType2": 38850,
+                        "feeType3": 51800,
+                        "feeType4": 64751,
+                        "feeType5": 103601
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10852800021",
+            "13594729844"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Ma Lâm",
+            "Km133+770"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 67231,
+                        "feeType2": 100847,
+                        "feeType3": 134464,
+                        "feeType4": 168080,
+                        "feeType5": 268927
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594711865",
+            "13594729844"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Phan Thiết",
+            "Km133+770"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 90555,
+                        "feeType2": 135834,
+                        "feeType3": 181113,
+                        "feeType4": 226391,
+                        "feeType5": 362225
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672376",
+            "13594729844"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đại Ninh",
+            "Km133+770"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 40189,
+                        "feeType2": 60284,
+                        "feeType3": 80379,
+                        "feeType4": 100474,
+                        "feeType5": 160758
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11866479440",
+            "13594729844"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Vĩnh Hảo",
+            "Km133+770"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 630,
+                        "feeType2": 945,
+                        "feeType3": 1260,
+                        "feeType4": 1575,
+                        "feeType5": 2520
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11865554273",
+            "13594729844"
+        ]
+    },
+
+
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Chợ Lầu",
+            "Nút giao Phan Thiết"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 64655,
+                        "feeType2": 96984,
+                        "feeType3": 129313,
+                        "feeType4": 161640,
+                        "feeType5": 258624
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "10852800021",
+            "13594672376"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Ma Lâm",
+            "Nút giao Phan Thiết"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 23324,
+                        "feeType2": 34987,
+                        "feeType3": 46649,
+                        "feeType4": 58311,
+                        "feeType5": 93298
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594711865",
+            "13594672376"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Đại Ninh",
+            "Nút giao Phan Thiết"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 50366,
+                        "feeType2": 75550,
+                        "feeType3": 100734,
+                        "feeType4": 125917,
+                        "feeType5": 201467
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11866479440",
+            "13594672376"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Vĩnh Hảo",
+            "Nút giao Phan Thiết"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 89925,
+                        "feeType2": 134889,
+                        "feeType3": 179853,
+                        "feeType4": 224816,
+                        "feeType5": 359705
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11865554273",
+            "13594672376"
+        ]
+    },
+
+
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Phan Thiết",
+            "Nút giao Chợ Lầu"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 64655,
+                        "feeType2": 96984,
+                        "feeType3": 129313,
+                        "feeType4": 161640,
+                        "feeType5": 258624
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672376",
+            "10852800021"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Phan Thiết",
+            "Nút giao Ma Lâm"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 23324,
+                        "feeType2": 34987,
+                        "feeType3": 46649,
+                        "feeType4": 58311,
+                        "feeType5": 93298
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672376",
+            "13594711865"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Phan Thiết",
+            "Nút giao Đại Ninh"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 50366,
+                        "feeType2": 75550,
+                        "feeType3": 100734,
+                        "feeType4": 125917,
+                        "feeType5": 201467
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672376",
+            "11866479440"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Nút giao Phan Thiết",
+            "Nút giao Vĩnh Hảo"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 89925,
+                        "feeType2": 134889,
+                        "feeType3": 179853,
+                        "feeType4": 224816,
+                        "feeType5": 359705
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594672376",
+            "11865554273"
+        ]
+    }
+]

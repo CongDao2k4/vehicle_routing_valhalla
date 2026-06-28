@@ -1,0 +1,162 @@
+[
+    {
+        "source": "Cẩm Y",
+        "target": "Việt Hưng",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Cẩm Y - Việt Hưng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6221325028",
+        "targetOsmId": "6221327319"
+    },
+    {
+        "source": "Cẩm Y",
+        "target": "Đồng Lá",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Cẩm Y - Đồng Lá",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6221325028",
+        "targetOsmId": "6427220541"
+    },
+    {
+        "source": "Cẩm Y",
+        "target": "Đồng Đăng",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Cẩm Y - Đồng Đăng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6221325028",
+        "targetOsmId": "1483324798"
+    },
+    {
+        "source": "Việt Hưng",
+        "target": "Cẩm Y",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Việt Hưng - Cẩm Y",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6221327319",
+        "targetOsmId": "6221325028"
+    },
+    {
+        "source": "Việt Hưng",
+        "target": "Đoàn Kết",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Việt Hưng - Đoàn Kết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6221327319",
+        "targetOsmId": "1316305913"
+    },
+    {
+        "source": "Việt Hưng",
+        "target": "Đồng Lá",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Việt Hưng - Đồng Lá",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6221327319",
+        "targetOsmId": "6427220541"
+    },
+    {
+        "source": "Việt Hưng",
+        "target": "Đồng Đăng",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Việt Hưng - Đồng Đăng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6221327319",
+        "targetOsmId": "1483324798"
+    },
+    {
+        "source": "Đoàn Kết",
+        "target": "Việt Hưng",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Đoàn Kết - Việt Hưng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1316305913",
+        "targetOsmId": "6221327319"
+    },
+    {
+        "source": "Đoàn Kết",
+        "target": "Đồng Đăng",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Đoàn Kết - Đồng Đăng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1316305913",
+        "targetOsmId": "1483324798"
+    },
+    {
+        "source": "Đồng Lá",
+        "target": "Cẩm Y",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Đồng Lá - Cẩm Y",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6427220541",
+        "targetOsmId": "6221325028"
+    },
+    {
+        "source": "Đồng Lá",
+        "target": "Việt Hưng",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Đồng Lá - Việt Hưng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6427220541",
+        "targetOsmId": "6221327319"
+    },
+    {
+        "source": "Đồng Lá",
+        "target": "Đồng Đăng",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Đồng Lá - Đồng Đăng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6427220541",
+        "targetOsmId": "1483324798"
+    },
+    {
+        "source": "Đồng Đăng",
+        "target": "Cẩm Y",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Đồng Đăng - Cẩm Y",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483324798",
+        "targetOsmId": "6221325028"
+    },
+    {
+        "source": "Đồng Đăng",
+        "target": "Việt Hưng",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Đồng Đăng - Việt Hưng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483324798",
+        "targetOsmId": "6221327319"
+    },
+    {
+        "source": "Đồng Đăng",
+        "target": "Đoàn Kết",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Đồng Đăng - Đoàn Kết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483324798",
+        "targetOsmId": "1316305913"
+    },
+    {
+        "source": "Đồng Đăng",
+        "target": "Đồng Lá",
+        "routeName": "Hạ Long Vân Đồn",
+        "stageName": "Đồng Đăng - Đồng Lá",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483324798",
+        "targetOsmId": "6427220541"
+    }
+]

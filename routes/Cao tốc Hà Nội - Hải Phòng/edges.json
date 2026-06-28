@@ -1,0 +1,562 @@
+[
+    {
+        "source": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "target": "Nút giao tỉnh lộ 353",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ - Nút giao tỉnh lộ 353",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13956682360",
+        "targetOsmId": "8544582973"
+    },
+    {
+        "source": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "target": "Nút giao tỉnh lộ 392",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ - Nút giao tỉnh lộ 392",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13956682360",
+        "targetOsmId": "11946078822"
+    },
+    {
+        "source": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "target": "QL 10",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ - QL 10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13956682360",
+        "targetOsmId": "1483838042"
+    },
+    {
+        "source": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "target": "QL 38",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ - QL 38",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13956682360",
+        "targetOsmId": "12600009197"
+    },
+    {
+        "source": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "target": "QL 38B",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ - QL 38B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13956682360",
+        "targetOsmId": "5930290765"
+    },
+    {
+        "source": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "target": "QL 39",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ - QL 39",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13956682360",
+        "targetOsmId": "4686546644"
+    },
+    {
+        "source": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "target": "Đầu Tuyến",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ - Đầu Tuyến",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13956682360",
+        "targetOsmId": "1324667567"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 353",
+        "target": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 353 - Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8544582973",
+        "targetOsmId": "13956682360"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 353",
+        "target": "Nút giao tỉnh lộ 392",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 353 - Nút giao tỉnh lộ 392",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8544582973",
+        "targetOsmId": "11946078822"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 353",
+        "target": "QL 10",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 353 - QL 10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8544582973",
+        "targetOsmId": "1483838042"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 353",
+        "target": "QL 38",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 353 - QL 38",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8544582973",
+        "targetOsmId": "12600009197"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 353",
+        "target": "QL 38B",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 353 - QL 38B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8544582973",
+        "targetOsmId": "5930290765"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 353",
+        "target": "QL 39",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 353 - QL 39",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8544582973",
+        "targetOsmId": "4686546644"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 353",
+        "target": "Đầu Tuyến",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 353 - Đầu Tuyến",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8544582973",
+        "targetOsmId": "1324667567"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 392",
+        "target": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 392 - Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11946078822",
+        "targetOsmId": "13956682360"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 392",
+        "target": "Nút giao tỉnh lộ 353",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 392 - Nút giao tỉnh lộ 353",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11946078822",
+        "targetOsmId": "8544582973"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 392",
+        "target": "QL 10",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 392 - QL 10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11946078822",
+        "targetOsmId": "1483838042"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 392",
+        "target": "QL 38",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 392 - QL 38",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11946078822",
+        "targetOsmId": "12600009197"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 392",
+        "target": "QL 38B",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 392 - QL 38B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11946078822",
+        "targetOsmId": "5930290765"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 392",
+        "target": "QL 39",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 392 - QL 39",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11946078822",
+        "targetOsmId": "4686546644"
+    },
+    {
+        "source": "Nút giao tỉnh lộ 392",
+        "target": "Đầu Tuyến",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Nút giao tỉnh lộ 392 - Đầu Tuyến",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11946078822",
+        "targetOsmId": "1324667567"
+    },
+    {
+        "source": "QL 10",
+        "target": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 10 - Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483838042",
+        "targetOsmId": "13956682360"
+    },
+    {
+        "source": "QL 10",
+        "target": "Nút giao tỉnh lộ 353",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 10 - Nút giao tỉnh lộ 353",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483838042",
+        "targetOsmId": "8544582973"
+    },
+    {
+        "source": "QL 10",
+        "target": "Nút giao tỉnh lộ 392",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 10 - Nút giao tỉnh lộ 392",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483838042",
+        "targetOsmId": "11946078822"
+    },
+    {
+        "source": "QL 10",
+        "target": "QL 38",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 10 - QL 38",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483838042",
+        "targetOsmId": "12600009197"
+    },
+    {
+        "source": "QL 10",
+        "target": "QL 38B",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 10 - QL 38B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483838042",
+        "targetOsmId": "5930290765"
+    },
+    {
+        "source": "QL 10",
+        "target": "QL 39",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 10 - QL 39",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483838042",
+        "targetOsmId": "4686546644"
+    },
+    {
+        "source": "QL 10",
+        "target": "Đầu Tuyến",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 10 - Đầu Tuyến",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1483838042",
+        "targetOsmId": "1324667567"
+    },
+    {
+        "source": "QL 38",
+        "target": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38 - Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12600009197",
+        "targetOsmId": "13956682360"
+    },
+    {
+        "source": "QL 38",
+        "target": "Nút giao tỉnh lộ 353",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38 - Nút giao tỉnh lộ 353",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12600009197",
+        "targetOsmId": "8544582973"
+    },
+    {
+        "source": "QL 38",
+        "target": "Nút giao tỉnh lộ 392",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38 - Nút giao tỉnh lộ 392",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12600009197",
+        "targetOsmId": "11946078822"
+    },
+    {
+        "source": "QL 38",
+        "target": "QL 10",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38 - QL 10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12600009197",
+        "targetOsmId": "1483838042"
+    },
+    {
+        "source": "QL 38",
+        "target": "QL 38B",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38 - QL 38B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12600009197",
+        "targetOsmId": "5930290765"
+    },
+    {
+        "source": "QL 38",
+        "target": "QL 39",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38 - QL 39",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12600009197",
+        "targetOsmId": "4686546644"
+    },
+    {
+        "source": "QL 38",
+        "target": "Đầu Tuyến",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38-Đầu Tuyến",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12600009197",
+        "targetOsmId": "1324667567"
+    },
+    {
+        "source": "QL 38B",
+        "target": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38B - Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5930290765",
+        "targetOsmId": "13956682360"
+    },
+    {
+        "source": "QL 38B",
+        "target": "Nút giao tỉnh lộ 353",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38B - Nút giao tỉnh lộ 353",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5930290765",
+        "targetOsmId": "8544582973"
+    },
+    {
+        "source": "QL 38B",
+        "target": "Nút giao tỉnh lộ 392",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38B - Nút giao tỉnh lộ 392",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5930290765",
+        "targetOsmId": "11946078822"
+    },
+    {
+        "source": "QL 38B",
+        "target": "QL 10",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38B - QL 10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5930290765",
+        "targetOsmId": "1483838042"
+    },
+    {
+        "source": "QL 38B",
+        "target": "QL 38",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38B - QL 38",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5930290765",
+        "targetOsmId": "12600009197"
+    },
+    {
+        "source": "QL 38B",
+        "target": "QL 39",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38B - QL 39",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5930290765",
+        "targetOsmId": "4686546644"
+    },
+    {
+        "source": "QL 38B",
+        "target": "Đầu Tuyến",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 38B - Đầu Tuyến",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5930290765",
+        "targetOsmId": "1324667567"
+    },
+    {
+        "source": "QL 39",
+        "target": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 39 - Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4686546644",
+        "targetOsmId": "13956682360"
+    },
+    {
+        "source": "QL 39",
+        "target": "Nút giao tỉnh lộ 353",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 39 - Nút giao tỉnh lộ 353",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4686546644",
+        "targetOsmId": "8544582973"
+    },
+    {
+        "source": "QL 39",
+        "target": "Nút giao tỉnh lộ 392",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 39 - Nút giao tỉnh lộ 392",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4686546644",
+        "targetOsmId": "11946078822"
+    },
+    {
+        "source": "QL 39",
+        "target": "QL 10",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 39 - QL 10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4686546644",
+        "targetOsmId": "1483838042"
+    },
+    {
+        "source": "QL 39",
+        "target": "QL 38",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 39 - QL 38",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4686546644",
+        "targetOsmId": "12600009197"
+    },
+    {
+        "source": "QL 39",
+        "target": "QL 38B",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 39 - QL 38B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4686546644",
+        "targetOsmId": "5930290765"
+    },
+    {
+        "source": "QL 39",
+        "target": "Đầu Tuyến",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "QL 39 - Đầu Tuyến",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4686546644",
+        "targetOsmId": "1324667567"
+    },
+    {
+        "source": "Đầu Tuyến",
+        "target": "Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Đầu Tuyến - Nút giao Tân Vũ, Bạch Đằng, Đình Vũ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1324667567",
+        "targetOsmId": "13956682360"
+    },
+    {
+        "source": "Đầu Tuyến",
+        "target": "Nút giao tỉnh lộ 392",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Đầu Tuyến - Nút giao tỉnh lộ 392",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1324667567",
+        "targetOsmId": "11946078822"
+    },
+    {
+        "source": "Đầu Tuyến",
+        "target": "QL 10",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Đầu Tuyến - QL 10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1324667567",
+        "targetOsmId": "1483838042"
+    },
+    {
+        "source": "Đầu Tuyến",
+        "target": "QL 38",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Đầu Tuyến - QL 38",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1324667567",
+        "targetOsmId": "12600009197"
+    },
+    {
+        "source": "Đầu Tuyến",
+        "target": "QL 38B",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Đầu Tuyến - QL 38B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1324667567",
+        "targetOsmId": "5930290765"
+    },
+    {
+        "source": "Đầu Tuyến",
+        "target": "QL 39",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Đầu Tuyến - QL 39",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1324667567",
+        "targetOsmId": "4686546644"
+    },
+    {
+        "source": "Đầu Tuyến",
+        "target": "Nút giao tỉnh lộ 353",
+        "routeName": "Cao tốc Hà Nội - Hải Phòng",
+        "stageName": "Đầu tuyến - Nút giao tỉnh lộ 353",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1324667567",
+        "targetOsmId": "8544582973"
+    }
+]

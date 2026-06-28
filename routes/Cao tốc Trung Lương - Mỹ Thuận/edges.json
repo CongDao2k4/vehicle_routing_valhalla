@@ -1,0 +1,122 @@
+[
+    {
+        "source": "An Thái Trung",
+        "target": "Cai Lậy",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "An Thái Trung - Cai Lậy",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594609049",
+        "targetOsmId": "1225570745"
+    },
+    {
+        "source": "An Thái Trung",
+        "target": "Cái Bè",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "An Thái Trung - Cái Bè",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594609049",
+        "targetOsmId": "1482412311"
+    },
+    {
+        "source": "An Thái Trung",
+        "target": "Km51",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "An Thái Trung - Km51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594609049",
+        "targetOsmId": "1308093769"
+    },
+    {
+        "source": "Cai Lậy",
+        "target": "An Thái Trung",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "Cai Lậy - An Thái Trung",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1225570745",
+        "targetOsmId": "13594609049"
+    },
+    {
+        "source": "Cai Lậy",
+        "target": "Cái Bè",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "Cai Lậy - Cái Bè",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1225570745",
+        "targetOsmId": "1482412311"
+    },
+    {
+        "source": "Cai Lậy",
+        "target": "Km51",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "Cai Lậy - Km51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1225570745",
+        "targetOsmId": "1308093769"
+    },
+    {
+        "source": "Cái Bè",
+        "target": "An Thái Trung",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "Cái Bè - An Thái Trung",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1482412311",
+        "targetOsmId": "13594609049"
+    },
+    {
+        "source": "Cái Bè",
+        "target": "Cai Lậy",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "Cái Bè - Cai Lậy",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1482412311",
+        "targetOsmId": "1225570745"
+    },
+    {
+        "source": "Cái Bè",
+        "target": "Km51",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "Cái Bè - Km51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1482412311",
+        "targetOsmId": "1308093769"
+    },
+    {
+        "source": "Km51",
+        "target": "An Thái Trung",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "Km51 - An Thái Trung",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1308093769",
+        "targetOsmId": "13594609049"
+    },
+    {
+        "source": "Km51",
+        "target": "Cai Lậy",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "Km51 - Cai Lậy",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1308093769",
+        "targetOsmId": "1225570745"
+    },
+    {
+        "source": "Km51",
+        "target": "Cái Bè",
+        "routeName": "Cao tốc Trung Lương - Mỹ Thuận",
+        "stageName": "Km51 - Cái Bè",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1308093769",
+        "targetOsmId": "1482412311"
+    }
+]

@@ -1,0 +1,22 @@
+==================================================
+BẮT ĐẦU ĐỒNG BỘ DỮ LIỆU JSON TỪ CSV
+==================================================
+Đã nạp 191 trạm từ file CSV.
+
+[1/3] Đang cập nhật nodes.json ...
+-> Cập nhật xong 190 / 191 nodes.
+
+[2/3] Đang cập nhật edges.json ...
+-> Cập nhật xong 692 / 692 edges (có ít nhất 1 đầu trùng khớp).
+
+[3/3] Đang cập nhật tickets.json ...
+-> Cập nhật xong 782 / 782 tickets (có ít nhất 1 đầu trùng khớp).
+
+==================================================
+THỐNG KÊ MỨC ĐỘ KHỚP DỮ LIỆU TÊN TRẠM
+==================================================
+Số trạm TÌM THẤY (khớp) trong CSV  : 190
+Số trạm KHÔNG CÓ (lệch) trong CSV  : 1
+
+[!] DANH SÁCH CÁC TRẠM KHÔNG KHỚP (Có trong JSON nhưng vắng bóng ở CSV):
+  - KM5

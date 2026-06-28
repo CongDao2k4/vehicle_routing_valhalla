@@ -1,0 +1,1682 @@
+[
+  {
+    "source_epass": "Bắc Quảng Ngãi",
+    "target_epass": "Chu Lai",
+    "source_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "target_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "source_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ]
+  },
+  {
+    "source_epass": "Bắc Quảng Ngãi",
+    "target_epass": "Dung Quất",
+    "source_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "target_origin_osm_name": "Trạm thu phí Dung Quất",
+    "source_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ]
+  },
+  {
+    "source_epass": "Bắc Quảng Ngãi",
+    "target_epass": "Hà Lam",
+    "source_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "target_origin_osm_name": "Trạm thu phí Hà Lam",
+    "source_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ]
+  },
+  {
+    "source_epass": "Bắc Quảng Ngãi",
+    "target_epass": "Phong Thử",
+    "source_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "target_origin_osm_name": "Trạm thu phí Phong Thử",
+    "source_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ]
+  },
+  {
+    "source_epass": "Bắc Quảng Ngãi",
+    "target_epass": "Quảng Ngãi",
+    "source_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "target_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "source_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ]
+  },
+  {
+    "source_epass": "Bắc Quảng Ngãi",
+    "target_epass": "Tam Kỳ",
+    "source_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "target_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "source_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ]
+  },
+  {
+    "source_epass": "Bắc Quảng Ngãi",
+    "target_epass": "Túy Loan",
+    "source_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "target_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "source_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ]
+  },
+  {
+    "source_epass": "Chu Lai",
+    "target_epass": "Bắc Quảng Ngãi",
+    "source_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "target_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "source_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ]
+  },
+  {
+    "source_epass": "Chu Lai",
+    "target_epass": "Dung Quất",
+    "source_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "target_origin_osm_name": "Trạm thu phí Dung Quất",
+    "source_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ]
+  },
+  {
+    "source_epass": "Chu Lai",
+    "target_epass": "Hà Lam",
+    "source_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "target_origin_osm_name": "Trạm thu phí Hà Lam",
+    "source_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ]
+  },
+  {
+    "source_epass": "Chu Lai",
+    "target_epass": "Phong Thử",
+    "source_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "target_origin_osm_name": "Trạm thu phí Phong Thử",
+    "source_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ]
+  },
+  {
+    "source_epass": "Chu Lai",
+    "target_epass": "Quảng Ngãi",
+    "source_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "target_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "source_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ]
+  },
+  {
+    "source_epass": "Chu Lai",
+    "target_epass": "Tam Kỳ",
+    "source_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "target_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "source_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ]
+  },
+  {
+    "source_epass": "Chu Lai",
+    "target_epass": "Túy Loan",
+    "source_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "target_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "source_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ]
+  },
+  {
+    "source_epass": "Dung Quất",
+    "target_epass": "Bắc Quảng Ngãi",
+    "source_origin_osm_name": "Trạm thu phí Dung Quất",
+    "target_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "source_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ]
+  },
+  {
+    "source_epass": "Dung Quất",
+    "target_epass": "Chu Lai",
+    "source_origin_osm_name": "Trạm thu phí Dung Quất",
+    "target_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "source_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ]
+  },
+  {
+    "source_epass": "Dung Quất",
+    "target_epass": "Hà Lam",
+    "source_origin_osm_name": "Trạm thu phí Dung Quất",
+    "target_origin_osm_name": "Trạm thu phí Hà Lam",
+    "source_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ]
+  },
+  {
+    "source_epass": "Dung Quất",
+    "target_epass": "Phong Thử",
+    "source_origin_osm_name": "Trạm thu phí Dung Quất",
+    "target_origin_osm_name": "Trạm thu phí Phong Thử",
+    "source_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ]
+  },
+  {
+    "source_epass": "Dung Quất",
+    "target_epass": "Quảng Ngãi",
+    "source_origin_osm_name": "Trạm thu phí Dung Quất",
+    "target_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "source_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ]
+  },
+  {
+    "source_epass": "Dung Quất",
+    "target_epass": "Tam Kỳ",
+    "source_origin_osm_name": "Trạm thu phí Dung Quất",
+    "target_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "source_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ]
+  },
+  {
+    "source_epass": "Dung Quất",
+    "target_epass": "Túy Loan",
+    "source_origin_osm_name": "Trạm thu phí Dung Quất",
+    "target_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "source_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ]
+  },
+  {
+    "source_epass": "Hà Lam",
+    "target_epass": "Bắc Quảng Ngãi",
+    "source_origin_osm_name": "Trạm thu phí Hà Lam",
+    "target_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "source_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ]
+  },
+  {
+    "source_epass": "Hà Lam",
+    "target_epass": "Chu Lai",
+    "source_origin_osm_name": "Trạm thu phí Hà Lam",
+    "target_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "source_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ]
+  },
+  {
+    "source_epass": "Hà Lam",
+    "target_epass": "Dung Quất",
+    "source_origin_osm_name": "Trạm thu phí Hà Lam",
+    "target_origin_osm_name": "Trạm thu phí Dung Quất",
+    "source_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ]
+  },
+  {
+    "source_epass": "Hà Lam",
+    "target_epass": "Phong Thử",
+    "source_origin_osm_name": "Trạm thu phí Hà Lam",
+    "target_origin_osm_name": "Trạm thu phí Phong Thử",
+    "source_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ]
+  },
+  {
+    "source_epass": "Hà Lam",
+    "target_epass": "Quảng Ngãi",
+    "source_origin_osm_name": "Trạm thu phí Hà Lam",
+    "target_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "source_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ]
+  },
+  {
+    "source_epass": "Hà Lam",
+    "target_epass": "Tam Kỳ",
+    "source_origin_osm_name": "Trạm thu phí Hà Lam",
+    "target_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "source_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ]
+  },
+  {
+    "source_epass": "Hà Lam",
+    "target_epass": "Túy Loan",
+    "source_origin_osm_name": "Trạm thu phí Hà Lam",
+    "target_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "source_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ]
+  },
+  {
+    "source_epass": "Phong Thử",
+    "target_epass": "Bắc Quảng Ngãi",
+    "source_origin_osm_name": "Trạm thu phí Phong Thử",
+    "target_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "source_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ]
+  },
+  {
+    "source_epass": "Phong Thử",
+    "target_epass": "Chu Lai",
+    "source_origin_osm_name": "Trạm thu phí Phong Thử",
+    "target_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "source_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ]
+  },
+  {
+    "source_epass": "Phong Thử",
+    "target_epass": "Dung Quất",
+    "source_origin_osm_name": "Trạm thu phí Phong Thử",
+    "target_origin_osm_name": "Trạm thu phí Dung Quất",
+    "source_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ]
+  },
+  {
+    "source_epass": "Phong Thử",
+    "target_epass": "Hà Lam",
+    "source_origin_osm_name": "Trạm thu phí Phong Thử",
+    "target_origin_osm_name": "Trạm thu phí Hà Lam",
+    "source_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ]
+  },
+  {
+    "source_epass": "Phong Thử",
+    "target_epass": "Quảng Ngãi",
+    "source_origin_osm_name": "Trạm thu phí Phong Thử",
+    "target_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "source_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ]
+  },
+  {
+    "source_epass": "Phong Thử",
+    "target_epass": "Tam Kỳ",
+    "source_origin_osm_name": "Trạm thu phí Phong Thử",
+    "target_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "source_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ]
+  },
+  {
+    "source_epass": "Phong Thử",
+    "target_epass": "Túy Loan",
+    "source_origin_osm_name": "Trạm thu phí Phong Thử",
+    "target_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "source_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ]
+  },
+  {
+    "source_epass": "Quảng Ngãi",
+    "target_epass": "Bắc Quảng Ngãi",
+    "source_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "target_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "source_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ]
+  },
+  {
+    "source_epass": "Quảng Ngãi",
+    "target_epass": "Chu Lai",
+    "source_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "target_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "source_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ]
+  },
+  {
+    "source_epass": "Quảng Ngãi",
+    "target_epass": "Dung Quất",
+    "source_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "target_origin_osm_name": "Trạm thu phí Dung Quất",
+    "source_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ]
+  },
+  {
+    "source_epass": "Quảng Ngãi",
+    "target_epass": "Hà Lam",
+    "source_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "target_origin_osm_name": "Trạm thu phí Hà Lam",
+    "source_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ]
+  },
+  {
+    "source_epass": "Quảng Ngãi",
+    "target_epass": "Phong Thử",
+    "source_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "target_origin_osm_name": "Trạm thu phí Phong Thử",
+    "source_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ]
+  },
+  {
+    "source_epass": "Quảng Ngãi",
+    "target_epass": "Tam Kỳ",
+    "source_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "target_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "source_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ]
+  },
+  {
+    "source_epass": "Quảng Ngãi",
+    "target_epass": "Túy Loan",
+    "source_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "target_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "source_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ]
+  },
+  {
+    "source_epass": "Tam Kỳ",
+    "target_epass": "Bắc Quảng Ngãi",
+    "source_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "target_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "source_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ]
+  },
+  {
+    "source_epass": "Tam Kỳ",
+    "target_epass": "Chu Lai",
+    "source_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "target_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "source_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ]
+  },
+  {
+    "source_epass": "Tam Kỳ",
+    "target_epass": "Dung Quất",
+    "source_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "target_origin_osm_name": "Trạm thu phí Dung Quất",
+    "source_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ]
+  },
+  {
+    "source_epass": "Tam Kỳ",
+    "target_epass": "Hà Lam",
+    "source_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "target_origin_osm_name": "Trạm thu phí Hà Lam",
+    "source_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ]
+  },
+  {
+    "source_epass": "Tam Kỳ",
+    "target_epass": "Phong Thử",
+    "source_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "target_origin_osm_name": "Trạm thu phí Phong Thử",
+    "source_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ]
+  },
+  {
+    "source_epass": "Tam Kỳ",
+    "target_epass": "Quảng Ngãi",
+    "source_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "target_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "source_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ]
+  },
+  {
+    "source_epass": "Tam Kỳ",
+    "target_epass": "Túy Loan",
+    "source_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "target_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "source_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ]
+  },
+  {
+    "source_epass": "Túy Loan",
+    "target_epass": "Bắc Quảng Ngãi",
+    "source_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "target_origin_osm_name": "Trạm Thu Phí Bắc Quảng Ngãi",
+    "source_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12723387255",
+        "lat": 15.157886899925956,
+        "lon": 108.751731
+      },
+      {
+        "osm_id": "12723387254",
+        "lat": 15.157841899925945,
+        "lon": 108.7515932
+      }
+    ]
+  },
+  {
+    "source_epass": "Túy Loan",
+    "target_epass": "Chu Lai",
+    "source_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "target_origin_osm_name": "Trạm Thu Phí Chu Lai",
+    "source_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719649",
+        "lat": 15.442284099959496,
+        "lon": 108.59304729999998
+      },
+      {
+        "osm_id": "12725719644",
+        "lat": 15.442138199959478,
+        "lon": 108.5932415
+      }
+    ]
+  },
+  {
+    "source_epass": "Túy Loan",
+    "target_epass": "Dung Quất",
+    "source_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "target_origin_osm_name": "Trạm thu phí Dung Quất",
+    "source_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10236670094",
+        "lat": 15.352231199948896,
+        "lon": 108.7340259
+      },
+      {
+        "osm_id": "10236670095",
+        "lat": 15.352112299948876,
+        "lon": 108.7340226
+      }
+    ]
+  },
+  {
+    "source_epass": "Túy Loan",
+    "target_epass": "Hà Lam",
+    "source_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "target_origin_osm_name": "Trạm thu phí Hà Lam",
+    "source_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725719691",
+        "lat": 15.7102491999909,
+        "lon": 108.3353142
+      },
+      {
+        "osm_id": "12725719694",
+        "lat": 15.710337799990912,
+        "lon": 108.3354263
+      }
+    ]
+  },
+  {
+    "source_epass": "Túy Loan",
+    "target_epass": "Phong Thử",
+    "source_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "target_origin_osm_name": "Trạm thu phí Phong Thử",
+    "source_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "12725730529",
+        "lat": 15.890603700011868,
+        "lon": 108.1737449
+      },
+      {
+        "osm_id": "12725730524",
+        "lat": 15.890653700011867,
+        "lon": 108.173573
+      }
+    ]
+  },
+  {
+    "source_epass": "Túy Loan",
+    "target_epass": "Quảng Ngãi",
+    "source_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "target_origin_osm_name": "Trạm thu phí Quảng Ngãi - Đà Nẵng",
+    "source_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "5952153100",
+        "lat": 15.10945789992023,
+        "lon": 108.7576174
+      },
+      {
+        "osm_id": "12452632185",
+        "lat": 15.109554799920238,
+        "lon": 108.7577229
+      }
+    ]
+  },
+  {
+    "source_epass": "Túy Loan",
+    "target_epass": "Tam Kỳ",
+    "source_origin_osm_name": "Trạm Thu Phí Tuý Loan",
+    "target_origin_osm_name": "Trạm thu phí Tam Kỳ",
+    "source_booths": [
+      {
+        "osm_id": "6888345522",
+        "lat": 15.972812000021358,
+        "lon": 108.16284480000002
+      },
+      {
+        "osm_id": "6888345523",
+        "lat": 15.972751400021352,
+        "lon": 108.1626428
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6860284192",
+        "lat": 15.548552399971983,
+        "lon": 108.51842630000002
+      },
+      {
+        "osm_id": "6860284191",
+        "lat": 15.548633399971983,
+        "lon": 108.5185122
+      }
+    ]
+  }
+]

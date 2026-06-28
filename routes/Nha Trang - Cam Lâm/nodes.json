@@ -1,0 +1,42 @@
+[
+    {
+        "stationName": "Cam Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 12.057252676053531,
+        "longitude": 109.12468686389896,
+        "stationOsmId": "1482474233",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cam Ranh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.880754049313992,
+        "longitude": 109.09660342750368,
+        "stationOsmId": "1482468510",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Diên Khánh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 12.254637199604115,
+        "longitude": 109.0237223,
+        "stationOsmId": "11910194124",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Suối Dầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 12.178860399596942,
+        "longitude": 109.0588927,
+        "stationOsmId": "12645469228",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

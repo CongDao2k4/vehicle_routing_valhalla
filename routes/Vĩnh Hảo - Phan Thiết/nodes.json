@@ -1,0 +1,62 @@
+[
+    {
+        "stationName": "Nút giao Chợ Lầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.262766399518206,
+        "longitude": 108.4911356,
+        "stationOsmId": "10852800021",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Ma Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.089454499505129,
+        "longitude": 108.1323194,
+        "stationOsmId": "13594711865",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Đại Ninh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.253188899517466,
+        "longitude": 108.3460087,
+        "stationOsmId": "11866479440",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Vĩnh Hảo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.304354799521436,
+        "longitude": 108.7250364,
+        "stationOsmId": "11865554273",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.932602371898122,
+        "longitude": 107.96800349083978,
+        "stationOsmId": "13594672376",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Km133+770",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 11.313317799522135,
+        "longitude": 108.72454569999998,
+        "stationOsmId": "13594729844",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

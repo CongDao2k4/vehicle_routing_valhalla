@@ -1,0 +1,196 @@
+{
+    "trip": {
+        "locations": [
+            {
+                "type": "break",
+                "lat": 21.097414,
+                "lon": 107.353591,
+                "original_index": 0
+            },
+            {
+                "type": "break",
+                "lat": 20.992588,
+                "lon": 106.987131,
+                "original_index": 1
+            }
+        ],
+        "legs": [
+            {
+                "maneuvers": [
+                    {
+                        "type": 1,
+                        "instruction": "Drive northwest on Tuyến nối Cao tốc Hải Phòng - Hạ Long - Móng Cái.",
+                        "verbal_succinct_transition_instruction": "Drive northwest. Then Keep left to take Tuyến nối Cao tốc Hải Phòng - Hạ Long - Móng Cái.",
+                        "verbal_pre_transition_instruction": "Drive northwest on Tuyến nối Cao tốc Hải Phòng - Hạ Long - Móng Cái. Then Keep left to take Tuyến nối Cao tốc Hải Phòng - Hạ Long - Móng Cái.",
+                        "verbal_post_transition_instruction": "Continue for 300 meters.",
+                        "street_names": [
+                            "Tuyến nối Cao tốc Hải Phòng - Hạ Long - Móng Cái"
+                        ],
+                        "bearing_after": 329,
+                        "time": 36,
+                        "length": 0.31,
+                        "cost": 32.4,
+                        "begin_shape_index": 0,
+                        "end_shape_index": 8,
+                        "toll": true,
+                        "verbal_multi_cue": true,
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    },
+                    {
+                        "type": 24,
+                        "instruction": "Keep left to take Tuyến nối Cao tốc Hải Phòng - Hạ Long - Móng Cái.",
+                        "verbal_transition_alert_instruction": "Keep left to take Tuyến nối Cao tốc Hải Phòng - Hạ Long - Móng Cái.",
+                        "verbal_pre_transition_instruction": "Keep left to take Tuyến nối Cao tốc Hải Phòng - Hạ Long - Móng Cái. Then Turn right onto QL.18.",
+                        "street_names": [
+                            "Tuyến nối Cao tốc Hải Phòng - Hạ Long - Móng Cái"
+                        ],
+                        "bearing_before": 231,
+                        "bearing_after": 213,
+                        "time": 6.47,
+                        "length": 0.049,
+                        "cost": 7.7,
+                        "begin_shape_index": 8,
+                        "end_shape_index": 12,
+                        "verbal_multi_cue": true,
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    },
+                    {
+                        "type": 10,
+                        "instruction": "Turn right onto QL.18/Quốc lộ 18, Cẩm Hải.",
+                        "verbal_transition_alert_instruction": "Turn right onto QL.18.",
+                        "verbal_succinct_transition_instruction": "Turn right. Then Turn right to take the ramp.",
+                        "verbal_pre_transition_instruction": "Turn right onto QL.18, Quốc lộ 18, Cẩm Hải. Then Turn right to take the ramp.",
+                        "verbal_post_transition_instruction": "Continue for 20 meters.",
+                        "street_names": [
+                            "QL.18",
+                            "Quốc lộ 18, Cẩm Hải"
+                        ],
+                        "bearing_before": 194,
+                        "bearing_after": 323,
+                        "time": 7.62,
+                        "length": 0.019,
+                        "cost": 18.731,
+                        "begin_shape_index": 12,
+                        "end_shape_index": 14,
+                        "verbal_multi_cue": true,
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    },
+                    {
+                        "type": 18,
+                        "instruction": "Turn right to take the ramp.",
+                        "verbal_transition_alert_instruction": "Turn right to take the ramp.",
+                        "verbal_pre_transition_instruction": "Turn right to take the ramp.",
+                        "street_names": [
+                            "Đi Cao tốc Hải Phòng - Hạ Long - Móng Cái"
+                        ],
+                        "bearing_before": 323,
+                        "bearing_after": 77,
+                        "time": 102.737,
+                        "length": 0.578,
+                        "cost": 103.185,
+                        "begin_shape_index": 14,
+                        "end_shape_index": 31,
+                        "toll": true,
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    },
+                    {
+                        "type": 23,
+                        "instruction": "Keep right to take CT.06.",
+                        "verbal_transition_alert_instruction": "Keep right to take CT.06.",
+                        "verbal_pre_transition_instruction": "Keep right to take CT.06.",
+                        "verbal_post_transition_instruction": "Continue for 48 kilometers.",
+                        "street_names": [
+                            "CT.06"
+                        ],
+                        "bearing_before": 151,
+                        "bearing_after": 164,
+                        "time": 2075.609,
+                        "length": 47.739,
+                        "cost": 1895.412,
+                        "begin_shape_index": 31,
+                        "end_shape_index": 379,
+                        "toll": true,
+                        "highway": true,
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    },
+                    {
+                        "type": 20,
+                        "instruction": "Take exit Việt Hưng.",
+                        "verbal_transition_alert_instruction": "Take exit Việt Hưng.",
+                        "verbal_pre_transition_instruction": "Take exit Việt Hưng.",
+                        "street_names": [
+                            "Đường dẫn Cao tốc Hải Phòng - Móng Cái"
+                        ],
+                        "bearing_before": 208,
+                        "bearing_after": 215,
+                        "time": 201.387,
+                        "length": 1.529,
+                        "cost": 196.885,
+                        "begin_shape_index": 379,
+                        "end_shape_index": 410,
+                        "toll": true,
+                        "sign": {
+                            "exit_number_elements": [
+                                {
+                                    "text": "Việt Hưng"
+                                }
+                            ]
+                        },
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    },
+                    {
+                        "type": 4,
+                        "instruction": "You have arrived at your destination.",
+                        "verbal_transition_alert_instruction": "You will arrive at your destination.",
+                        "verbal_pre_transition_instruction": "You have arrived at your destination.",
+                        "bearing_before": 100,
+                        "time": 0,
+                        "length": 0,
+                        "cost": 0,
+                        "begin_shape_index": 410,
+                        "end_shape_index": 410,
+                        "travel_mode": "drive",
+                        "travel_type": "car"
+                    }
+                ],
+                "summary": {
+                    "has_time_restrictions": false,
+                    "has_toll": true,
+                    "has_highway": true,
+                    "has_ferry": false,
+                    "min_lat": 20.992604,
+                    "min_lon": 106.977289,
+                    "max_lat": 21.098892,
+                    "max_lon": 107.354805,
+                    "time": 2429.825,
+                    "length": 50.225,
+                    "cost": 2254.314
+                },
+                "shape": "}{tfg@g~iwkEsb@pUiWpReUfOsFxKaApKpAdMzDjIxNrShFlD~EbCxD|@pCVyCxBqB|Am@}FQo@}@eDsE_HyNsS{DmIe@qIx@iH|DsHlS{Mb\\aKvb@sUv_@uSlXoU|YiOxKuFdQ_Jve@aKj_@n@zL|BnOtGhNdIxA|@~oAl}@ve@na@|xAjsAdnCxgC`hAzkAb]~j@nVvo@~Pny@nHxu@v`@~_N{A|wAkMziAgQzz@uVbv@mXll@mgCh{DwvAdoBcj@xjAcUlh@eKb_@{Jpx@yCfp@jAhf@~Brd@nH`h@lj@`aCrN|g@de@|uAbd@l{@~]tg@dZt_@zm@bf@f{F|yDhz@pj@nq@zq@tl@~w@bc@vz@zaErcK~t@bhBfZjcA|RrkA~Dfu@?lkAsGhbAePfkAqGv`@k^nbCeKj~@oBfaAbBhbAhd@trGf^`qEtE~_@tHv[zYpr@|f@pu@dv@ns@xtAt_Aja@h\\zZ`_@tWrg@xNnd@vHx`@lCdm@_GldA_Jvm@ei@j{CcQ|dAwHv_A~@lbApJ~w@tOfu@|Uxm@nnAjnCj`@f`AxYfhAdf@laCz^~aBdq@ptBrDjLni@t`Bta@zkAra@pbBjOt~AlK|zKXnc@bR|eVv@py@rE|z@ndAf`OfKdtA|Jb|@bMjx@dVl|@x]h|@zsFtuL`Txd@``@b_AtVd}@jQb}@|Ih`A`Ct`A~FzmI~EntAxGlt@~Mxu@ffBtjGfTf}@jLbaArAbgAsGvfAys@fmEmRnsAaIrjAvAz~@lJlbAdXzlBbDv^xIho@rSjyAdFd^vd@rbDpRp_AnTf_Br\\tcCjLzz@nLf{@fBpM~Hxk@tG|e@p[|fBx`@dtAlW|m@nVle@duArbCrMrYxMp`@|FlZrCpYbExo@fBlm@Jjv@wBfe@qDv`@{LnXsTdW}hA`~AgYv[aLhM{NtP_MzPwLdWoWht@uIf]oEz_@sAx]g@p_@|ClzApA`jAP|mBgBr`AmIn{@eQfr@k[jx@qXzf@_QfZsCnI_IpUcJta@_Et_@YnVI|G~Azc@jBhPhBjPzRfcAhYbaAx`@dcA|]pmAfIba@hGvd@jDdf@Hzf@oBxi@eGxi@cXffD_C~y@nAvw@vD~j@`BfLxCnShS~{@`_@ruAd|B~{IvC`Lf{AtpFlpAloFbLfs@tHtw@pAbc@Tl^FpJD|BiAzh@cEjj@mGnh@eJno@cKlj@eOxf@eSdd@{q@jnA_qBp`D_{B|fDoi@dz@aEtHk_@|r@}Xlo@_EbJg]zaAkUvfAaSphAaInz@gGbz@wDn_A_A|`A`MheFfBlx@fBlx@jB~{@`A~c@b@pPvAdj@`RlsIr@pc@LlIa@pkDqGdgCuL`pCkJ`bAcLpv@gMtl@{Ppk@ec@jtA}x@vzCaNlj@kLho@kbBrnJ}On}@sAtHsL|m@_aA~aFqQfmAqM`mAggAzlK_FzuBlC~sEbBvcEzBr_ChApxCvAzu@nEhy@rUpyAlO~j@xT|k@vThj@fUrg@|Wnc@tYl`@zZn_@p]j\\d`@~[lP~L~L|H~Y|Obq@bZnx@nW`v@xPteBxUxyCp]rl@nM`l@pR~k@fW~e@rXnd@t]la@`_@z_@hc@fo@|{@tyBh{CpJdNnyBx{Cpb@nl@nb@nl@pe@jp@zvAloBnYvb@tTlZhV`[xd@`i@`s@bv@l`@v[bg@|Xlh@vSz`@xJhd@rFze@hBn_@Pt`@wAfMgBjPiDzTuEx[qIfSqFtQ}F|^cRdZiTd^_Wht@ki@rqCosBxWcPjZoOvXgNhWiIj]qIh_@}I~_@sFbc@cEpn@kDbj@o@r]d@v^vB|\\dDnnAtNfxBzXlwAbQbmRncCzf@vJrf@pLjUzG~H~BpYzJnf@pRta@pR~UhPlW~OhS`O`H`H~DdIlC`JnAfKT~J?bi@zBpLbEnHjFdEjGjB~Hh@bHk@lGkBbEoC`D_E|BeEff@}_AjPsZjJwQ|IqTjFuU~DqX`De]tAeQnGgw@r@mJpDob@fj@}dG"
+            }
+        ],
+        "summary": {
+            "has_time_restrictions": false,
+            "has_toll": true,
+            "has_highway": true,
+            "has_ferry": false,
+            "min_lat": 20.992604,
+            "min_lon": 106.977289,
+            "max_lat": 21.098892,
+            "max_lon": 107.354805,
+            "time": 2429.825,
+            "length": 50.225,
+            "cost": 2254.314
+        },
+        "status_message": "Found route between points",
+        "status": 0,
+        "units": "kilometers",
+        "language": "en"
+    }
+}

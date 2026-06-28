@@ -1,0 +1,152 @@
+[
+    {
+        "stationName": "IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.4388506004096,
+        "longitude": 105.1233753,
+        "stationOsmId": "6554485169",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.533200300410016,
+        "longitude": 104.9725923,
+        "stationOsmId": "6554530141",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.648064300410176,
+        "longitude": 104.8909391,
+        "stationOsmId": "6880975506",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.87824810040937,
+        "longitude": 104.675479,
+        "stationOsmId": "6876859120",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 22.15278350040644,
+        "longitude": 104.3437083,
+        "stationOsmId": "6554703289",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 22.34336820040313,
+        "longitude": 104.10600119999998,
+        "stationOsmId": "6554701337",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.279407500408325,
+        "longitude": 105.6693158,
+        "stationOsmId": "6970456533",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.35732210040904,
+        "longitude": 105.6061728,
+        "stationOsmId": "3008944938",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.35503360040902,
+        "longitude": 105.4639686,
+        "stationOsmId": "6554465773",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.365362400409104,
+        "longitude": 105.3802266,
+        "stationOsmId": "4965039224",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.390488100409296,
+        "longitude": 105.3300138,
+        "stationOsmId": "3992131737",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.423556900409512,
+        "longitude": 105.2309367,
+        "stationOsmId": "6877650786",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Km237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 22.365095900402697,
+        "longitude": 104.0809068,
+        "stationOsmId": "11619047243",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 21.252734217629648,
+        "longitude": 105.7396005366243,
+        "stationOsmId": "1329842882",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 22.315823,
+        "longitude": 104.1787317,
+        "stationOsmId": "13955471075",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

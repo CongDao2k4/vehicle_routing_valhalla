@@ -1,0 +1,302 @@
+[
+  {
+    "source_epass": "Du Long",
+    "target_epass": "Km133+770",
+    "source_origin_osm_name": "Trạm Thu Phí Du Long",
+    "target_origin_osm_name": "Trạm Thu Phí BOO1_Km133+770",
+    "source_booths": [
+      {
+        "osm_id": "11829703711",
+        "lat": 11.746778199557886,
+        "lon": 109.05659249999998
+      },
+      {
+        "osm_id": "11829703710",
+        "lat": 11.746867899557891,
+        "lon": 109.0566519
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13594729844",
+        "lat": 11.313316199522138,
+        "lon": 108.724601
+      },
+      {
+        "osm_id": "13906102268",
+        "lat": 11.313278199522127,
+        "lon": 108.7246803
+      }
+    ]
+  },
+  {
+    "source_epass": "Du Long",
+    "target_epass": "Phan Rang",
+    "source_origin_osm_name": "Trạm Thu Phí Du Long",
+    "target_origin_osm_name": "Trạm thu phí Phan Rang",
+    "source_booths": [
+      {
+        "osm_id": "11829703711",
+        "lat": 11.746778199557886,
+        "lon": 109.05659249999998
+      },
+      {
+        "osm_id": "11829703710",
+        "lat": 11.746867899557891,
+        "lon": 109.0566519
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703715",
+        "lat": 11.630359099547936,
+        "lon": 108.8960018
+      },
+      {
+        "osm_id": "11829703714",
+        "lat": 11.630359599547932,
+        "lon": 108.8958681
+      }
+    ]
+  },
+  {
+    "source_epass": "Du Long",
+    "target_epass": "Phan Rang",
+    "source_origin_osm_name": "Trạm Thu Phí Du Long",
+    "target_origin_osm_name": "Trạm thu phí Phan Rang - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "11829703711",
+        "lat": 11.746778199557886,
+        "lon": 109.05659249999998
+      },
+      {
+        "osm_id": "11829703710",
+        "lat": 11.746867899557891,
+        "lon": 109.0566519
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703712",
+        "lat": 11.627941099547726,
+        "lon": 108.89881359999998
+      },
+      {
+        "osm_id": "11829703713",
+        "lat": 11.628003599547732,
+        "lon": 108.8988791
+      }
+    ]
+  },
+  {
+    "source_epass": "Km133+770",
+    "target_epass": "Du Long",
+    "source_origin_osm_name": "Trạm Thu Phí BOO1_Km133+770",
+    "target_origin_osm_name": "Trạm Thu Phí Du Long",
+    "source_booths": [
+      {
+        "osm_id": "13594729844",
+        "lat": 11.313316199522138,
+        "lon": 108.724601
+      },
+      {
+        "osm_id": "13906102268",
+        "lat": 11.313278199522127,
+        "lon": 108.7246803
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703711",
+        "lat": 11.746778199557886,
+        "lon": 109.05659249999998
+      },
+      {
+        "osm_id": "11829703710",
+        "lat": 11.746867899557891,
+        "lon": 109.0566519
+      }
+    ]
+  },
+  {
+    "source_epass": "Km133+770",
+    "target_epass": "Phan Rang",
+    "source_origin_osm_name": "Trạm Thu Phí BOO1_Km133+770",
+    "target_origin_osm_name": "Trạm thu phí Phan Rang",
+    "source_booths": [
+      {
+        "osm_id": "13594729844",
+        "lat": 11.313316199522138,
+        "lon": 108.724601
+      },
+      {
+        "osm_id": "13906102268",
+        "lat": 11.313278199522127,
+        "lon": 108.7246803
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703715",
+        "lat": 11.630359099547936,
+        "lon": 108.8960018
+      },
+      {
+        "osm_id": "11829703714",
+        "lat": 11.630359599547932,
+        "lon": 108.8958681
+      }
+    ]
+  },
+  {
+    "source_epass": "Km133+770",
+    "target_epass": "Phan Rang",
+    "source_origin_osm_name": "Trạm Thu Phí BOO1_Km133+770",
+    "target_origin_osm_name": "Trạm thu phí Phan Rang - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "13594729844",
+        "lat": 11.313316199522138,
+        "lon": 108.724601
+      },
+      {
+        "osm_id": "13906102268",
+        "lat": 11.313278199522127,
+        "lon": 108.7246803
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703712",
+        "lat": 11.627941099547726,
+        "lon": 108.89881359999998
+      },
+      {
+        "osm_id": "11829703713",
+        "lat": 11.628003599547732,
+        "lon": 108.8988791
+      }
+    ]
+  },
+  {
+    "source_epass": "Phan Rang",
+    "target_epass": "Du Long",
+    "source_origin_osm_name": "Trạm thu phí Phan Rang",
+    "target_origin_osm_name": "Trạm Thu Phí Du Long",
+    "source_booths": [
+      {
+        "osm_id": "11829703715",
+        "lat": 11.630359099547936,
+        "lon": 108.8960018
+      },
+      {
+        "osm_id": "11829703714",
+        "lat": 11.630359599547932,
+        "lon": 108.8958681
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703711",
+        "lat": 11.746778199557886,
+        "lon": 109.05659249999998
+      },
+      {
+        "osm_id": "11829703710",
+        "lat": 11.746867899557891,
+        "lon": 109.0566519
+      }
+    ]
+  },
+  {
+    "source_epass": "Phan Rang",
+    "target_epass": "Du Long",
+    "source_origin_osm_name": "Trạm thu phí Phan Rang - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí Du Long",
+    "source_booths": [
+      {
+        "osm_id": "11829703712",
+        "lat": 11.627941099547726,
+        "lon": 108.89881359999998
+      },
+      {
+        "osm_id": "11829703713",
+        "lat": 11.628003599547732,
+        "lon": 108.8988791
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "11829703711",
+        "lat": 11.746778199557886,
+        "lon": 109.05659249999998
+      },
+      {
+        "osm_id": "11829703710",
+        "lat": 11.746867899557891,
+        "lon": 109.0566519
+      }
+    ]
+  },
+  {
+    "source_epass": "Phan Rang",
+    "target_epass": "Km133+770",
+    "source_origin_osm_name": "Trạm thu phí Phan Rang",
+    "target_origin_osm_name": "Trạm Thu Phí BOO1_Km133+770",
+    "source_booths": [
+      {
+        "osm_id": "11829703715",
+        "lat": 11.630359099547936,
+        "lon": 108.8960018
+      },
+      {
+        "osm_id": "11829703714",
+        "lat": 11.630359599547932,
+        "lon": 108.8958681
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13594729844",
+        "lat": 11.313316199522138,
+        "lon": 108.724601
+      },
+      {
+        "osm_id": "13906102268",
+        "lat": 11.313278199522127,
+        "lon": 108.7246803
+      }
+    ]
+  },
+  {
+    "source_epass": "Phan Rang",
+    "target_epass": "Km133+770",
+    "source_origin_osm_name": "Trạm thu phí Phan Rang - nh 2",
+    "target_origin_osm_name": "Trạm Thu Phí BOO1_Km133+770",
+    "source_booths": [
+      {
+        "osm_id": "11829703712",
+        "lat": 11.627941099547726,
+        "lon": 108.89881359999998
+      },
+      {
+        "osm_id": "11829703713",
+        "lat": 11.628003599547732,
+        "lon": 108.8988791
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13594729844",
+        "lat": 11.313316199522138,
+        "lon": 108.724601
+      },
+      {
+        "osm_id": "13906102268",
+        "lat": 11.313278199522127,
+        "lon": 108.7246803
+      }
+    ]
+  }
+]

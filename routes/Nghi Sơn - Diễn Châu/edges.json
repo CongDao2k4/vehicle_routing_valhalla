@@ -1,0 +1,122 @@
+[
+    {
+        "source": "Nút giao Diễn Cát",
+        "target": "Nút giao Nghi Sơn",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Diễn Cát - Nút giao Nghi Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305927",
+        "targetOsmId": "13603305917"
+    },
+    {
+        "source": "Nút giao Diễn Cát",
+        "target": "Nút giao Quỳnh Lưu",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Diễn Cát - Nút giao Quỳnh Lưu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305927",
+        "targetOsmId": "13603305920"
+    },
+    {
+        "source": "Nút giao Diễn Cát",
+        "target": "Nút giao Quỳnh Vinh",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Diễn Cát - Nút giao Quỳnh Vinh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305927",
+        "targetOsmId": "13603305924"
+    },
+    {
+        "source": "Nút giao Nghi Sơn",
+        "target": "Nút giao Diễn Cát",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Nghi Sơn - Nút giao Diễn Cát",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305917",
+        "targetOsmId": "13603305927"
+    },
+    {
+        "source": "Nút giao Nghi Sơn",
+        "target": "Nút giao Quỳnh Lưu",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Nghi Sơn - Nút giao Quỳnh Lưu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305917",
+        "targetOsmId": "13603305920"
+    },
+    {
+        "source": "Nút giao Nghi Sơn",
+        "target": "Nút giao Quỳnh Vinh",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Nghi Sơn - Nút giao Quỳnh Vinh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305917",
+        "targetOsmId": "13603305924"
+    },
+    {
+        "source": "Nút giao Quỳnh Lưu",
+        "target": "Nút giao Diễn Cát",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Quỳnh Lưu - Nút giao Diễn Cát",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305920",
+        "targetOsmId": "13603305927"
+    },
+    {
+        "source": "Nút giao Quỳnh Lưu",
+        "target": "Nút giao Nghi Sơn",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Quỳnh Lưu - Nút giao Nghi Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305920",
+        "targetOsmId": "13603305917"
+    },
+    {
+        "source": "Nút giao Quỳnh Lưu",
+        "target": "Nút giao Quỳnh Vinh",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Quỳnh Lưu - Nút giao Quỳnh Vinh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305920",
+        "targetOsmId": "13603305924"
+    },
+    {
+        "source": "Nút giao Quỳnh Vinh",
+        "target": "Nút giao Diễn Cát",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Quỳnh Vinh - Nút giao Diễn Cát",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305924",
+        "targetOsmId": "13603305927"
+    },
+    {
+        "source": "Nút giao Quỳnh Vinh",
+        "target": "Nút giao Nghi Sơn",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Quỳnh Vinh - Nút giao Nghi Sơn",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305924",
+        "targetOsmId": "13603305917"
+    },
+    {
+        "source": "Nút giao Quỳnh Vinh",
+        "target": "Nút giao Quỳnh Lưu",
+        "routeName": "Nghi Sơn - Diễn Châu",
+        "stageName": "Nút giao Quỳnh Vinh - Nút giao Quỳnh Lưu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13603305924",
+        "targetOsmId": "13603305920"
+    }
+]

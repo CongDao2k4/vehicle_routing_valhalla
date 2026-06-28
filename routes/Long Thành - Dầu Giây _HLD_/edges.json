@@ -1,0 +1,402 @@
+[
+    {
+        "source": "BOT 319",
+        "target": "Biên Hòa - Vũng Tàu",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "BOT 319 - Biên Hòa - Vũng Tàu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "9754127696",
+        "targetOsmId": "11596377024"
+    },
+    {
+        "source": "BOT 319",
+        "target": "Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "BOT 319 - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "9754127696",
+        "targetOsmId": "1006324193"
+    },
+    {
+        "source": "BOT 319",
+        "target": "Long Phước",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "BOT 319 - Long Phước",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "9754127696",
+        "targetOsmId": "631536968"
+    },
+    {
+        "source": "BOT 319",
+        "target": "NH51",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "BOT 319 - NH51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "9754127696",
+        "targetOsmId": "5606336350"
+    },
+    {
+        "source": "BOT 319",
+        "target": "Nút giao VĐ 3 - HLD (C)",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "BOT 319 - Nút giao VĐ 3 - HLD (C)",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "9754127696",
+        "targetOsmId": "12462757073"
+    },
+    {
+        "source": "BOT 319",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "BOT 319 - Phan Thiết Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "9754127696",
+        "targetOsmId": "8579215378"
+    },
+    {
+        "source": "Biên Hòa - Vũng Tàu",
+        "target": "BOT 319",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Biên Hòa - Vũng Tàu - BOT 319",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11596377024",
+        "targetOsmId": "9754127696"
+    },
+    {
+        "source": "Biên Hòa - Vũng Tàu",
+        "target": "Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Biên Hòa - Vũng Tàu - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11596377024",
+        "targetOsmId": "1006324193"
+    },
+    {
+        "source": "Biên Hòa - Vũng Tàu",
+        "target": "Long Phước",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Biên Hòa - Vũng Tàu - Long Phước",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11596377024",
+        "targetOsmId": "631536968"
+    },
+    {
+        "source": "Biên Hòa - Vũng Tàu",
+        "target": "NH51",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Biên Hòa - Vũng Tàu - NH51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11596377024",
+        "targetOsmId": "5606336350"
+    },
+    {
+        "source": "Biên Hòa - Vũng Tàu",
+        "target": "Nút giao VĐ 3 - HLD (C)",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Biên Hòa - Vũng Tàu - Nút giao VĐ 3 - HLD (C)",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11596377024",
+        "targetOsmId": "12462757073"
+    },
+    {
+        "source": "Biên Hòa - Vũng Tàu",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Biên Hòa - Vũng Tàu - Phan Thiết - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11596377024",
+        "targetOsmId": "8579215378"
+    },
+    {
+        "source": "Dầu Giây",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Dầu Giây -  Phan Thiết Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1006324193",
+        "targetOsmId": "8579215378"
+    },
+    {
+        "source": "Dầu Giây",
+        "target": "BOT 319",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Dầu Giây - BOT 319",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1006324193",
+        "targetOsmId": "9754127696"
+    },
+    {
+        "source": "Dầu Giây",
+        "target": "Biên Hòa - Vũng Tàu",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Dầu Giây - Biên Hòa - Vũng Tàu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1006324193",
+        "targetOsmId": "11596377024"
+    },
+    {
+        "source": "Dầu Giây",
+        "target": "Long Phước",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Dầu Giây - Long Phước",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1006324193",
+        "targetOsmId": "631536968"
+    },
+    {
+        "source": "Dầu Giây",
+        "target": "NH51",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Dầu Giây - NH51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1006324193",
+        "targetOsmId": "5606336350"
+    },
+    {
+        "source": "Dầu Giây",
+        "target": "Nút giao VĐ 3 - HLD (C)",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Dầu Giây - Nút giao VĐ 3 - HLD (C)",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1006324193",
+        "targetOsmId": "12462757073"
+    },
+    {
+        "source": "Long Phước",
+        "target": "BOT 319",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Long Phước - BOT 319",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "631536968",
+        "targetOsmId": "9754127696"
+    },
+    {
+        "source": "Long Phước",
+        "target": "Biên Hòa - Vũng Tàu",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Long Phước - Biên Hòa - Vũng Tàu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "631536968",
+        "targetOsmId": "11596377024"
+    },
+    {
+        "source": "Long Phước",
+        "target": "Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Long Phước - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "631536968",
+        "targetOsmId": "1006324193"
+    },
+    {
+        "source": "Long Phước",
+        "target": "NH51",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Long Phước - NH51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "631536968",
+        "targetOsmId": "5606336350"
+    },
+    {
+        "source": "Long Phước",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Long Phước - Phan Thiết Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "631536968",
+        "targetOsmId": "8579215378"
+    },
+    {
+        "source": "NH51",
+        "target": "BOT 319",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "NH51 - BOT 319",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5606336350",
+        "targetOsmId": "9754127696"
+    },
+    {
+        "source": "NH51",
+        "target": "Biên Hòa - Vũng Tàu",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "NH51 - Biên Hòa - Vũng Tàu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5606336350",
+        "targetOsmId": "11596377024"
+    },
+    {
+        "source": "NH51",
+        "target": "Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "NH51 - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5606336350",
+        "targetOsmId": "1006324193"
+    },
+    {
+        "source": "NH51",
+        "target": "Long Phước",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "NH51 - Long Phước",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5606336350",
+        "targetOsmId": "631536968"
+    },
+    {
+        "source": "NH51",
+        "target": "Nút giao VĐ 3 - HLD (C)",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "NH51 - Nút giao VĐ 3 - HLD (C)",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5606336350",
+        "targetOsmId": "12462757073"
+    },
+    {
+        "source": "NH51",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "NH51 - Phan Thiết Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "5606336350",
+        "targetOsmId": "8579215378"
+    },
+    {
+        "source": "Nút giao VĐ 3 - HLD (C)",
+        "target": "BOT 319",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Nút giao VĐ 3 - HLD (C) - BOT 319",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12462757073",
+        "targetOsmId": "9754127696"
+    },
+    {
+        "source": "Nút giao VĐ 3 - HLD (C)",
+        "target": "Biên Hòa - Vũng Tàu",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Nút giao VĐ 3 - HLD (C) - Biên Hòa - Vũng Tàu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12462757073",
+        "targetOsmId": "11596377024"
+    },
+    {
+        "source": "Nút giao VĐ 3 - HLD (C)",
+        "target": "Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Nút giao VĐ 3 - HLD (C) - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12462757073",
+        "targetOsmId": "1006324193"
+    },
+    {
+        "source": "Nút giao VĐ 3 - HLD (C)",
+        "target": "NH51",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Nút giao VĐ 3 - HLD (C) - NH51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12462757073",
+        "targetOsmId": "5606336350"
+    },
+    {
+        "source": "Nút giao VĐ 3 - HLD (C)",
+        "target": "Phan Thiết - Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Nút giao VĐ 3 - HLD (C) - Phan Thiết - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12462757073",
+        "targetOsmId": "8579215378"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "BOT 319",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Phan Thiết - Dầu Giây - BOT 319",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "9754127696"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "Biên Hòa - Vũng Tàu",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Phan Thiết - Dầu Giây - Biên Hòa - Vũng Tàu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "11596377024"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "Dầu Giây",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Phan Thiết - Dầu Giây - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "1006324193"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "Long Phước",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Phan Thiết - Dầu Giây - Long Phước",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "631536968"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "NH51",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Phan Thiết - Dầu Giây - NH51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "5606336350"
+    },
+    {
+        "source": "Phan Thiết - Dầu Giây",
+        "target": "Nút giao VĐ 3 - HLD (C)",
+        "routeName": "Long Thành - Dầu Giây (HLD)",
+        "stageName": "Phan Thiết - Dầu Giây - Nút giao VĐ 3 - HLD (C)",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "8579215378",
+        "targetOsmId": "12462757073"
+    }
+]

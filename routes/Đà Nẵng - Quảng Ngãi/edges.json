@@ -1,0 +1,562 @@
+[
+    {
+        "source": "Bắc Quảng Ngãi",
+        "target": "Chu Lai",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Bắc Quảng Ngãi - Chu Lai",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12723387255",
+        "targetOsmId": "12725719649"
+    },
+    {
+        "source": "Bắc Quảng Ngãi",
+        "target": "Dung Quất",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Bắc Quảng Ngãi - Dung Quất",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12723387255",
+        "targetOsmId": "10236670094"
+    },
+    {
+        "source": "Bắc Quảng Ngãi",
+        "target": "Hà Lam",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Bắc Quảng Ngãi - Hà Lam",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12723387255",
+        "targetOsmId": "1374419129"
+    },
+    {
+        "source": "Bắc Quảng Ngãi",
+        "target": "Phong Thử",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Bắc Quảng Ngãi - Phong Thử",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12723387255",
+        "targetOsmId": "1374419135"
+    },
+    {
+        "source": "Bắc Quảng Ngãi",
+        "target": "Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Bắc Quảng Ngãi - Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12723387255",
+        "targetOsmId": "1374419109"
+    },
+    {
+        "source": "Bắc Quảng Ngãi",
+        "target": "Tam Kỳ",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Bắc Quảng Ngãi - Tam Kỳ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12723387255",
+        "targetOsmId": "6860284192"
+    },
+    {
+        "source": "Bắc Quảng Ngãi",
+        "target": "Túy Loan",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Bắc Quảng Ngãi - Túy Loan",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12723387255",
+        "targetOsmId": "6888345522"
+    },
+    {
+        "source": "Chu Lai",
+        "target": "Bắc Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Chu Lai - Bắc Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12725719649",
+        "targetOsmId": "12723387255"
+    },
+    {
+        "source": "Chu Lai",
+        "target": "Dung Quất",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Chu Lai - Dung Quất",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12725719649",
+        "targetOsmId": "10236670094"
+    },
+    {
+        "source": "Chu Lai",
+        "target": "Hà Lam",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Chu Lai - Hà Lam ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12725719649",
+        "targetOsmId": "1374419129"
+    },
+    {
+        "source": "Chu Lai",
+        "target": "Phong Thử",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Chu Lai - Phong Thử",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12725719649",
+        "targetOsmId": "1374419135"
+    },
+    {
+        "source": "Chu Lai",
+        "target": "Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Chu Lai - Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12725719649",
+        "targetOsmId": "1374419109"
+    },
+    {
+        "source": "Chu Lai",
+        "target": "Tam Kỳ",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Chu Lai - Tam Kỳ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12725719649",
+        "targetOsmId": "6860284192"
+    },
+    {
+        "source": "Chu Lai",
+        "target": "Túy Loan",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Chu Lai - Túy Loan",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12725719649",
+        "targetOsmId": "6888345522"
+    },
+    {
+        "source": "Dung Quất",
+        "target": "Bắc Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Dung Quất - Bắc Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10236670094",
+        "targetOsmId": "12723387255"
+    },
+    {
+        "source": "Dung Quất",
+        "target": "Chu Lai",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Dung Quất - Chu Lai",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10236670094",
+        "targetOsmId": "12725719649"
+    },
+    {
+        "source": "Dung Quất",
+        "target": "Hà Lam",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Dung Quất - Hà Lam",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10236670094",
+        "targetOsmId": "1374419129"
+    },
+    {
+        "source": "Dung Quất",
+        "target": "Phong Thử",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Dung Quất - Phong Thử",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10236670094",
+        "targetOsmId": "1374419135"
+    },
+    {
+        "source": "Dung Quất",
+        "target": "Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Dung Quất - Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10236670094",
+        "targetOsmId": "1374419109"
+    },
+    {
+        "source": "Dung Quất",
+        "target": "Tam Kỳ",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Dung Quất - Tam Kỳ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10236670094",
+        "targetOsmId": "6860284192"
+    },
+    {
+        "source": "Dung Quất",
+        "target": "Túy Loan",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Dung Quất - Túy Loan",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10236670094",
+        "targetOsmId": "6888345522"
+    },
+    {
+        "source": "Hà Lam",
+        "target": "Bắc Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Hà Lam - Bắc Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419129",
+        "targetOsmId": "12723387255"
+    },
+    {
+        "source": "Hà Lam",
+        "target": "Chu Lai",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Hà Lam - Chu Lai",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419129",
+        "targetOsmId": "12725719649"
+    },
+    {
+        "source": "Hà Lam",
+        "target": "Dung Quất",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Hà Lam - Dung Quất",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419129",
+        "targetOsmId": "10236670094"
+    },
+    {
+        "source": "Hà Lam",
+        "target": "Phong Thử",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Hà Lam - Phong Thử",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419129",
+        "targetOsmId": "1374419135"
+    },
+    {
+        "source": "Hà Lam",
+        "target": "Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Hà Lam - Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419129",
+        "targetOsmId": "1374419109"
+    },
+    {
+        "source": "Hà Lam",
+        "target": "Tam Kỳ",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Hà Lam - Tam Kỳ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419129",
+        "targetOsmId": "6860284192"
+    },
+    {
+        "source": "Hà Lam",
+        "target": "Túy Loan",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Hà Lam - Túy Loan",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419129",
+        "targetOsmId": "6888345522"
+    },
+    {
+        "source": "Phong Thử",
+        "target": "Bắc Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Phong Thử - Bắc Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419135",
+        "targetOsmId": "12723387255"
+    },
+    {
+        "source": "Phong Thử",
+        "target": "Chu Lai",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Phong Thử - Chu Lai",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419135",
+        "targetOsmId": "12725719649"
+    },
+    {
+        "source": "Phong Thử",
+        "target": "Dung Quất",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Phong Thử - Dung Quất",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419135",
+        "targetOsmId": "10236670094"
+    },
+    {
+        "source": "Phong Thử",
+        "target": "Hà Lam",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Phong Thử - Hà Lam ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419135",
+        "targetOsmId": "1374419129"
+    },
+    {
+        "source": "Phong Thử",
+        "target": "Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Phong Thử - Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419135",
+        "targetOsmId": "1374419109"
+    },
+    {
+        "source": "Phong Thử",
+        "target": "Tam Kỳ",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Phong Thử - Tam Kỳ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419135",
+        "targetOsmId": "6860284192"
+    },
+    {
+        "source": "Phong Thử",
+        "target": "Túy Loan",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Phong Thử - Túy Loan",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419135",
+        "targetOsmId": "6888345522"
+    },
+    {
+        "source": "Quảng Ngãi",
+        "target": "Bắc Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Quảng Ngãi - Bắc Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419109",
+        "targetOsmId": "12723387255"
+    },
+    {
+        "source": "Quảng Ngãi",
+        "target": "Chu Lai",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Quảng Ngãi - Chu Lai",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419109",
+        "targetOsmId": "12725719649"
+    },
+    {
+        "source": "Quảng Ngãi",
+        "target": "Dung Quất",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Quảng Ngãi - Dung Quất",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419109",
+        "targetOsmId": "10236670094"
+    },
+    {
+        "source": "Quảng Ngãi",
+        "target": "Hà Lam",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Quảng Ngãi - Hà Lam",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419109",
+        "targetOsmId": "1374419129"
+    },
+    {
+        "source": "Quảng Ngãi",
+        "target": "Phong Thử",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Quảng Ngãi - Phong Thử",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419109",
+        "targetOsmId": "1374419135"
+    },
+    {
+        "source": "Quảng Ngãi",
+        "target": "Tam Kỳ",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Quảng Ngãi - Tam Kỳ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419109",
+        "targetOsmId": "6860284192"
+    },
+    {
+        "source": "Quảng Ngãi",
+        "target": "Túy Loan",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Quảng Ngãi - Túy Loan",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374419109",
+        "targetOsmId": "6888345522"
+    },
+    {
+        "source": "Tam Kỳ",
+        "target": "Bắc Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Tam Kỳ - Bắc Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6860284192",
+        "targetOsmId": "12723387255"
+    },
+    {
+        "source": "Tam Kỳ",
+        "target": "Chu Lai",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Tam Kỳ - Chu Lai",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6860284192",
+        "targetOsmId": "12725719649"
+    },
+    {
+        "source": "Tam Kỳ",
+        "target": "Dung Quất",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Tam Kỳ - Dung Quất",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6860284192",
+        "targetOsmId": "10236670094"
+    },
+    {
+        "source": "Tam Kỳ",
+        "target": "Hà Lam",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Tam Kỳ - Hà Lam",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6860284192",
+        "targetOsmId": "1374419129"
+    },
+    {
+        "source": "Tam Kỳ",
+        "target": "Phong Thử",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Tam Kỳ - Phong Thử",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6860284192",
+        "targetOsmId": "1374419135"
+    },
+    {
+        "source": "Tam Kỳ",
+        "target": "Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Tam Kỳ - Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6860284192",
+        "targetOsmId": "1374419109"
+    },
+    {
+        "source": "Tam Kỳ",
+        "target": "Túy Loan",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Tam Kỳ - Túy Loan",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6860284192",
+        "targetOsmId": "6888345522"
+    },
+    {
+        "source": "Túy Loan",
+        "target": "Bắc Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Túy Loan - Bắc Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6888345522",
+        "targetOsmId": "12723387255"
+    },
+    {
+        "source": "Túy Loan",
+        "target": "Chu Lai",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Túy Loan - Chu Lai",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6888345522",
+        "targetOsmId": "12725719649"
+    },
+    {
+        "source": "Túy Loan",
+        "target": "Dung Quất",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Túy Loan - Dung Quất",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6888345522",
+        "targetOsmId": "10236670094"
+    },
+    {
+        "source": "Túy Loan",
+        "target": "Hà Lam",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Túy Loan - Hà Lam",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6888345522",
+        "targetOsmId": "1374419129"
+    },
+    {
+        "source": "Túy Loan",
+        "target": "Phong Thử",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Túy Loan - Phong Thử",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6888345522",
+        "targetOsmId": "1374419135"
+    },
+    {
+        "source": "Túy Loan",
+        "target": "Quảng Ngãi",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Túy Loan - Quảng Ngãi",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6888345522",
+        "targetOsmId": "1374419109"
+    },
+    {
+        "source": "Túy Loan",
+        "target": "Tam Kỳ",
+        "routeName": "Đà Nẵng - Quảng Ngãi",
+        "stageName": "Túy Loan - Tam Kỳ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6888345522",
+        "targetOsmId": "6860284192"
+    }
+]

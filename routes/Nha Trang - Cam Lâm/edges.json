@@ -1,0 +1,122 @@
+[
+    {
+        "source": "Cam Lâm",
+        "target": "Cam Ranh",
+        "routeName": "Nha Trang - Cam Lâm ",
+        "stageName": "Cam Lâm - Cam Ranh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1482474233",
+        "targetOsmId": "1482468510"
+    },
+    {
+        "source": "Cam Lâm",
+        "target": "Diên Khánh",
+        "routeName": "Nha Trang - Cam Lâm",
+        "stageName": "Cam Lâm - Diên Khánh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1482474233",
+        "targetOsmId": "11910194124"
+    },
+    {
+        "source": "Cam Lâm",
+        "target": "Suối Dầu",
+        "routeName": "Nha Trang - Cam Lâm",
+        "stageName": "Cam Lâm - Suối Dầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1482474233",
+        "targetOsmId": "12645469228"
+    },
+    {
+        "source": "Cam Ranh",
+        "target": "Cam Lâm",
+        "routeName": "Nha Trang - Cam Lâm",
+        "stageName": "Cam Ranh - Cam Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1482468510",
+        "targetOsmId": "1482474233"
+    },
+    {
+        "source": "Cam Ranh",
+        "target": "Diên Khánh",
+        "routeName": "Nha Trang - Cam Lâm",
+        "stageName": "Cam Ranh - Diên Khánh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1482468510",
+        "targetOsmId": "11910194124"
+    },
+    {
+        "source": "Cam Ranh",
+        "target": "Suối Dầu",
+        "routeName": "Nha Trang - Cam Lâm",
+        "stageName": "Cam Ranh - Suối Dầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1482468510",
+        "targetOsmId": "12645469228"
+    },
+    {
+        "source": "Diên Khánh",
+        "target": "Cam Lâm",
+        "routeName": "Nha Trang - Cam Lâm ",
+        "stageName": "Diên Khánh - Cam Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11910194124",
+        "targetOsmId": "1482474233"
+    },
+    {
+        "source": "Diên Khánh",
+        "target": "Cam Ranh",
+        "routeName": "Nha Trang - Cam Lâm ",
+        "stageName": "Diên Khánh - Cam Ranh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11910194124",
+        "targetOsmId": "1482468510"
+    },
+    {
+        "source": "Diên Khánh",
+        "target": "Suối Dầu",
+        "routeName": "Nha Trang - Cam Lâm ",
+        "stageName": "Diên Khánh - Suối Dầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11910194124",
+        "targetOsmId": "12645469228"
+    },
+    {
+        "source": "Suối Dầu",
+        "target": "Cam Lâm",
+        "routeName": "Nha Trang - Cam Lâm ",
+        "stageName": "Suối Dầu - Cam Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12645469228",
+        "targetOsmId": "1482474233"
+    },
+    {
+        "source": "Suối Dầu",
+        "target": "Cam Ranh",
+        "routeName": "Nha Trang - Cam Lâm ",
+        "stageName": "Suối Dầu - Cam Ranh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12645469228",
+        "targetOsmId": "1482468510"
+    },
+    {
+        "source": "Suối Dầu",
+        "target": "Diên Khánh",
+        "routeName": "Nha Trang - Cam Lâm",
+        "stageName": "Suối Dầu - Diên Khánh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12645469228",
+        "targetOsmId": "11910194124"
+    }
+]

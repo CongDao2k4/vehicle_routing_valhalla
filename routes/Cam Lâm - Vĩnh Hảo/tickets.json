@@ -1,0 +1,170 @@
+[
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Du Long",
+            "Km133+770"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 106000,
+                        "feeType2": 138000,
+                        "feeType3": 181000,
+                        "feeType4": 288000,
+                        "feeType5": 405000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11829703711",
+            "13594729844"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Du Long",
+            "Phan Rang"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 37000,
+                        "feeType2": 48000,
+                        "feeType3": 63000,
+                        "feeType4": 100000,
+                        "feeType5": 141000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "11829703711",
+            "1482468507"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Km133+770",
+            "Du Long"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 106000,
+                        "feeType2": 138000,
+                        "feeType3": 181000,
+                        "feeType4": 288000,
+                        "feeType5": 405000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594729844",
+            "11829703711"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Km133+770",
+            "Phan Rang"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 69000,
+                        "feeType2": 90000,
+                        "feeType3": 118000,
+                        "feeType4": 187000,
+                        "feeType5": 263000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594729844",
+            "1482468507"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phan Rang",
+            "Du Long"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 37000,
+                        "feeType2": 48000,
+                        "feeType3": 63000,
+                        "feeType4": 100000,
+                        "feeType5": 141000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1482468507",
+            "11829703711"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Phan Rang",
+            "Km133+770"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 69000,
+                        "feeType2": 90000,
+                        "feeType3": 118000,
+                        "feeType4": 187000,
+                        "feeType5": 263000
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1482468507",
+            "13594729844"
+        ]
+    }
+]

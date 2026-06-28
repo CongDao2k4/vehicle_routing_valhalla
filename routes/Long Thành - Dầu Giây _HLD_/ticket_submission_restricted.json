@@ -1,0 +1,842 @@
+[
+    {
+        "osmId": "9754127695.0",
+        "out": [
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 10864,
+                                "feeType2": 16297,
+                                "feeType3": 21729,
+                                "feeType4": 27161,
+                                "feeType5": 43458
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "11596377024.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 77597,
+                                "feeType2": 116395,
+                                "feeType3": 155194,
+                                "feeType4": 193992,
+                                "feeType5": 310388
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "6425303961.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 34529,
+                                "feeType2": 51793,
+                                "feeType3": 69057,
+                                "feeType4": 86321,
+                                "feeType5": 138114
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "2592830364.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 9237,
+                                "feeType2": 13855,
+                                "feeType3": 18474,
+                                "feeType4": 23092,
+                                "feeType5": 36948
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "5606336350.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 16934,
+                                "feeType2": 25402,
+                                "feeType3": 33869,
+                                "feeType4": 42336,
+                                "feeType5": 67738
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "12462757074.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 51518,
+                                "feeType2": 77277,
+                                "feeType3": 103036,
+                                "feeType4": 128795,
+                                "feeType5": 206072
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "8579215378.0"
+            }
+        ]
+    },
+    {
+        "osmId": "13906819840.0",
+        "out": [
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 10864,
+                                "feeType2": 16297,
+                                "feeType3": 21729,
+                                "feeType4": 27161,
+                                "feeType5": 43458
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "9754127696.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 66733,
+                                "feeType2": 100099,
+                                "feeType3": 133465,
+                                "feeType4": 166831,
+                                "feeType5": 266930
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "6425303961.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 45393,
+                                "feeType2": 68089,
+                                "feeType3": 90786,
+                                "feeType4": 113482,
+                                "feeType5": 181572
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "2592830364.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 1627,
+                                "feeType2": 2441,
+                                "feeType3": 3255,
+                                "feeType4": 4069,
+                                "feeType5": 6510
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "2976056988.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 27799,
+                                "feeType2": 41698,
+                                "feeType3": 55598,
+                                "feeType4": 69497,
+                                "feeType5": 111195
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "12462757074.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 40654,
+                                "feeType2": 60980,
+                                "feeType3": 81307,
+                                "feeType4": 101634,
+                                "feeType5": 162614
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "8579215378.0"
+            }
+        ]
+    },
+    {
+        "osmId": "6425303962.0",
+        "out": [
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 26079,
+                                "feeType2": 39118,
+                                "feeType3": 52158,
+                                "feeType4": 65197,
+                                "feeType5": 104316
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "8579215378.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 77597,
+                                "feeType2": 116395,
+                                "feeType3": 155194,
+                                "feeType4": 193992,
+                                "feeType5": 310388
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "9754127696.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 66733,
+                                "feeType2": 100099,
+                                "feeType3": 133465,
+                                "feeType4": 166831,
+                                "feeType5": 266930
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "11596377024.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 112126,
+                                "feeType2": 168188,
+                                "feeType3": 224251,
+                                "feeType4": 280314,
+                                "feeType5": 448502
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "2592830364.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 68360,
+                                "feeType2": 102540,
+                                "feeType3": 136720,
+                                "feeType4": 170900,
+                                "feeType5": 273440
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "2976056988.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 94531,
+                                "feeType2": 141797,
+                                "feeType3": 189063,
+                                "feeType4": 236328,
+                                "feeType5": 378125
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "12462757074.0"
+            }
+        ]
+    },
+    {
+        "osmId": "2592845362.0",
+        "out": [
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 34529,
+                                "feeType2": 51793,
+                                "feeType3": 69057,
+                                "feeType4": 86321,
+                                "feeType5": 138114
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "9754127696.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 45393,
+                                "feeType2": 68089,
+                                "feeType3": 90786,
+                                "feeType4": 113482,
+                                "feeType5": 181572
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "11596377024.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 112126,
+                                "feeType2": 168188,
+                                "feeType3": 224251,
+                                "feeType4": 280314,
+                                "feeType5": 448502
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "6425303961.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 43766,
+                                "feeType2": 65648,
+                                "feeType3": 87531,
+                                "feeType4": 109414,
+                                "feeType5": 175062
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "5606336350.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 86047,
+                                "feeType2": 129070,
+                                "feeType3": 172093,
+                                "feeType4": 215116,
+                                "feeType5": 344186
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "8579215378.0"
+            }
+        ]
+    },
+    {
+        "osmId": "5606335895.0",
+        "out": [
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 9237,
+                                "feeType2": 13855,
+                                "feeType3": 18474,
+                                "feeType4": 23092,
+                                "feeType5": 36948
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "9754127696.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 43766,
+                                "feeType2": 65648,
+                                "feeType3": 87531,
+                                "feeType4": 109414,
+                                "feeType5": 175062
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "2592830364.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 26171,
+                                "feeType2": 39257,
+                                "feeType3": 52343,
+                                "feeType4": 65428,
+                                "feeType5": 104685
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "12462757074.0"
+            }
+        ]
+    },
+    {
+        "osmId": "5964362021.0",
+        "out": [
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 1627,
+                                "feeType2": 2441,
+                                "feeType3": 3255,
+                                "feeType4": 4069,
+                                "feeType5": 6510
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "11596377024.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 68360,
+                                "feeType2": 102540,
+                                "feeType3": 136720,
+                                "feeType4": 170900,
+                                "feeType5": 273440
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "6425303961.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 42281,
+                                "feeType2": 63422,
+                                "feeType3": 84562,
+                                "feeType4": 105703,
+                                "feeType5": 169124
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "8579215378.0"
+            }
+        ]
+    },
+    {
+        "osmId": "12462757073.0",
+        "out": [
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 16934,
+                                "feeType2": 25402,
+                                "feeType3": 33869,
+                                "feeType4": 42336,
+                                "feeType5": 67738
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "9754127696.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 27799,
+                                "feeType2": 41698,
+                                "feeType3": 55598,
+                                "feeType4": 69497,
+                                "feeType5": 111195
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "11596377024.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 94531,
+                                "feeType2": 141797,
+                                "feeType3": 189063,
+                                "feeType4": 236328,
+                                "feeType5": 378125
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "6425303961.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 26171,
+                                "feeType2": 39257,
+                                "feeType3": 52343,
+                                "feeType4": 65428,
+                                "feeType5": 104685
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "5606336350.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 68452,
+                                "feeType2": 102679,
+                                "feeType3": 136905,
+                                "feeType4": 171131,
+                                "feeType5": 273809
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "8579215378.0"
+            }
+        ]
+    },
+    {
+        "osmId": "8579215313.0",
+        "out": [
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 51518,
+                                "feeType2": 77277,
+                                "feeType3": 103036,
+                                "feeType4": 128795,
+                                "feeType5": 206072
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "9754127696.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 40654,
+                                "feeType2": 60980,
+                                "feeType3": 81307,
+                                "feeType4": 101634,
+                                "feeType5": 162614
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "11596377024.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 26079,
+                                "feeType2": 39118,
+                                "feeType3": 52158,
+                                "feeType4": 65197,
+                                "feeType5": 104316
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "6425303961.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 86047,
+                                "feeType2": 129070,
+                                "feeType3": 172093,
+                                "feeType4": 215116,
+                                "feeType5": 344186
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "2592830364.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 42281,
+                                "feeType2": 63422,
+                                "feeType3": 84562,
+                                "feeType4": 105703,
+                                "feeType5": 169124
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "2976056988.0"
+            },
+            {
+                "tickets": [
+                    {
+                        "ticketType": 1,
+                        "ticketTypeName": "Vé lượt",
+                        "prices": [
+                            {
+                                "priceType": 1,
+                                "priceTypeName": "Giá thường",
+                                "feeType1": 68452,
+                                "feeType2": 102679,
+                                "feeType3": 136905,
+                                "feeType4": 171131,
+                                "feeType5": 273809
+                            }
+                        ]
+                    }
+                ],
+                "osmIdOut": "12462757074.0"
+            }
+        ]
+    }
+]

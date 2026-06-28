@@ -1,0 +1,42 @@
+[
+    {
+        "stationName": "An Thái Trung",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.31726439945475,
+        "longitude": 105.885385,
+        "stationOsmId": "13594609049",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cai Lậy",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.412157684385676,
+        "longitude": 106.16486761983658,
+        "stationOsmId": "1225570745",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Cái Bè",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.407114079909496,
+        "longitude": 106.03205202650614,
+        "stationOsmId": "1482412311",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Km51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.43531706151076,
+        "longitude": 106.29512318694024,
+        "stationOsmId": "1308093769",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

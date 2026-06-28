@@ -1,0 +1,72 @@
+[
+    {
+        "stationName": "Phan Thiết - Dầu Giây",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.838869899487335,
+        "longitude": 107.1480463,
+        "stationOsmId": "8579215378",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.8963772994913,
+        "longitude": 107.42155239999998,
+        "stationOsmId": "13457949978",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao QL55",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.858925399488712,
+        "longitude": 107.74151129999998,
+        "stationOsmId": "11813154464",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao QL56",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.859510499488753,
+        "longitude": 107.2355806,
+        "stationOsmId": "13457949977",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao TL720",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.86183249948891,
+        "longitude": 107.6465972,
+        "stationOsmId": "13594672354",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao TL765",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.885088499490518,
+        "longitude": 107.3659241,
+        "stationOsmId": "11304967566",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 10.932602371898122,
+        "longitude": 107.96800349083978,
+        "stationOsmId": "13594672376",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "refType": "EDGE",
+        "refId": [
+            "An Thái Trung",
+            "Cai Lậy"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 78136,
+                        "feeType2": 117186,
+                        "feeType3": 128396,
+                        "feeType4": 165092,
+                        "feeType5": 238483
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594609049",
+            "1225570745"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "An Thái Trung",
+            "Cái Bè"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44714,
+                        "feeType2": 67060,
+                        "feeType3": 73475,
+                        "feeType4": 94475,
+                        "feeType5": 136473
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594609049",
+            "1482412311"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "An Thái Trung",
+            "Km51"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 116301,
+                        "feeType2": 174424,
+                        "feeType3": 191110,
+                        "feeType4": 245729,
+                        "feeType5": 354967
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "13594609049",
+            "1308093769"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Cai Lậy",
+            "An Thái Trung"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 78136,
+                        "feeType2": 117186,
+                        "feeType3": 128396,
+                        "feeType4": 165092,
+                        "feeType5": 238483
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1225570745",
+            "13594609049"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Cai Lậy",
+            "Cái Bè"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 33423,
+                        "feeType2": 50126,
+                        "feeType3": 54921,
+                        "feeType4": 70617,
+                        "feeType5": 102010
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1225570745",
+            "1482412311"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Cai Lậy",
+            "Km51"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 37939,
+                        "feeType2": 56900,
+                        "feeType3": 62343,
+                        "feeType4": 80160,
+                        "feeType5": 115795
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1225570745",
+            "1308093769"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Cái Bè",
+            "An Thái Trung"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 44714,
+                        "feeType2": 67060,
+                        "feeType3": 73475,
+                        "feeType4": 94475,
+                        "feeType5": 136473
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1482412311",
+            "13594609049"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Cái Bè",
+            "Cai Lậy"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 33423,
+                        "feeType2": 50126,
+                        "feeType3": 54921,
+                        "feeType4": 70617,
+                        "feeType5": 102010
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1482412311",
+            "1225570745"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Cái Bè",
+            "Km51"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 71587,
+                        "feeType2": 107364,
+                        "feeType3": 117635,
+                        "feeType4": 151255,
+                        "feeType5": 218494
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1482412311",
+            "1308093769"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Km51",
+            "An Thái Trung"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 116301,
+                        "feeType2": 174424,
+                        "feeType3": 191110,
+                        "feeType4": 245729,
+                        "feeType5": 354967
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1308093769",
+            "13594609049"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Km51",
+            "Cai Lậy"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 37939,
+                        "feeType2": 56900,
+                        "feeType3": 62343,
+                        "feeType4": 80160,
+                        "feeType5": 115795
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1308093769",
+            "1225570745"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Km51",
+            "Cái Bè"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 71587,
+                        "feeType2": 107364,
+                        "feeType3": 117635,
+                        "feeType4": 151255,
+                        "feeType5": 218494
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1308093769",
+            "1482412311"
+        ]
+    }
+]

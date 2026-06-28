@@ -1,0 +1,362 @@
+[
+  {
+    "source_epass": "Hải Hà",
+    "target_epass": "Móng Cái",
+    "source_origin_osm_name": "Trạm Thu phí Hải Hà",
+    "target_origin_osm_name": "Trạm Thu phí Móng Cái",
+    "source_booths": [
+      {
+        "osm_id": "10997783392",
+        "lat": 21.46507040040974,
+        "lon": 107.70575979999998
+      },
+      {
+        "osm_id": "11860353642",
+        "lat": 21.465032300409742,
+        "lon": 107.705702
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8069202011",
+        "lat": 21.512293400409945,
+        "lon": 107.949869
+      },
+      {
+        "osm_id": "8069201958",
+        "lat": 21.512520800409945,
+        "lon": 107.9499493
+      }
+    ]
+  },
+  {
+    "source_epass": "Hải Hà",
+    "target_epass": "Tiên Yên",
+    "source_origin_osm_name": "Trạm Thu phí Hải Hà",
+    "target_origin_osm_name": "Trạm Thu phí Tiên Yên",
+    "source_booths": [
+      {
+        "osm_id": "10997783392",
+        "lat": 21.46507040040974,
+        "lon": 107.70575979999998
+      },
+      {
+        "osm_id": "11860353642",
+        "lat": 21.465032300409742,
+        "lon": 107.705702
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997759811",
+        "lat": 21.308574100408613,
+        "lon": 107.4762138
+      },
+      {
+        "osm_id": "10997726246",
+        "lat": 21.308852700408615,
+        "lon": 107.4760741
+      }
+    ]
+  },
+  {
+    "source_epass": "Hải Hà",
+    "target_epass": "Đầm Hà",
+    "source_origin_osm_name": "Trạm Thu phí Hải Hà",
+    "target_origin_osm_name": "Trạm Thu Phí Đầm Hà",
+    "source_booths": [
+      {
+        "osm_id": "10997783392",
+        "lat": 21.46507040040974,
+        "lon": 107.70575979999998
+      },
+      {
+        "osm_id": "11860353642",
+        "lat": 21.465032300409742,
+        "lon": 107.705702
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997726248",
+        "lat": 21.348678900408967,
+        "lon": 107.5531297
+      },
+      {
+        "osm_id": "10997726249",
+        "lat": 21.348717800408973,
+        "lon": 107.5532368
+      }
+    ]
+  },
+  {
+    "source_epass": "Móng Cái",
+    "target_epass": "Hải Hà",
+    "source_origin_osm_name": "Trạm Thu phí Móng Cái",
+    "target_origin_osm_name": "Trạm Thu phí Hải Hà",
+    "source_booths": [
+      {
+        "osm_id": "8069202011",
+        "lat": 21.512293400409945,
+        "lon": 107.949869
+      },
+      {
+        "osm_id": "8069201958",
+        "lat": 21.512520800409945,
+        "lon": 107.9499493
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997783392",
+        "lat": 21.46507040040974,
+        "lon": 107.70575979999998
+      },
+      {
+        "osm_id": "11860353642",
+        "lat": 21.465032300409742,
+        "lon": 107.705702
+      }
+    ]
+  },
+  {
+    "source_epass": "Móng Cái",
+    "target_epass": "Tiên Yên",
+    "source_origin_osm_name": "Trạm Thu phí Móng Cái",
+    "target_origin_osm_name": "Trạm Thu phí Tiên Yên",
+    "source_booths": [
+      {
+        "osm_id": "8069202011",
+        "lat": 21.512293400409945,
+        "lon": 107.949869
+      },
+      {
+        "osm_id": "8069201958",
+        "lat": 21.512520800409945,
+        "lon": 107.9499493
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997759811",
+        "lat": 21.308574100408613,
+        "lon": 107.4762138
+      },
+      {
+        "osm_id": "10997726246",
+        "lat": 21.308852700408615,
+        "lon": 107.4760741
+      }
+    ]
+  },
+  {
+    "source_epass": "Móng Cái",
+    "target_epass": "Đầm Hà",
+    "source_origin_osm_name": "Trạm Thu phí Móng Cái",
+    "target_origin_osm_name": "Trạm Thu Phí Đầm Hà",
+    "source_booths": [
+      {
+        "osm_id": "8069202011",
+        "lat": 21.512293400409945,
+        "lon": 107.949869
+      },
+      {
+        "osm_id": "8069201958",
+        "lat": 21.512520800409945,
+        "lon": 107.9499493
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997726248",
+        "lat": 21.348678900408967,
+        "lon": 107.5531297
+      },
+      {
+        "osm_id": "10997726249",
+        "lat": 21.348717800408973,
+        "lon": 107.5532368
+      }
+    ]
+  },
+  {
+    "source_epass": "Tiên Yên",
+    "target_epass": "Hải Hà",
+    "source_origin_osm_name": "Trạm Thu phí Tiên Yên",
+    "target_origin_osm_name": "Trạm Thu phí Hải Hà",
+    "source_booths": [
+      {
+        "osm_id": "10997759811",
+        "lat": 21.308574100408613,
+        "lon": 107.4762138
+      },
+      {
+        "osm_id": "10997726246",
+        "lat": 21.308852700408615,
+        "lon": 107.4760741
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997783392",
+        "lat": 21.46507040040974,
+        "lon": 107.70575979999998
+      },
+      {
+        "osm_id": "11860353642",
+        "lat": 21.465032300409742,
+        "lon": 107.705702
+      }
+    ]
+  },
+  {
+    "source_epass": "Tiên Yên",
+    "target_epass": "Móng Cái",
+    "source_origin_osm_name": "Trạm Thu phí Tiên Yên",
+    "target_origin_osm_name": "Trạm Thu phí Móng Cái",
+    "source_booths": [
+      {
+        "osm_id": "10997759811",
+        "lat": 21.308574100408613,
+        "lon": 107.4762138
+      },
+      {
+        "osm_id": "10997726246",
+        "lat": 21.308852700408615,
+        "lon": 107.4760741
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8069202011",
+        "lat": 21.512293400409945,
+        "lon": 107.949869
+      },
+      {
+        "osm_id": "8069201958",
+        "lat": 21.512520800409945,
+        "lon": 107.9499493
+      }
+    ]
+  },
+  {
+    "source_epass": "Tiên Yên",
+    "target_epass": "Đầm Hà",
+    "source_origin_osm_name": "Trạm Thu phí Tiên Yên",
+    "target_origin_osm_name": "Trạm Thu Phí Đầm Hà",
+    "source_booths": [
+      {
+        "osm_id": "10997759811",
+        "lat": 21.308574100408613,
+        "lon": 107.4762138
+      },
+      {
+        "osm_id": "10997726246",
+        "lat": 21.308852700408615,
+        "lon": 107.4760741
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997726248",
+        "lat": 21.348678900408967,
+        "lon": 107.5531297
+      },
+      {
+        "osm_id": "10997726249",
+        "lat": 21.348717800408973,
+        "lon": 107.5532368
+      }
+    ]
+  },
+  {
+    "source_epass": "Đầm Hà",
+    "target_epass": "Hải Hà",
+    "source_origin_osm_name": "Trạm Thu Phí Đầm Hà",
+    "target_origin_osm_name": "Trạm Thu phí Hải Hà",
+    "source_booths": [
+      {
+        "osm_id": "10997726248",
+        "lat": 21.348678900408967,
+        "lon": 107.5531297
+      },
+      {
+        "osm_id": "10997726249",
+        "lat": 21.348717800408973,
+        "lon": 107.5532368
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997783392",
+        "lat": 21.46507040040974,
+        "lon": 107.70575979999998
+      },
+      {
+        "osm_id": "11860353642",
+        "lat": 21.465032300409742,
+        "lon": 107.705702
+      }
+    ]
+  },
+  {
+    "source_epass": "Đầm Hà",
+    "target_epass": "Móng Cái",
+    "source_origin_osm_name": "Trạm Thu Phí Đầm Hà",
+    "target_origin_osm_name": "Trạm Thu phí Móng Cái",
+    "source_booths": [
+      {
+        "osm_id": "10997726248",
+        "lat": 21.348678900408967,
+        "lon": 107.5531297
+      },
+      {
+        "osm_id": "10997726249",
+        "lat": 21.348717800408973,
+        "lon": 107.5532368
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "8069202011",
+        "lat": 21.512293400409945,
+        "lon": 107.949869
+      },
+      {
+        "osm_id": "8069201958",
+        "lat": 21.512520800409945,
+        "lon": 107.9499493
+      }
+    ]
+  },
+  {
+    "source_epass": "Đầm Hà",
+    "target_epass": "Tiên Yên",
+    "source_origin_osm_name": "Trạm Thu Phí Đầm Hà",
+    "target_origin_osm_name": "Trạm Thu phí Tiên Yên",
+    "source_booths": [
+      {
+        "osm_id": "10997726248",
+        "lat": 21.348678900408967,
+        "lon": 107.5531297
+      },
+      {
+        "osm_id": "10997726249",
+        "lat": 21.348717800408973,
+        "lon": 107.5532368
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "10997759811",
+        "lat": 21.308574100408613,
+        "lon": 107.4762138
+      },
+      {
+        "osm_id": "10997726246",
+        "lat": 21.308852700408615,
+        "lon": 107.4760741
+      }
+    ]
+  }
+]

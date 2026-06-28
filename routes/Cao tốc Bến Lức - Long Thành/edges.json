@@ -1,0 +1,302 @@
+[
+    {
+        "source": "Nguyễn Văn Tạo",
+        "target": "Phước An",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "Nguyễn Văn Tạo - Phước An",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12103925344",
+        "targetOsmId": "13453097869"
+    },
+    {
+        "source": "Nguyễn Văn Tạo",
+        "target": "QL1A",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "Nguyễn Văn Tạo - QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12103925344",
+        "targetOsmId": "9697403773"
+    },
+    {
+        "source": "Nguyễn Văn Tạo",
+        "target": "QL50",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "Nguyễn Văn Tạo - QL50",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12103925344",
+        "targetOsmId": "12866199543"
+    },
+    {
+        "source": "Nguyễn Văn Tạo",
+        "target": "QL51",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "Nguyễn Văn Tạo - QL51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12103925344",
+        "targetOsmId": "1288554747"
+    },
+    {
+        "source": "Nguyễn Văn Tạo",
+        "target": "TP HCM - Trung Lương",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "Nguyễn Văn Tạo - TP HCM - Trung Lương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12103925344",
+        "targetOsmId": "1288834243"
+    },
+    {
+        "source": "Phước An",
+        "target": "Nguyễn Văn Tạo",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "Phước An - Nguyễn Văn Tạo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13453097869",
+        "targetOsmId": "12103925344"
+    },
+    {
+        "source": "Phước An",
+        "target": "QL1A",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "Phước An - QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13453097869",
+        "targetOsmId": "9697403773"
+    },
+    {
+        "source": "Phước An",
+        "target": "QL50",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "Phước An - QL50",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13453097869",
+        "targetOsmId": "12866199543"
+    },
+    {
+        "source": "Phước An",
+        "target": "QL51",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "Phước An - QL51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13453097869",
+        "targetOsmId": "1288554747"
+    },
+    {
+        "source": "Phước An",
+        "target": "TP HCM - Trung Lương",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "Phước An - TP HCM - Trung Lương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13453097869",
+        "targetOsmId": "1288834243"
+    },
+    {
+        "source": "QL1A",
+        "target": "Nguyễn Văn Tạo",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL1A - Nguyễn Văn Tạo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "9697403773",
+        "targetOsmId": "12103925344"
+    },
+    {
+        "source": "QL1A",
+        "target": "Phước An",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL1A - Phước An",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "9697403773",
+        "targetOsmId": "13453097869"
+    },
+    {
+        "source": "QL1A",
+        "target": "QL50",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL1A - QL50",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "9697403773",
+        "targetOsmId": "12866199543"
+    },
+    {
+        "source": "QL1A",
+        "target": "QL51",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL1A - QL51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "9697403773",
+        "targetOsmId": "1288554747"
+    },
+    {
+        "source": "QL1A",
+        "target": "TP HCM - Trung Lương",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL1A - TP HCM - Trung Lương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "9697403773",
+        "targetOsmId": "1288834243"
+    },
+    {
+        "source": "QL50",
+        "target": "Nguyễn Văn Tạo",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL50 - Nguyễn Văn Tạo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12866199543",
+        "targetOsmId": "12103925344"
+    },
+    {
+        "source": "QL50",
+        "target": "Phước An",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL50 - Phước An",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12866199543",
+        "targetOsmId": "13453097869"
+    },
+    {
+        "source": "QL50",
+        "target": "QL1A",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL50 - QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12866199543",
+        "targetOsmId": "9697403773"
+    },
+    {
+        "source": "QL50",
+        "target": "QL51",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL50 - QL51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12866199543",
+        "targetOsmId": "1288554747"
+    },
+    {
+        "source": "QL50",
+        "target": "TP HCM - Trung Lương",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL50 - TP HCM - Trung Lương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12866199543",
+        "targetOsmId": "1288834243"
+    },
+    {
+        "source": "QL51",
+        "target": "Nguyễn Văn Tạo",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL51 - Nguyễn Văn Tạo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1288554747",
+        "targetOsmId": "12103925344"
+    },
+    {
+        "source": "QL51",
+        "target": "Phước An",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL51 - Phước An",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1288554747",
+        "targetOsmId": "13453097869"
+    },
+    {
+        "source": "QL51",
+        "target": "QL1A",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL51 - QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1288554747",
+        "targetOsmId": "9697403773"
+    },
+    {
+        "source": "QL51",
+        "target": "QL50",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL51 - QL50",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1288554747",
+        "targetOsmId": "12866199543"
+    },
+    {
+        "source": "QL51",
+        "target": "TP HCM - Trung Lương",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "QL51 - TP HCM - Trung Lương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1288554747",
+        "targetOsmId": "1288834243"
+    },
+    {
+        "source": "TP HCM - Trung Lương",
+        "target": "Nguyễn Văn Tạo",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "TP HCM - Trung Lương - Nguyễn Văn Tạo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1288834243",
+        "targetOsmId": "12103925344"
+    },
+    {
+        "source": "TP HCM - Trung Lương",
+        "target": "Phước An",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "TP HCM - Trung Lương - Phước An",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1288834243",
+        "targetOsmId": "13453097869"
+    },
+    {
+        "source": "TP HCM - Trung Lương",
+        "target": "QL1A",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "TP HCM - Trung Lương - QL1A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1288834243",
+        "targetOsmId": "9697403773"
+    },
+    {
+        "source": "TP HCM - Trung Lương",
+        "target": "QL50",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "TP HCM - Trung Lương - QL50",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1288834243",
+        "targetOsmId": "12866199543"
+    },
+    {
+        "source": "TP HCM - Trung Lương",
+        "target": "QL51",
+        "routeName": "Cao tốc Bến Lức - Long Thành",
+        "stageName": "TP HCM - Trung Lương - QL51",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1288834243",
+        "targetOsmId": "1288554747"
+    }
+]

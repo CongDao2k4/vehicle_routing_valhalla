@@ -1,0 +1,2102 @@
+[
+    {
+        "source": "IC10",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "IC10",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "IC10",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "IC10",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "IC10",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "IC10",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "IC10",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "IC10",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "IC10",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "IC10",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "IC10",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "IC10",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - KM237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC10",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC10",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC10 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554485169",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "IC11",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "IC11",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "IC11",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "IC11",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "IC11",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "IC11",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "IC11",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "IC11",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "IC11",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "IC11",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "IC11",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "IC11",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - KM237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC11",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC11",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC11 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554530141",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "IC12",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "IC12",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "IC12",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "IC12",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "IC12",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "IC12",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "IC12",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "IC12",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "IC12",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "IC12",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "IC12",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "IC12",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - KM237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC12",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC12",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC12 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6880975506",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "IC14",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "IC14",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "IC14",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "IC14",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "IC14",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "IC14",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "IC14",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "IC14",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "IC14",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "IC14",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "IC14",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "IC14",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC14",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - Km237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC14",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC14 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6876859120",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "IC16",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "IC16",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "IC16",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "IC16",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "IC16",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "IC16",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "IC16",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "IC16",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "IC16",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "IC16",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "IC16",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "IC16",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC16",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - Km237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC16",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC16 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554703289",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "IC17",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "IC17",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "IC17",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "IC17",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "IC17",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "IC17",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "IC17",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "IC17",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "IC17",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "IC17",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "IC17",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "IC17",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC17",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "IC17",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC17-KM237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554701337",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC3",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "IC3",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "IC3",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "IC3",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "IC3",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "IC3",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "IC3",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "IC3",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "IC3",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "IC3",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "IC3",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "IC3",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - KM237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC3",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC3",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC3 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6970456533",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "IC4",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "IC4",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "IC4",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "IC4",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "IC4",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "IC4",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "IC4",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "IC4",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "IC4",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "IC4",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "IC4",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "IC4",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - KM237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC4",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC4",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC4 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3008944938",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "IC6",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "IC6",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "IC6",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "IC6",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "IC6",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "IC6",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "IC6",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "IC6",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "IC6",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "IC6",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "IC6",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "IC6",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - KM237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC6",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC6",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC6 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6554465773",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "IC7",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "IC7",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "IC7",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "IC7",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "IC7",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "IC7",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "IC7",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "IC7",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "IC7",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "IC7",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "IC7",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "IC7",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - KM237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC7",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC7",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC7 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "4965039224",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "IC8",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "IC8",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "IC8",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "IC8",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "IC8",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "IC8",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "IC8",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "IC8",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "IC8",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "IC8",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "IC8",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "IC8",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - KM237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC8",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC8",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC8 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "3992131737",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "IC9",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "IC9",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "IC9",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "IC9",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "IC9",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "IC9",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "IC9",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "IC9",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "IC9",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "IC9",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "IC9",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "IC9",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - KM237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "IC9",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "IC9",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "IC9 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "6877650786",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "Km237",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM237 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "Km237",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM237 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "KM6",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "KM6",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "KM6",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "KM6",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "KM6",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "KM6",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "KM6",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "KM6",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "KM6",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "KM6",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "KM6",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "KM6",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "KM6",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - KM237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "11619047243"
+    },
+    {
+        "source": "KM6",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "KM6 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1329842882",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "Km237",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "Km237",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "Km237",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "Km237",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "Km237",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "Km237",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "Km237",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "Km237",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "Km237",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "Km237",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "Km237",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "Km237",
+        "target": "Phố Lu",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Km237 - Phố Lu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11619047243",
+        "targetOsmId": "13955471075"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC10",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC10",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "6554485169"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC11",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC11",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "6554530141"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC12",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC12",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "6880975506"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC14",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC14",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "6876859120"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC16",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC16",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "6554703289"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC17",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC17",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "6554701337"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC3",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC3",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "6970456533"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC4",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC4",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "3008944938"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "6554465773"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC7",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC7",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "4965039224"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC8",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC8",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "3992131737"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "IC9",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - IC9",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "6877650786"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "KM6",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - KM6",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "1329842882"
+    },
+    {
+        "source": "Phố Lu",
+        "target": "Km237",
+        "routeName": "Nội Bài - Lào Cai",
+        "stageName": "Phố Lu - Km237",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13955471075",
+        "targetOsmId": "11619047243"
+    }
+]

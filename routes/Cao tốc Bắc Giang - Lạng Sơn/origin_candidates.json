@@ -1,0 +1,1502 @@
+[
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 104",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi",
+    "target_origin_osm_name": "Trạm Thu phí Km104",
+    "source_booths": [
+      {
+        "osm_id": "13551007072",
+        "lat": 21.33928200040889,
+        "lon": 106.27055799999998
+      },
+      {
+        "osm_id": "12767896053",
+        "lat": 21.33940150040889,
+        "lon": 106.2705164
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 104",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 2",
+    "target_origin_osm_name": "Trạm Thu phí Km104",
+    "source_booths": [
+      {
+        "osm_id": "13551007098",
+        "lat": 21.339850200408893,
+        "lon": 106.2718033
+      },
+      {
+        "osm_id": "12767896054",
+        "lat": 21.33995550040889,
+        "lon": 106.2717491
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 104",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 3",
+    "target_origin_osm_name": "Trạm Thu phí Km104",
+    "source_booths": [
+      {
+        "osm_id": "13551007070",
+        "lat": 21.33601500040886,
+        "lon": 106.272139
+      },
+      {
+        "osm_id": "12767896055",
+        "lat": 21.33594020040886,
+        "lon": 106.2721726
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 242",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi",
+    "target_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13551007072",
+        "lat": 21.33928200040889,
+        "lon": 106.27055799999998
+      },
+      {
+        "osm_id": "12767896053",
+        "lat": 21.33940150040889,
+        "lon": 106.2705164
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 242",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 2",
+    "target_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13551007098",
+        "lat": 21.339850200408893,
+        "lon": 106.2718033
+      },
+      {
+        "osm_id": "12767896054",
+        "lat": 21.33995550040889,
+        "lon": 106.2717491
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 242",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 3",
+    "target_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "source_booths": [
+      {
+        "osm_id": "13551007070",
+        "lat": 21.33601500040886,
+        "lon": 106.272139
+      },
+      {
+        "osm_id": "12767896055",
+        "lat": 21.33594020040886,
+        "lon": 106.2721726
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 279",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "source_booths": [
+      {
+        "osm_id": "13551007072",
+        "lat": 21.33928200040889,
+        "lon": 106.27055799999998
+      },
+      {
+        "osm_id": "12767896053",
+        "lat": 21.33940150040889,
+        "lon": 106.2705164
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 279",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 2",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "source_booths": [
+      {
+        "osm_id": "13551007098",
+        "lat": 21.339850200408893,
+        "lon": 106.2718033
+      },
+      {
+        "osm_id": "12767896054",
+        "lat": 21.33995550040889,
+        "lon": 106.2717491
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 279",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 3",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "source_booths": [
+      {
+        "osm_id": "13551007070",
+        "lat": 21.33601500040886,
+        "lon": 106.272139
+      },
+      {
+        "osm_id": "12767896055",
+        "lat": 21.33594020040886,
+        "lon": 106.2721726
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 45",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi",
+    "target_origin_osm_name": "Trạm Thu phí Km45+100",
+    "source_booths": [
+      {
+        "osm_id": "13551007072",
+        "lat": 21.33928200040889,
+        "lon": 106.27055799999998
+      },
+      {
+        "osm_id": "12767896053",
+        "lat": 21.33940150040889,
+        "lon": 106.2705164
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 45",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 2",
+    "target_origin_osm_name": "Trạm Thu phí Km45+100",
+    "source_booths": [
+      {
+        "osm_id": "13551007098",
+        "lat": 21.339850200408893,
+        "lon": 106.2718033
+      },
+      {
+        "osm_id": "12767896054",
+        "lat": 21.33995550040889,
+        "lon": 106.2717491
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 45",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 3",
+    "target_origin_osm_name": "Trạm Thu phí Km45+100",
+    "source_booths": [
+      {
+        "osm_id": "13551007070",
+        "lat": 21.33601500040886,
+        "lon": 106.272139
+      },
+      {
+        "osm_id": "12767896055",
+        "lat": 21.33594020040886,
+        "lon": 106.2721726
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 104",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Km104",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi",
+    "source_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007072",
+        "lat": 21.33928200040889,
+        "lon": 106.27055799999998
+      },
+      {
+        "osm_id": "12767896053",
+        "lat": 21.33940150040889,
+        "lon": 106.2705164
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 104",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Km104",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007098",
+        "lat": 21.339850200408893,
+        "lon": 106.2718033
+      },
+      {
+        "osm_id": "12767896054",
+        "lat": 21.33995550040889,
+        "lon": 106.2717491
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 104",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Km104",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007070",
+        "lat": 21.33601500040886,
+        "lon": 106.272139
+      },
+      {
+        "osm_id": "12767896055",
+        "lat": 21.33594020040886,
+        "lon": 106.2721726
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 104",
+    "target_epass": "Trạm 242",
+    "source_origin_osm_name": "Trạm Thu phí Km104",
+    "target_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "source_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 104",
+    "target_epass": "Trạm 279",
+    "source_origin_osm_name": "Trạm Thu phí Km104",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "source_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 104",
+    "target_epass": "Trạm 37",
+    "source_origin_osm_name": "Trạm Thu phí Km104",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "source_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 104",
+    "target_epass": "Trạm 45",
+    "source_origin_osm_name": "Trạm Thu phí Km104",
+    "target_origin_osm_name": "Trạm Thu phí Km45+100",
+    "source_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 242",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi",
+    "source_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007072",
+        "lat": 21.33928200040889,
+        "lon": 106.27055799999998
+      },
+      {
+        "osm_id": "12767896053",
+        "lat": 21.33940150040889,
+        "lon": 106.2705164
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 242",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007098",
+        "lat": 21.339850200408893,
+        "lon": 106.2718033
+      },
+      {
+        "osm_id": "12767896054",
+        "lat": 21.33995550040889,
+        "lon": 106.2717491
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 242",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007070",
+        "lat": 21.33601500040886,
+        "lon": 106.272139
+      },
+      {
+        "osm_id": "12767896055",
+        "lat": 21.33594020040886,
+        "lon": 106.2721726
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 242",
+    "target_epass": "Trạm 104",
+    "source_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "target_origin_osm_name": "Trạm Thu phí Km104",
+    "source_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 242",
+    "target_epass": "Trạm 279",
+    "source_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "source_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 242",
+    "target_epass": "Trạm 37",
+    "source_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "source_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 242",
+    "target_epass": "Trạm 45",
+    "source_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "target_origin_osm_name": "Trạm Thu phí Km45+100",
+    "source_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 279",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi",
+    "source_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007072",
+        "lat": 21.33928200040889,
+        "lon": 106.27055799999998
+      },
+      {
+        "osm_id": "12767896053",
+        "lat": 21.33940150040889,
+        "lon": 106.2705164
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 279",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007098",
+        "lat": 21.339850200408893,
+        "lon": 106.2718033
+      },
+      {
+        "osm_id": "12767896054",
+        "lat": 21.33995550040889,
+        "lon": 106.2717491
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 279",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007070",
+        "lat": 21.33601500040886,
+        "lon": 106.272139
+      },
+      {
+        "osm_id": "12767896055",
+        "lat": 21.33594020040886,
+        "lon": 106.2721726
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 279",
+    "target_epass": "Trạm 104",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "target_origin_osm_name": "Trạm Thu phí Km104",
+    "source_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 279",
+    "target_epass": "Trạm 242",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "target_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "source_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 279",
+    "target_epass": "Trạm 37",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "source_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 279",
+    "target_epass": "Trạm 45",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "target_origin_osm_name": "Trạm Thu phí Km45+100",
+    "source_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 37",
+    "target_epass": "Trạm 104",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "target_origin_osm_name": "Trạm Thu phí Km104",
+    "source_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 37",
+    "target_epass": "Trạm 242",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "target_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "source_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 37",
+    "target_epass": "Trạm 279",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "source_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 37",
+    "target_epass": "Trạm 45",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "target_origin_osm_name": "Trạm Thu phí Km45+100",
+    "source_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 45",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Km45+100",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi",
+    "source_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007072",
+        "lat": 21.33928200040889,
+        "lon": 106.27055799999998
+      },
+      {
+        "osm_id": "12767896053",
+        "lat": 21.33940150040889,
+        "lon": 106.2705164
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 45",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Km45+100",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007098",
+        "lat": 21.339850200408893,
+        "lon": 106.2718033
+      },
+      {
+        "osm_id": "12767896054",
+        "lat": 21.33995550040889,
+        "lon": 106.2717491
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 45",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Km45+100",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007070",
+        "lat": 21.33601500040886,
+        "lon": 106.272139
+      },
+      {
+        "osm_id": "12767896055",
+        "lat": 21.33594020040886,
+        "lon": 106.2721726
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 45",
+    "target_epass": "Trạm 104",
+    "source_origin_osm_name": "Trạm Thu phí Km45+100",
+    "target_origin_osm_name": "Trạm Thu phí Km104",
+    "source_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953448",
+        "lat": 21.31592320040868,
+        "lon": 106.2590521
+      },
+      {
+        "osm_id": "6837953446",
+        "lat": 21.31602930040868,
+        "lon": 106.2590058
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 45",
+    "target_epass": "Trạm 242",
+    "source_origin_osm_name": "Trạm Thu phí Km45+100",
+    "target_origin_osm_name": "Trạm Thu phí Hồ Sơn",
+    "source_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837952528",
+        "lat": 21.490973900409863,
+        "lon": 106.3714743
+      },
+      {
+        "osm_id": "6837952502",
+        "lat": 21.49105050040986,
+        "lon": 106.3714799
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 45",
+    "target_epass": "Trạm 279",
+    "source_origin_osm_name": "Trạm Thu phí Km45+100",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 279",
+    "source_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6838027406",
+        "lat": 21.62055750041017,
+        "lon": 106.5587157
+      },
+      {
+        "osm_id": "6838027391",
+        "lat": 21.62063990041017,
+        "lon": 106.5586282
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 45",
+    "target_epass": "Trạm 37",
+    "source_origin_osm_name": "Trạm Thu phí Km45+100",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "source_booths": [
+      {
+        "osm_id": "6837952271",
+        "lat": 21.686714400410143,
+        "lon": 106.6277949
+      },
+      {
+        "osm_id": "6837952272",
+        "lat": 21.686821300410145,
+        "lon": 106.6277606
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 37",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi",
+    "source_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007072",
+        "lat": 21.33928200040889,
+        "lon": 106.27055799999998
+      },
+      {
+        "osm_id": "12767896053",
+        "lat": 21.33940150040889,
+        "lon": 106.2705164
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 37",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 2",
+    "source_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007098",
+        "lat": 21.339850200408893,
+        "lon": 106.2718033
+      },
+      {
+        "osm_id": "12767896054",
+        "lat": 21.33995550040889,
+        "lon": 106.2717491
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 37",
+    "target_epass": "Trạm 102",
+    "source_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "target_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 3",
+    "source_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "13551007070",
+        "lat": 21.33601500040886,
+        "lon": 106.272139
+      },
+      {
+        "osm_id": "12767896055",
+        "lat": 21.33594020040886,
+        "lon": 106.2721726
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 37",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "source_booths": [
+      {
+        "osm_id": "13551007072",
+        "lat": 21.33928200040889,
+        "lon": 106.27055799999998
+      },
+      {
+        "osm_id": "12767896053",
+        "lat": 21.33940150040889,
+        "lon": 106.2705164
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 37",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 2",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "source_booths": [
+      {
+        "osm_id": "13551007098",
+        "lat": 21.339850200408893,
+        "lon": 106.2718033
+      },
+      {
+        "osm_id": "12767896054",
+        "lat": 21.33995550040889,
+        "lon": 106.2717491
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ]
+  },
+  {
+    "source_epass": "Trạm 102",
+    "target_epass": "Trạm 37",
+    "source_origin_osm_name": "Trạm Thu phí Xương Lâm - Thị trấn Vôi - nh 3",
+    "target_origin_osm_name": "Trạm Thu phí Quốc lộ 37",
+    "source_booths": [
+      {
+        "osm_id": "13551007070",
+        "lat": 21.33601500040886,
+        "lon": 106.272139
+      },
+      {
+        "osm_id": "12767896055",
+        "lat": 21.33594020040886,
+        "lon": 106.2721726
+      }
+    ],
+    "target_booths": [
+      {
+        "osm_id": "6837953118",
+        "lat": 21.38911010040928,
+        "lon": 106.3022497
+      },
+      {
+        "osm_id": "6837953137",
+        "lat": 21.389220300409285,
+        "lon": 106.3021626
+      }
+    ]
+  }
+]

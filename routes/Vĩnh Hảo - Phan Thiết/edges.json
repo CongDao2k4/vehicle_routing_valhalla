@@ -1,0 +1,310 @@
+[
+    {
+        "source": "Nút giao Chợ Lầu",
+        "target": "Nút giao Ma Lâm",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Chợ Lầu - Nút giao Ma Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10852800021",
+        "targetOsmId": "13594711865"
+    },
+    {
+        "source": "Nút giao Chợ Lầu",
+        "target": "Nút giao Đại Ninh",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Chợ Lầu - Nút giao Đại Ninh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10852800021",
+        "targetOsmId": "11866479440"
+    },
+    {
+        "source": "Nút giao Chợ Lầu",
+        "target": "Nút giao Vĩnh Hảo",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Chợ Lầu - Nút giao Vĩnh Hảo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10852800021",
+        "targetOsmId": "11865554273"
+    },
+    {
+        "source": "Nút giao Ma Lâm",
+        "target": "Nút giao Chợ Lầu",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Ma Lâm - Nút giao Chợ Lầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594711865",
+        "targetOsmId": "10852800021"
+    },
+    {
+        "source": "Nút giao Ma Lâm",
+        "target": "Nút giao Đại Ninh",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Ma Lâm - Nút giao Đại Ninh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594711865",
+        "targetOsmId": "11866479440"
+    },
+    {
+        "source": "Nút giao Ma Lâm",
+        "target": "Nút giao Vĩnh Hảo",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Ma Lâm - Nút giao Vĩnh Hảo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594711865",
+        "targetOsmId": "11865554273"
+    },
+    {
+        "source": "Nút giao Đại Ninh",
+        "target": "Nút giao Chợ Lầu",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Đại Ninh - Nút giao Chợ Lầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11866479440",
+        "targetOsmId": "10852800021"
+    },
+    {
+        "source": "Nút giao Đại Ninh",
+        "target": "Nút giao Ma Lâm",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Đại Ninh - Nút giao Ma Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11866479440",
+        "targetOsmId": "13594711865"
+    },
+    {
+        "source": "Nút giao Đại Ninh",
+        "target": "Nút giao Vĩnh Hảo",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Đại Ninh - Nút giao Vĩnh Hảo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11866479440",
+        "targetOsmId": "11865554273"
+    },
+    {
+        "source": "Nút giao Vĩnh Hảo",
+        "target": "Nút giao Chợ Lầu",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Vĩnh Hảo - Nút giao Chợ Lầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11865554273",
+        "targetOsmId": "10852800021"
+    },
+    {
+        "source": "Nút giao Vĩnh Hảo",
+        "target": "Nút giao Ma Lâm",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Vĩnh Hảo - Nút giao Ma Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11865554273",
+        "targetOsmId": "13594711865"
+    },
+    {
+        "source": "Nút giao Vĩnh Hảo",
+        "target": "Nút giao Đại Ninh",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Vĩnh Hảo - Nút giao Đại Ninh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11865554273",
+        "targetOsmId": "11866479440"
+    },
+
+
+    {
+        "source": "Km133+770",
+        "target": "Nút giao Phan Thiết",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Km133+770 - Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594729844",
+        "targetOsmId": "13594672376"
+    },
+    {
+        "source": "Nút giao Chợ Lầu",
+        "target": "Nút giao Phan Thiết",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Chợ Lầu - Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10852800021",
+        "targetOsmId": "13594672376"
+    },
+    {
+        "source": "Nút giao Ma Lâm",
+        "target": "Nút giao Phan Thiết",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Ma Lâm - Nút Giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594711865",
+        "targetOsmId": "13594672376"
+    },
+    {
+        "source": "Nút giao Đại Ninh",
+        "target": "Nút giao Phan Thiết",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Đại Ninh - Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11866479440",
+        "targetOsmId": "13594672376"
+    },
+    {
+        "source": "Nút giao Vĩnh Hảo",
+        "target": "Nút giao Phan Thiết",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Vĩnh Hảo - Nút giao Phan Thiết",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11865554273",
+        "targetOsmId": "13594672376"
+    },
+
+
+    {
+        "source": "Nút giao Phan Thiết",
+        "target": "Km133+770",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Phan Thiết - Km133+770",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672376",
+        "targetOsmId": "13594729844"
+    },
+    {
+        "source": "Nút giao Phan Thiết",
+        "target": "Nút giao Chợ Lầu",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Phan Thiết - Nút giao Chợ Lầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672376",
+        "targetOsmId": "10852800021"
+    },
+    {
+        "source": "Nút giao Phan Thiết",
+        "target": "Nút giao Ma Lâm",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Phan Thiết - Nút giao Ma Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672376",
+        "targetOsmId": "13594711865"
+    },
+    {
+        "source": "Nút giao Phan Thiết",
+        "target": "Nút giao Đại Ninh",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Phan Thiết - Nút giao Đại Ninh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672376",
+        "targetOsmId": "11866479440"
+    },
+    {
+        "source": "Nút giao Phan Thiết",
+        "target": "Nút giao Vĩnh Hảo",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Phan Thiết - Nút giao Vĩnh Hảo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594672376",
+        "targetOsmId": "11865554273"
+    },
+
+
+    {
+        "source": "Km133+770",
+        "target": "Nút giao Chợ Lầu",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Km133+770 - Nút giao Chợ Lầu",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594729844",
+        "targetOsmId": "10852800021"
+    },
+    {
+        "source": "Km133+770",
+        "target": "Nút giao Ma Lâm",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Km133+770 - Nút giao Ma Lâm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594729844",
+        "targetOsmId": "13594711865"
+    },
+    {
+        "source": "Km133+770",
+        "target": "Nút giao Đại Ninh",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Km133+770 - Nút giao Đại Ninh",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594729844",
+        "targetOsmId": "11866479440"
+    },
+    {
+        "source": "Km133+770",
+        "target": "Nút giao Vĩnh Hảo",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Km133+770 - Nút giao Vĩnh Hảo",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594729844",
+        "targetOsmId": "11865554273"
+    },
+
+
+    {
+        "source": "Nút giao Chợ Lầu",
+        "target": "Km133+770",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Chợ Lầu - Km133+770",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "10852800021",
+        "targetOsmId": "13594729844"
+    },
+    {
+        "source": "Nút giao Ma Lâm",
+        "target": "Km133+770",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Ma Lâm - Km133+770",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13594711865",
+        "targetOsmId": "13594729844"
+    },
+    {
+        "source": "Nút giao Đại Ninh",
+        "target": "Km133+770",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Đại Ninh - Km133+770",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11866479440",
+        "targetOsmId": "13594729844"
+    },
+    {
+        "source": "Nút giao Vĩnh Hảo",
+        "target": "Km133+770",
+        "routeName": "Vĩnh Hảo - Phan Thiết",
+        "stageName": "Nút giao Vĩnh Hảo - Km133+770",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11865554273",
+        "targetOsmId": "13594729844"
+    }
+]
