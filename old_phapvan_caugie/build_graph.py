@@ -8,6 +8,16 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 
+# Recursive string strip utility
+def strip_strings(obj):
+    if isinstance(obj, dict):
+        return {k.strip() if isinstance(k, str) else k: strip_strings(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [strip_strings(x) for x in obj]
+    elif isinstance(obj, str):
+        return obj.strip()
+    return obj
+
 # Path references
 old_nodes_path = os.path.join(base_dir, "nodes.json")
 old_edges_path = os.path.join(base_dir, "edges.json")
@@ -18,7 +28,8 @@ old_nodes = {}
 if os.path.exists(old_nodes_path):
     with open(old_nodes_path, "r", encoding="utf-8") as f:
         try:
-            for item in json.load(f):
+            items = strip_strings(json.load(f))
+            for item in items:
                 old_nodes[item["stationName"]] = item
         except Exception as e:
             print(f"Warning: could not load old nodes: {e}")
@@ -27,7 +38,8 @@ old_edges = {}
 if os.path.exists(old_edges_path):
     with open(old_edges_path, "r", encoding="utf-8") as f:
         try:
-            for item in json.load(f):
+            items = strip_strings(json.load(f))
+            for item in items:
                 key = (item["source"], item["target"])
                 old_edges[key] = item
         except Exception as e:
@@ -37,7 +49,8 @@ old_tickets = {}
 if os.path.exists(old_tickets_path):
     with open(old_tickets_path, "r", encoding="utf-8") as f:
         try:
-            for item in json.load(f):
+            items = strip_strings(json.load(f))
+            for item in items:
                 ref_type = item.get("refType")
                 ref_id = item.get("refId")
                 if ref_type == "EDGE":
@@ -52,6 +65,7 @@ if os.path.exists(old_tickets_path):
 nodes_dict = {}
 edges_dict = {}
 tickets_dict = {} # key -> { ticketType: { ... prices: { priceType: {...} } } }
+new_stations_set = set()
 
 def get_node(name):
     if name not in nodes_dict:
@@ -65,6 +79,8 @@ def get_node(name):
             lat = old_nodes[name].get("latitude")
             lon = old_nodes[name].get("longitude")
             osm_id = old_nodes[name].get("stationOsmId")
+        else:
+            new_stations_set.add(name)
             
         nodes_dict[name] = {
             "stationName": name,
@@ -123,13 +139,13 @@ with open(gia_ve_path, "r", encoding="utf-8") as f:
 
 # Check wrapper and parse robustly
 if content.startswith("["):
-    records = json.loads(content)
+    records = strip_strings(json.loads(content))
 else:
     # Wrap it if missing brackets
     if content.endswith(","):
         content = content[:-1]
     content = "[" + content + "]"
-    records = json.loads(content)
+    records = strip_strings(json.loads(content))
 
 # Process records
 for record in records:
@@ -239,26 +255,8 @@ def sort_ticket_key(x):
 
 tickets_list = sorted(tickets_list, key=sort_ticket_key)
 
-# 3. Write to _new.json files
-with open(os.path.join(base_dir, "nodes_new.json"), "w", encoding="utf-8") as f:
-    json.dump(nodes_list, f, ensure_ascii=False, indent=4)
-
-with open(os.path.join(base_dir, "edges_new.json"), "w", encoding="utf-8") as f:
-    json.dump(edges_list, f, ensure_ascii=False, indent=4)
-
-with open(os.path.join(base_dir, "tickets_new.json"), "w", encoding="utf-8") as f:
-    json.dump(tickets_list, f, ensure_ascii=False, indent=4)
-
-print(f"Generated {len(nodes_list)} nodes -> nodes_new.json")
-print(f"Generated {len(edges_list)} edges -> edges_new.json")
-print(f"Generated {len(tickets_list)} tickets -> tickets_new.json")
-
-# 4. Deep Comparison & Diff Report
-print("\n" + "="*70)
-print("             BÁO CÁO SO SÁNH PHÁT HIỆN THAY ĐỔI")
-print("="*70)
-
-# Nodes Compare
+# Compute node, edge and ticket diffs first
+# 1. Nodes Compare
 new_nodes_map = {n["stationName"]: n for n in nodes_list}
 added_nodes = set(new_nodes_map.keys()) - set(old_nodes.keys())
 removed_nodes = set(old_nodes.keys()) - set(new_nodes_map.keys())
@@ -274,23 +272,7 @@ for name in sorted(set(new_nodes_map.keys()) & set(old_nodes.keys())):
     if changes:
         modified_nodes.append((name, changes))
 
-print(f"\n1. SO SÁNH NODES (Tổng số mới: {len(nodes_list)} | Cũ: {len(old_nodes)})")
-if added_nodes:
-    print("  [ADDED] Các trạm mới:")
-    for n in sorted(added_nodes):
-        print(f"    + {n}")
-if removed_nodes:
-    print("  [REMOVED] Các trạm bị xóa:")
-    for n in sorted(removed_nodes):
-        print(f"    - {n}")
-if modified_nodes:
-    print("  [MODIFIED] Các trạm thay đổi cấu hình:")
-    for name, changes in modified_nodes:
-        print(f"    * {name}: {', '.join(changes)}")
-if not added_nodes and not removed_nodes and not modified_nodes:
-    print("  => Không có thay đổi nào về Nodes.")
-
-# Edges Compare
+# 2. Edges Compare
 new_edges_map = {(e["source"], e["target"]): e for e in edges_list}
 added_edges = set(new_edges_map.keys()) - set(old_edges.keys())
 removed_edges = set(old_edges.keys()) - set(new_edges_map.keys())
@@ -306,23 +288,7 @@ for key in sorted(set(new_edges_map.keys()) & set(old_edges.keys())):
     if changes:
         modified_edges.append((key, changes))
 
-print(f"\n2. SO SÁNH EDGES (Tổng số mới: {len(edges_list)} | Cũ: {len(old_edges)})")
-if added_edges:
-    print("  [ADDED] Các chặng mới:")
-    for src, tgt in sorted(added_edges):
-        print(f"    + {src} -> {tgt}")
-if removed_edges:
-    print("  [REMOVED] Các chặng bị xóa:")
-    for src, tgt in sorted(removed_edges):
-        print(f"    - {src} -> {tgt}")
-if modified_edges:
-    print("  [MODIFIED] Các chặng thay đổi thuộc tính:")
-    for (src, tgt), changes in modified_edges:
-        print(f"    * {src} -> {tgt}: {', '.join(changes)}")
-if not added_edges and not removed_edges and not modified_edges:
-    print("  => Không có thay đổi nào về Edges.")
-
-# Tickets Compare
+# 3. Tickets Compare
 def get_ticket_key(item):
     ref_type = item.get("refType")
     ref_id = item.get("refId")
@@ -396,6 +362,129 @@ for key in sorted(set(new_tickets_map.keys()) & set(old_tickets.keys())):
     if t_changes:
         modified_tickets.append((key, t_changes))
 
+# Write differences to note directory
+note_dir = os.path.join(base_dir, "note")
+os.makedirs(note_dir, exist_ok=True)
+
+# Clean up redundant legacy log files if they exist
+for old_file in ["new_epass.txt", "new_ticket.txt", "removed_epass.txt", "removed_node.txt"]:
+    old_file_path = os.path.join(note_dir, old_file)
+    if os.path.exists(old_file_path):
+        try:
+            os.remove(old_file_path)
+        except Exception:
+            pass
+
+# 1. new_nodes.txt
+added_nodes_sorted = sorted(list(added_nodes))
+with open(os.path.join(note_dir, "new_nodes.txt"), "w", encoding="utf-8") as f:
+    for node in added_nodes_sorted:
+        f.write(node + "\n")
+
+# 2. removed_nodes.txt
+removed_nodes_sorted = sorted(list(removed_nodes))
+with open(os.path.join(note_dir, "removed_nodes.txt"), "w", encoding="utf-8") as f:
+    for node in removed_nodes_sorted:
+        f.write(node + "\n")
+
+# 3. new_edges.txt
+added_edges_sorted = sorted(list(added_edges))
+with open(os.path.join(note_dir, "new_edges.txt"), "w", encoding="utf-8") as f:
+    for src, tgt in added_edges_sorted:
+        f.write(f"{src} -> {tgt}\n")
+
+# 4. removed_edges.txt
+removed_edges_sorted = sorted(list(removed_edges))
+with open(os.path.join(note_dir, "removed_edges.txt"), "w", encoding="utf-8") as f:
+    for src, tgt in removed_edges_sorted:
+        f.write(f"{src} -> {tgt}\n")
+
+# 5. new_tickets.txt
+added_tickets_sorted = sorted(list(added_tickets), key=lambda x: (x[0], str(x[1])))
+with open(os.path.join(note_dir, "new_tickets.txt"), "w", encoding="utf-8") as f:
+    for rtype, rid in added_tickets_sorted:
+        label = f"{rtype} {list(rid) if rtype == 'EDGE' else rid}"
+        f.write(label + "\n")
+
+# 6. removed_tickets.txt
+removed_tickets_sorted = sorted(list(removed_tickets), key=lambda x: (x[0], str(x[1])))
+with open(os.path.join(note_dir, "removed_tickets.txt"), "w", encoding="utf-8") as f:
+    for rtype, rid in removed_tickets_sorted:
+        label = f"{rtype} {list(rid) if rtype == 'EDGE' else rid}"
+        f.write(label + "\n")
+
+# 7. modified_nodes.txt
+with open(os.path.join(note_dir, "modified_nodes.txt"), "w", encoding="utf-8") as f:
+    for name, changes in sorted(modified_nodes):
+        f.write(f"{name}: {', '.join(changes)}\n")
+
+# 8. modified_edges.txt
+with open(os.path.join(note_dir, "modified_edges.txt"), "w", encoding="utf-8") as f:
+    for (src, tgt), changes in sorted(modified_edges):
+        f.write(f"{src} -> {tgt}: {', '.join(changes)}\n")
+
+# 9. modified_tickets.txt
+with open(os.path.join(note_dir, "modified_tickets.txt"), "w", encoding="utf-8") as f:
+    for (rtype, rid), changes in sorted(modified_tickets, key=lambda x: (x[0][0], str(x[0][1]))):
+        label = f"{rtype} {list(rid) if rtype == 'EDGE' else rid}"
+        f.write(f"{label}:\n")
+        for change in changes:
+            f.write(f"  - {change}\n")
+
+print(f"Recorded differences into note directory: new_nodes, new_edges, new_tickets, removed_nodes, removed_edges, removed_tickets, modified_nodes, modified_edges, modified_tickets")
+
+# 3. Write to both _new.json files and original files (apply changes)
+for suffix in ["_new.json", ".json"]:
+    with open(os.path.join(base_dir, f"nodes{suffix}"), "w", encoding="utf-8") as f:
+        json.dump(nodes_list, f, ensure_ascii=False, indent=4)
+
+    with open(os.path.join(base_dir, f"edges{suffix}"), "w", encoding="utf-8") as f:
+        json.dump(edges_list, f, ensure_ascii=False, indent=4)
+
+    with open(os.path.join(base_dir, f"tickets{suffix}"), "w", encoding="utf-8") as f:
+        json.dump(tickets_list, f, ensure_ascii=False, indent=4)
+
+print(f"Applied and generated {len(nodes_list)} nodes -> nodes.json & nodes_new.json")
+print(f"Applied and generated {len(edges_list)} edges -> edges.json & edges_new.json")
+print(f"Applied and generated {len(tickets_list)} tickets -> tickets.json & tickets_new.json")
+
+# 4. Deep Comparison & Diff Report
+print("\n" + "="*70)
+print("             BÁO CÁO SO SÁNH PHÁT HIỆN THAY ĐỔI")
+print("="*70)
+
+print(f"\n1. SO SÁNH NODES (Tổng số mới: {len(nodes_list)} | Cũ: {len(old_nodes)})")
+if added_nodes:
+    print("  [ADDED] Các trạm mới:")
+    for n in sorted(added_nodes):
+        print(f"    + {n}")
+if removed_nodes:
+    print("  [REMOVED] Các trạm bị xóa:")
+    for n in sorted(removed_nodes):
+        print(f"    - {n}")
+if modified_nodes:
+    print("  [MODIFIED] Các trạm thay đổi cấu hình:")
+    for name, changes in sorted(modified_nodes):
+        print(f"    * {name}: {', '.join(changes)}")
+if not added_nodes and not removed_nodes and not modified_nodes:
+    print("  => Không có thay đổi nào về Nodes.")
+
+print(f"\n2. SO SÁNH EDGES (Tổng số mới: {len(edges_list)} | Cũ: {len(old_edges)})")
+if added_edges:
+    print("  [ADDED] Các chặng mới:")
+    for src, tgt in sorted(added_edges):
+        print(f"    + {src} -> {tgt}")
+if removed_edges:
+    print("  [REMOVED] Các chặng bị xóa:")
+    for src, tgt in sorted(removed_edges):
+        print(f"    - {src} -> {tgt}")
+if modified_edges:
+    print("  [MODIFIED] Các chặng thay đổi thuộc tính:")
+    for (src, tgt), changes in sorted(modified_edges):
+        print(f"    * {src} -> {tgt}: {', '.join(changes)}")
+if not added_edges and not removed_edges and not modified_edges:
+    print("  => Không có thay đổi nào về Edges.")
+
 print(f"\n3. SO SÁNH VÉ (TICKETS) (Tổng số mới: {len(tickets_list)} | Cũ: {len(old_tickets)})")
 if added_tickets:
     print("  [ADDED] Vé mới cho chặng/trạm:")
@@ -407,7 +496,7 @@ if removed_tickets:
         print(f"    - {rtype} {rid}")
 if modified_tickets:
     print("  [MODIFIED] Thay đổi chi tiết vé:")
-    for (rtype, rid), changes in modified_tickets:
+    for (rtype, rid), changes in sorted(modified_tickets, key=lambda x: (x[0][0], str(x[0][1]))):
         label = f"{rtype} {list(rid) if rtype == 'EDGE' else rid}"
         print(f"    * {label}:")
         for change in changes:
