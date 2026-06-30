@@ -1,6 +1,82 @@
 # Hướng dẫn Cập nhật Dữ liệu Trạm ePass và Routing
 
-Tài liệu này hướng dẫn cách thêm hoặc sửa đổi dữ liệu trạm thu phí cho luồng xử lý Routing & Ticket Mapping (engine Valhalla).
+Lên epass tra cứu giá vé. mở **chrome tool for developer** -> mục **Network** để bắt API lấy json giá vé.
+
+dữ liệu lấy giá vé lượt, vé tháng, vé quý. Lấy hết và vứt vào 1 file ví dụ trong thư mục **routes/Cao_tốc_Pháp_Vân-Cầu_Giẽ/** , xem thư mục **new_epass** rồi paste dữ liệu thu thập từ API json vào file **gia_ve.json**.
+
+Cấu trúc có dạng:
+```json
+[
+    {
+        "ticketType": 1,
+        "ticketTypeName": "Vé lượt",
+        "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "stageName": "Đại Xuyên - Vạn Điểm",
+        "stationInName": "Đại Xuyên",
+        "stationOutName": "Vạn Điểm",
+        "priceType": 1,
+        "priceTypeName": "Giá thường",
+        "feeType1": 11585,
+        "feeType2": 11585,
+        "feeType3": 17378,
+        "feeType4": 23170,
+        "feeType5": 34756
+    },
+    ...
+    ...
+    {
+        "ticketType": 4,
+        "ticketTypeName": "Vé tháng",
+        "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "stageName": "Đại Xuyên - Vạn Điểm",
+        "stationInName": "Đại Xuyên",
+        "stationOutName": "Vạn Điểm",
+        "priceType": 1,
+        "priceTypeName": "Giá thường",
+        "feeType1": 347563,
+        "feeType2": 347563,
+        "feeType3": 521345,
+        "feeType4": 695127,
+        "feeType5": 1042690
+    },
+    ...
+    ...
+    {
+        "ticketType": 5,
+        "ticketTypeName": "Vé quý",
+        "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "stageName": "Đại Xuyên - Vạn Điểm",
+        "stationInName": "Đại Xuyên",
+        "stationOutName": "Vạn Điểm",
+        "priceType": 1,
+        "priceTypeName": "Giá thường",
+        "feeType1": 938421,
+        "feeType2": 938421,
+        "feeType3": 1407632,
+        "feeType4": 1876843,
+        "feeType5": 2815265
+    }
+]
+```
+
+## Cách chạy:
+Trong từng thư mục con của **routes/**, ví dụ **routes/Cao_tốc_Pháp_Vân-Cầu_Giẽ/**:
+- chạy file **build_graph.py**: nó sẽ lấy file **new_epass/gia_ve.json** -> tạo ra các file `nodes_new.json`, `edges_new.json`, `tickets_new.json` .
+- Sau đó nó so sánh với `nodes.json`, `edges.json`, `tickets.json` (3 file json này là dữ liệu trạm, cạnh đồ thị nối 2 trạm, giá vé ứng với từng cạnh đồ thị nối 2 trạm).
+- Sau đó code **build_graph.py** sẽ apply dữ liệu mới từ các file **.._new.json** vào các file **nodes.json**, **edges.json**, **tickets.json**. Đồng thời có print ra kahsc biệt, thông báo dữ liệu nào được thêm, sửa , xóa.
+
+- Xem các file **.txt** trong thư mục **note/** để xem các file : **new_nodes.txt**, **new_edges.txt**, **new_tickets.txt**, **modified_...txt**, **removed_...txt**
+
+- Nếu còn lo bản json cũ sẽ bị mất thì xem lại thư mục **Cao_tốc_Pháp_Vân-Cầu_Giẽ/backup** để xem lại các file của dữ liệu phiên bản cũ. Các file json cũ sẽ được lưu vào thư mục **backup** 
+
+
+# Tài liệu này hướng dẫn cách thêm hoặc sửa đổi dữ liệu trạm thu phí cho luồng xử lý Routing & Ticket Mapping (engine Valhalla).
 
 ## Các file dữ liệu cốt lõi
 Mọi thao tác cập nhật dữ liệu đều diễn ra trong thư mục của từng tuyến đường, ví dụ: `routes/Mai_Sơn-Quốc_Lộ_45/`.

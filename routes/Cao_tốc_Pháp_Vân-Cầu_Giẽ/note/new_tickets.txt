@@ -1,1 +1,0 @@
-EDGE ['Đại Xuyên', 'Vạn Điểm']

@@ -433,7 +433,16 @@ with open(os.path.join(note_dir, "modified_tickets.txt"), "w", encoding="utf-8")
 
 print(f"Recorded differences into note directory: new_nodes, new_edges, new_tickets, removed_nodes, removed_edges, removed_tickets, modified_nodes, modified_edges, modified_tickets")
 
-# 3. Write to both _new.json files and original files (apply changes)
+# 3. Backup original files before overwriting
+import shutil
+backup_dir = os.path.join(base_dir, "backup")
+os.makedirs(backup_dir, exist_ok=True)
+for filename in ["nodes.json", "edges.json", "tickets.json"]:
+    src_file = os.path.join(base_dir, filename)
+    if os.path.exists(src_file):
+        shutil.copy2(src_file, os.path.join(backup_dir, filename))
+
+# 4. Write to both _new.json files and original files (apply changes)
 for suffix in ["_new.json", ".json"]:
     with open(os.path.join(base_dir, f"nodes{suffix}"), "w", encoding="utf-8") as f:
         json.dump(nodes_list, f, ensure_ascii=False, indent=4)
@@ -448,7 +457,7 @@ print(f"Applied and generated {len(nodes_list)} nodes -> nodes.json & nodes_new.
 print(f"Applied and generated {len(edges_list)} edges -> edges.json & edges_new.json")
 print(f"Applied and generated {len(tickets_list)} tickets -> tickets.json & tickets_new.json")
 
-# 4. Deep Comparison & Diff Report
+# 5. Deep Comparison & Diff Report
 print("\n" + "="*70)
 print("             BÁO CÁO SO SÁNH PHÁT HIỆN THAY ĐỔI")
 print("="*70)
