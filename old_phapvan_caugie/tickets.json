@@ -2050,57 +2050,5 @@
             "8344470069",
             "2326748263"
         ]
-    },
-    {
-        "refType": "NODE",
-        "refId": "Cầu Giẽ Hà Nam",
-        "tickets": [
-            {
-                "ticketType": 1,
-                "ticketTypeName": "Vé lượt",
-                "prices": [
-                    {
-                        "priceType": 1,
-                        "priceTypeName": "Giá thường",
-                        "feeType1": 27000,
-                        "feeType2": 45000,
-                        "feeType3": 68000,
-                        "feeType4": 84000,
-                        "feeType5": 135000
-                    }
-                ]
-            },
-            {
-                "ticketType": 4,
-                "ticketTypeName": "Vé tháng",
-                "prices": [
-                    {
-                        "priceType": 1,
-                        "priceTypeName": "Giá thường",
-                        "feeType1": 825000,
-                        "feeType2": 1355000,
-                        "feeType3": 2032000,
-                        "feeType4": 2533000,
-                        "feeType5": 4065000
-                    }
-                ]
-            },
-            {
-                "ticketType": 5,
-                "ticketTypeName": "Vé quý",
-                "prices": [
-                    {
-                        "priceType": 1,
-                        "priceTypeName": "Giá thường",
-                        "feeType1": 2227000,
-                        "feeType2": 3658000,
-                        "feeType3": 5487000,
-                        "feeType4": 6839000,
-                        "feeType5": 10975000
-                    }
-                ]
-            }
-        ],
-        "osmId": "1274537951"
     }
 ]

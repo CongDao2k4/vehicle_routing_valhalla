@@ -35,7 +35,21 @@ try:
         if r.get("stageName") == "Cao Bồ - Liêm Tuyền" and r.get("ticketType") == 1:
             print(f"-> Modifying feeType1 of Cao Bồ - Liêm Tuyền: {r['feeType1']} -> 50000")
             r["feeType1"] = 50000
+            
+            # Deletion Test 3: Delete feeType5 from this record to test field deletion detection
+            print("-> Deleting feeType5 from Cao Bồ - Liêm Tuyền record")
+            del r["feeType5"]
             break
+
+    # Deletion Test 1: Delete all records for EDGE "Cao Bồ - Vực Vòng"
+    original_len = len(records)
+    records = [r for r in records if r.get("stageName") != "Cao Bồ - Vực Vòng"]
+    print(f"-> Deletion Test 1: Removed EDGE 'Cao Bồ - Vực Vòng' records (removed {original_len - len(records)} entries)")
+
+    # Deletion Test 2: Delete ticketType 5 (Vé quý) from "Cầu Giẽ Hà Nam - Pháp Vân"
+    original_len = len(records)
+    records = [r for r in records if not (r.get("stageName") == "Cầu Giẽ Hà Nam - Pháp Vân" and r.get("ticketType") == 5)]
+    print(f"-> Deletion Test 2: Removed ticketType 5 (Vé quý) from 'Cầu Giẽ Hà Nam - Pháp Vân' (removed {original_len - len(records)} entries)")
 
     # Add a new CLOSED edge ticket with a new station "Nút Giao Thử Nghiệm"
     new_edge_ticket = {
@@ -83,7 +97,7 @@ try:
 
     # 4. Run build_graph.py
     print("\nRunning build_graph.py with modified data...")
-    result = subprocess.run(["python", "build_graph.py"], capture_output=True, text=True, encoding="utf-8")
+    result = subprocess.run(["python", os.path.join(dir_path, "build_graph.py")], capture_output=True, text=True, encoding="utf-8", errors="replace")
     print(result.stdout)
     if result.stderr:
         print("Error details:")
@@ -94,3 +108,8 @@ finally:
     print("Restoring original gia_ve.json...")
     shutil.move(backup_path, gia_ve_path)
     print("Restore complete.")
+    
+    # 6. Re-run build_graph.py to restore nodes.json, edges.json, tickets.json original state
+    print("\nRestoring original graph files (nodes.json, edges.json, tickets.json)...")
+    subprocess.run(["python", os.path.join(dir_path, "build_graph.py")], capture_output=True)
+    print("Restore of graph files complete.")

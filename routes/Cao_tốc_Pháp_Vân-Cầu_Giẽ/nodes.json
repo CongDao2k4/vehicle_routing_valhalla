@@ -1,5 +1,31 @@
 [
     {
+        "stationName": "Cao Bồ",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.288024500384388,
+        "longitude": 106.0126298,
+        "stationOsmId": "12725730599",
+        "incoming_edges": [
+            "Cầu Giẽ Hà Nam",
+            "Liêm Tuyền",
+            "Pháp Vân",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Vực Vòng",
+            "Đại Xuyên"
+        ],
+        "outgoing_edges": [
+            "Cầu Giẽ Hà Nam",
+            "Liêm Tuyền",
+            "Pháp Vân",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Vực Vòng",
+            "Đại Xuyên"
+        ]
+    },
+    {
         "stationName": "Cầu Giẽ Hà Nam",
         "stationType": 0,
         "stationTypeName": "CLOSED",
@@ -7,31 +33,21 @@
         "longitude": 105.9166475,
         "stationOsmId": "1274537951",
         "incoming_edges": [
-            "Vực Vòng",
-            "Pháp Vân",
-            "Vạn Điểm",
-            "Thường Tín",
+            "Cao Bồ",
             "Liêm Tuyền",
-            "Cao Bồ"
+            "Pháp Vân",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Vực Vòng"
         ],
         "outgoing_edges": [
-            "Vực Vòng",
-            "Pháp Vân",
-            "Vạn Điểm",
-            "Thường Tín",
+            "Cao Bồ",
             "Liêm Tuyền",
-            "Cao Bồ"
+            "Pháp Vân",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Vực Vòng"
         ]
-    },
-    {
-        "stationName": "Cao Bồ",
-        "stationType": 0,
-        "stationTypeName": "CLOSED",
-        "latitude": 20.288024500384388,
-        "longitude": 106.0126298,
-        "stationOsmId": "12725730599",
-        "incoming_edges": [],
-        "outgoing_edges": []
     },
     {
         "stationName": "Liêm Tuyền",
@@ -40,8 +56,24 @@
         "latitude": 20.53999269317483,
         "longitude": 105.94829054993772,
         "stationOsmId": "1374421271",
-        "incoming_edges": [],
-        "outgoing_edges": []
+        "incoming_edges": [
+            "Cao Bồ",
+            "Cầu Giẽ Hà Nam",
+            "Pháp Vân",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Vực Vòng",
+            "Đại Xuyên"
+        ],
+        "outgoing_edges": [
+            "Cao Bồ",
+            "Cầu Giẽ Hà Nam",
+            "Pháp Vân",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Vực Vòng",
+            "Đại Xuyên"
+        ]
     },
     {
         "stationName": "Pháp Vân",
@@ -50,8 +82,24 @@
         "latitude": 20.90746269952868,
         "longitude": 105.86136670049196,
         "stationOsmId": "1330194837",
-        "incoming_edges": [],
-        "outgoing_edges": []
+        "incoming_edges": [
+            "Cao Bồ",
+            "Cầu Giẽ Hà Nam",
+            "Liêm Tuyền",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Vực Vòng",
+            "Đại Xuyên"
+        ],
+        "outgoing_edges": [
+            "Cao Bồ",
+            "Cầu Giẽ Hà Nam",
+            "Liêm Tuyền",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Vực Vòng",
+            "Đại Xuyên"
+        ]
     },
     {
         "stationName": "Thường Tín",
@@ -60,18 +108,24 @@
         "latitude": 20.87189741511597,
         "longitude": 105.87751376184823,
         "stationOsmId": "1484967644",
-        "incoming_edges": [],
-        "outgoing_edges": []
-    },
-    {
-        "stationName": "Vực Vòng",
-        "stationType": 0,
-        "stationTypeName": "CLOSED",
-        "latitude": 20.645372700396155,
-        "longitude": 105.9384956,
-        "stationOsmId": "2326748263",
-        "incoming_edges": [],
-        "outgoing_edges": []
+        "incoming_edges": [
+            "Cao Bồ",
+            "Cầu Giẽ Hà Nam",
+            "Liêm Tuyền",
+            "Pháp Vân",
+            "Vạn Điểm",
+            "Vực Vòng",
+            "Đại Xuyên"
+        ],
+        "outgoing_edges": [
+            "Cao Bồ",
+            "Cầu Giẽ Hà Nam",
+            "Liêm Tuyền",
+            "Pháp Vân",
+            "Vạn Điểm",
+            "Vực Vòng",
+            "Đại Xuyên"
+        ]
     },
     {
         "stationName": "Vạn Điểm",
@@ -80,8 +134,50 @@
         "latitude": 20.77382280039953,
         "longitude": 105.9072876,
         "stationOsmId": "6425386072",
-        "incoming_edges": [],
-        "outgoing_edges": []
+        "incoming_edges": [
+            "Cao Bồ",
+            "Cầu Giẽ Hà Nam",
+            "Liêm Tuyền",
+            "Pháp Vân",
+            "Thường Tín",
+            "Vực Vòng",
+            "Đại Xuyên"
+        ],
+        "outgoing_edges": [
+            "Cao Bồ",
+            "Cầu Giẽ Hà Nam",
+            "Liêm Tuyền",
+            "Pháp Vân",
+            "Thường Tín",
+            "Vực Vòng",
+            "Đại Xuyên"
+        ]
+    },
+    {
+        "stationName": "Vực Vòng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 20.645372700396155,
+        "longitude": 105.9384956,
+        "stationOsmId": "2326748263",
+        "incoming_edges": [
+            "Cao Bồ",
+            "Cầu Giẽ Hà Nam",
+            "Liêm Tuyền",
+            "Pháp Vân",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Đại Xuyên"
+        ],
+        "outgoing_edges": [
+            "Cao Bồ",
+            "Cầu Giẽ Hà Nam",
+            "Liêm Tuyền",
+            "Pháp Vân",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Đại Xuyên"
+        ]
     },
     {
         "stationName": "Đại Xuyên",
@@ -90,7 +186,21 @@
         "latitude": 20.701874100397696,
         "longitude": 105.9126403,
         "stationOsmId": "8344470069",
-        "incoming_edges": [],
-        "outgoing_edges": []
+        "incoming_edges": [
+            "Cao Bồ",
+            "Liêm Tuyền",
+            "Pháp Vân",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Vực Vòng"
+        ],
+        "outgoing_edges": [
+            "Cao Bồ",
+            "Liêm Tuyền",
+            "Pháp Vân",
+            "Thường Tín",
+            "Vạn Điểm",
+            "Vực Vòng"
+        ]
     }
 ]

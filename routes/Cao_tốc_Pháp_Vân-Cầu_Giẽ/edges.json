@@ -1,6 +1,16 @@
 [
     {
         "source": "Cao Bồ",
+        "target": "Cầu Giẽ Hà Nam",
+        "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
+        "stageName": "Cao bồ - Cầu Giẽ Hà Nam",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12725730599",
+        "targetOsmId": "1274537951"
+    },
+    {
+        "source": "Cao Bồ",
         "target": "Liêm Tuyền",
         "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
         "stageName": "Cao Bồ - Liêm Tuyền",
@@ -31,6 +41,16 @@
     },
     {
         "source": "Cao Bồ",
+        "target": "Vạn Điểm",
+        "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
+        "stageName": "Cao bồ - Vạn Điểm",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12725730599",
+        "targetOsmId": "6425386072"
+    },
+    {
+        "source": "Cao Bồ",
         "target": "Vực Vòng",
         "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
         "stageName": "Cao Bồ - Vực Vòng",
@@ -38,26 +58,6 @@
         "stationTypeName": "CLOSED",
         "sourceOsmId": "12725730599",
         "targetOsmId": "2326748263"
-    },
-    {
-        "source": "Cao Bồ",
-        "target": "Cầu Giẽ Hà Nam",
-        "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
-        "stageName": "Cao bồ - Cầu Giẽ Hà Nam",
-        "stationType": 0,
-        "stationTypeName": "CLOSED",
-        "sourceOsmId": "12725730599",
-        "targetOsmId": "1274537951"
-    },
-    {
-        "source": "Cao Bồ",
-        "target": "Vạn Điểm",
-        "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
-        "stageName": "Cao bồ - Vạn Điểm ",
-        "stationType": 0,
-        "stationTypeName": "CLOSED",
-        "sourceOsmId": "12725730599",
-        "targetOsmId": "6425386072"
     },
     {
         "source": "Cao Bồ",
@@ -161,26 +161,6 @@
     },
     {
         "source": "Liêm Tuyền",
-        "target": "Vực Vòng",
-        "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
-        "stageName": "Liêm Tuyền - Vực Vòng",
-        "stationType": 0,
-        "stationTypeName": "CLOSED",
-        "sourceOsmId": "1374421271",
-        "targetOsmId": "2326748263"
-    },
-    {
-        "source": "Liêm Tuyền",
-        "target": "Đại Xuyên",
-        "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
-        "stageName": "Liêm Tuyền - Đại Xuyên",
-        "stationType": 0,
-        "stationTypeName": "CLOSED",
-        "sourceOsmId": "1374421271",
-        "targetOsmId": "8344470069"
-    },
-    {
-        "source": "Liêm Tuyền",
         "target": "Thường Tín",
         "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
         "stageName": "Liêm tuyền - Thường Tín",
@@ -198,6 +178,26 @@
         "stationTypeName": "CLOSED",
         "sourceOsmId": "1374421271",
         "targetOsmId": "6425386072"
+    },
+    {
+        "source": "Liêm Tuyền",
+        "target": "Vực Vòng",
+        "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
+        "stageName": "Liêm Tuyền - Vực Vòng",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374421271",
+        "targetOsmId": "2326748263"
+    },
+    {
+        "source": "Liêm Tuyền",
+        "target": "Đại Xuyên",
+        "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
+        "stageName": "Liêm Tuyền - Đại Xuyên",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "1374421271",
+        "targetOsmId": "8344470069"
     },
     {
         "source": "Pháp Vân",
@@ -393,7 +393,7 @@
         "source": "Vạn Điểm",
         "target": "Vực Vòng",
         "routeName": "Cao tốc Pháp Vân – Cầu Giẽ",
-        "stageName": "Vạn Điểm - Vực Vòng ",
+        "stageName": "Vạn Điểm - Vực Vòng",
         "stationType": 0,
         "stationTypeName": "CLOSED",
         "sourceOsmId": "6425386072",

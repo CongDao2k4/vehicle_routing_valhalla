@@ -52,7 +52,6 @@ if os.path.exists(old_tickets_path):
 nodes_dict = {}
 edges_dict = {}
 tickets_dict = {} # key -> { ticketType: { ... prices: { priceType: {...} } } }
-new_stations_set = set()
 
 def get_node(name):
     if name not in nodes_dict:
@@ -66,8 +65,6 @@ def get_node(name):
             lat = old_nodes[name].get("latitude")
             lon = old_nodes[name].get("longitude")
             osm_id = old_nodes[name].get("stationOsmId")
-        else:
-            new_stations_set.add(name)
             
         nodes_dict[name] = {
             "stationName": name,
@@ -242,61 +239,19 @@ def sort_ticket_key(x):
 
 tickets_list = sorted(tickets_list, key=sort_ticket_key)
 
-# Compute node and edge diffs first
-new_nodes_map = {n["stationName"]: n for n in nodes_list}
-added_nodes = set(new_nodes_map.keys()) - set(old_nodes.keys())
-removed_nodes = set(old_nodes.keys()) - set(new_nodes_map.keys())
+# 3. Write to _new.json files
+with open(os.path.join(base_dir, "nodes_new.json"), "w", encoding="utf-8") as f:
+    json.dump(nodes_list, f, ensure_ascii=False, indent=4)
 
-new_edges_map = {(e["source"], e["target"]): e for e in edges_list}
-added_edges = set(new_edges_map.keys()) - set(old_edges.keys())
-removed_edges = set(old_edges.keys()) - set(new_edges_map.keys())
+with open(os.path.join(base_dir, "edges_new.json"), "w", encoding="utf-8") as f:
+    json.dump(edges_list, f, ensure_ascii=False, indent=4)
 
-# Write differences to note directory
-note_dir = os.path.join(base_dir, "note")
-os.makedirs(note_dir, exist_ok=True)
+with open(os.path.join(base_dir, "tickets_new.json"), "w", encoding="utf-8") as f:
+    json.dump(tickets_list, f, ensure_ascii=False, indent=4)
 
-# new_epass.txt & new_nodes.txt
-added_nodes_sorted = sorted(list(added_nodes))
-for filename in ["new_epass.txt", "new_nodes.txt"]:
-    with open(os.path.join(note_dir, filename), "w", encoding="utf-8") as f:
-        for node in added_nodes_sorted:
-            f.write(node + "\n")
-
-# removed_epass.txt & removed_node.txt
-removed_nodes_sorted = sorted(list(removed_nodes))
-for filename in ["removed_epass.txt", "removed_node.txt"]:
-    with open(os.path.join(note_dir, filename), "w", encoding="utf-8") as f:
-        for node in removed_nodes_sorted:
-            f.write(node + "\n")
-
-# new_edges.txt
-added_edges_sorted = sorted(list(added_edges))
-with open(os.path.join(note_dir, "new_edges.txt"), "w", encoding="utf-8") as f:
-    for src, tgt in added_edges_sorted:
-        f.write(f"{src} -> {tgt}\n")
-
-# removed_edges.txt
-removed_edges_sorted = sorted(list(removed_edges))
-with open(os.path.join(note_dir, "removed_edges.txt"), "w", encoding="utf-8") as f:
-    for src, tgt in removed_edges_sorted:
-        f.write(f"{src} -> {tgt}\n")
-
-print(f"Recorded differences into note directory: new_epass.txt, removed_epass.txt, new_edges.txt, removed_edges.txt, new_nodes.txt, removed_node.txt")
-
-# 3. Write to both _new.json files and original files (apply changes)
-for suffix in ["_new.json", ".json"]:
-    with open(os.path.join(base_dir, f"nodes{suffix}"), "w", encoding="utf-8") as f:
-        json.dump(nodes_list, f, ensure_ascii=False, indent=4)
-
-    with open(os.path.join(base_dir, f"edges{suffix}"), "w", encoding="utf-8") as f:
-        json.dump(edges_list, f, ensure_ascii=False, indent=4)
-
-    with open(os.path.join(base_dir, f"tickets{suffix}"), "w", encoding="utf-8") as f:
-        json.dump(tickets_list, f, ensure_ascii=False, indent=4)
-
-print(f"Applied and generated {len(nodes_list)} nodes -> nodes.json & nodes_new.json")
-print(f"Applied and generated {len(edges_list)} edges -> edges.json & edges_new.json")
-print(f"Applied and generated {len(tickets_list)} tickets -> tickets.json & tickets_new.json")
+print(f"Generated {len(nodes_list)} nodes -> nodes_new.json")
+print(f"Generated {len(edges_list)} edges -> edges_new.json")
+print(f"Generated {len(tickets_list)} tickets -> tickets_new.json")
 
 # 4. Deep Comparison & Diff Report
 print("\n" + "="*70)
@@ -304,6 +259,9 @@ print("             BÁO CÁO SO SÁNH PHÁT HIỆN THAY ĐỔI")
 print("="*70)
 
 # Nodes Compare
+new_nodes_map = {n["stationName"]: n for n in nodes_list}
+added_nodes = set(new_nodes_map.keys()) - set(old_nodes.keys())
+removed_nodes = set(old_nodes.keys()) - set(new_nodes_map.keys())
 modified_nodes = []
 
 for name in sorted(set(new_nodes_map.keys()) & set(old_nodes.keys())):
@@ -333,6 +291,9 @@ if not added_nodes and not removed_nodes and not modified_nodes:
     print("  => Không có thay đổi nào về Nodes.")
 
 # Edges Compare
+new_edges_map = {(e["source"], e["target"]): e for e in edges_list}
+added_edges = set(new_edges_map.keys()) - set(old_edges.keys())
+removed_edges = set(old_edges.keys()) - set(new_edges_map.keys())
 modified_edges = []
 
 for key in sorted(set(new_edges_map.keys()) & set(old_edges.keys())):

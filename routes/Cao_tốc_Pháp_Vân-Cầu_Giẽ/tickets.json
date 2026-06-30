@@ -3,6 +3,34 @@
         "refType": "EDGE",
         "refId": [
             "Cao Bồ",
+            "Cầu Giẽ Hà Nam"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 82880,
+                        "feeType2": 124320,
+                        "feeType3": 164640,
+                        "feeType4": 206080,
+                        "feeType5": 329280
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12725730599",
+            "1274537951"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Cao Bồ",
             "Liêm Tuyền"
         ],
         "tickets": [
@@ -87,62 +115,6 @@
         "refType": "EDGE",
         "refId": [
             "Cao Bồ",
-            "Vực Vòng"
-        ],
-        "tickets": [
-            {
-                "ticketType": 1,
-                "ticketTypeName": "Vé lượt",
-                "prices": [
-                    {
-                        "priceType": 1,
-                        "priceTypeName": "Giá thường",
-                        "feeType1": 68320,
-                        "feeType2": 101920,
-                        "feeType3": 136640,
-                        "feeType4": 170240,
-                        "feeType5": 272160
-                    }
-                ]
-            }
-        ],
-        "osmId": [
-            "12725730599",
-            "2326748263"
-        ]
-    },
-    {
-        "refType": "EDGE",
-        "refId": [
-            "Cao Bồ",
-            "Cầu Giẽ Hà Nam"
-        ],
-        "tickets": [
-            {
-                "ticketType": 1,
-                "ticketTypeName": "Vé lượt",
-                "prices": [
-                    {
-                        "priceType": 1,
-                        "priceTypeName": "Giá thường",
-                        "feeType1": 82880,
-                        "feeType2": 124320,
-                        "feeType3": 164640,
-                        "feeType4": 206080,
-                        "feeType5": 329280
-                    }
-                ]
-            }
-        ],
-        "osmId": [
-            "12725730599",
-            "1274537951"
-        ]
-    },
-    {
-        "refType": "EDGE",
-        "refId": [
-            "Cao Bồ",
             "Vạn Điểm"
         ],
         "tickets": [
@@ -165,6 +137,34 @@
         "osmId": [
             "12725730599",
             "6425386072"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Cao Bồ",
+            "Vực Vòng"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 68320,
+                        "feeType2": 101920,
+                        "feeType3": 136640,
+                        "feeType4": 170240,
+                        "feeType5": 272160
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "12725730599",
+            "2326748263"
         ]
     },
     {
@@ -541,62 +541,6 @@
         "refType": "EDGE",
         "refId": [
             "Liêm Tuyền",
-            "Vực Vòng"
-        ],
-        "tickets": [
-            {
-                "ticketType": 1,
-                "ticketTypeName": "Vé lượt",
-                "prices": [
-                    {
-                        "priceType": 1,
-                        "priceTypeName": "Giá thường",
-                        "feeType1": 19040,
-                        "feeType2": 29120,
-                        "feeType3": 39200,
-                        "feeType4": 49280,
-                        "feeType5": 78400
-                    }
-                ]
-            }
-        ],
-        "osmId": [
-            "1374421271",
-            "2326748263"
-        ]
-    },
-    {
-        "refType": "EDGE",
-        "refId": [
-            "Liêm Tuyền",
-            "Đại Xuyên"
-        ],
-        "tickets": [
-            {
-                "ticketType": 1,
-                "ticketTypeName": "Vé lượt",
-                "prices": [
-                    {
-                        "priceType": 1,
-                        "priceTypeName": "Giá thường",
-                        "feeType1": 33600,
-                        "feeType2": 51520,
-                        "feeType3": 68320,
-                        "feeType4": 85120,
-                        "feeType5": 135520
-                    }
-                ]
-            }
-        ],
-        "osmId": [
-            "1374421271",
-            "8344470069"
-        ]
-    },
-    {
-        "refType": "EDGE",
-        "refId": [
-            "Liêm Tuyền",
             "Thường Tín"
         ],
         "tickets": [
@@ -647,6 +591,62 @@
         "osmId": [
             "1374421271",
             "6425386072"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Liêm Tuyền",
+            "Vực Vòng"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 19040,
+                        "feeType2": 29120,
+                        "feeType3": 39200,
+                        "feeType4": 49280,
+                        "feeType5": 78400
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374421271",
+            "2326748263"
+        ]
+    },
+    {
+        "refType": "EDGE",
+        "refId": [
+            "Liêm Tuyền",
+            "Đại Xuyên"
+        ],
+        "tickets": [
+            {
+                "ticketType": 1,
+                "ticketTypeName": "Vé lượt",
+                "prices": [
+                    {
+                        "priceType": 1,
+                        "priceTypeName": "Giá thường",
+                        "feeType1": 33600,
+                        "feeType2": 51520,
+                        "feeType3": 68320,
+                        "feeType4": 85120,
+                        "feeType5": 135520
+                    }
+                ]
+            }
+        ],
+        "osmId": [
+            "1374421271",
+            "8344470069"
         ]
     },
     {
@@ -2050,57 +2050,5 @@
             "8344470069",
             "2326748263"
         ]
-    },
-    {
-        "refType": "NODE",
-        "refId": "Cầu Giẽ Hà Nam",
-        "tickets": [
-            {
-                "ticketType": 1,
-                "ticketTypeName": "Vé lượt",
-                "prices": [
-                    {
-                        "priceType": 1,
-                        "priceTypeName": "Giá thường",
-                        "feeType1": 27000,
-                        "feeType2": 45000,
-                        "feeType3": 68000,
-                        "feeType4": 84000,
-                        "feeType5": 135000
-                    }
-                ]
-            },
-            {
-                "ticketType": 4,
-                "ticketTypeName": "Vé tháng",
-                "prices": [
-                    {
-                        "priceType": 1,
-                        "priceTypeName": "Giá thường",
-                        "feeType1": 825000,
-                        "feeType2": 1355000,
-                        "feeType3": 2032000,
-                        "feeType4": 2533000,
-                        "feeType5": 4065000
-                    }
-                ]
-            },
-            {
-                "ticketType": 5,
-                "ticketTypeName": "Vé quý",
-                "prices": [
-                    {
-                        "priceType": 1,
-                        "priceTypeName": "Giá thường",
-                        "feeType1": 2227000,
-                        "feeType2": 3658000,
-                        "feeType3": 5487000,
-                        "feeType4": 6839000,
-                        "feeType5": 10975000
-                    }
-                ]
-            }
-        ],
-        "osmId": "1274537951"
     }
 ]
