@@ -1,0 +1,42 @@
+[
+    {
+        "stationName": "KM430+500",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 18.9578335,
+        "longitude": 105.5616175,
+        "stationOsmId": "13906136880",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao Nghi Phương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 18.823348400301747,
+        "longitude": 105.5865241,
+        "stationOsmId": "11938173243",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao QL46B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 18.706994600293005,
+        "longitude": 105.6137435,
+        "stationOsmId": "12450564745",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    },
+    {
+        "stationName": "Nút giao QL8A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "latitude": 18.534202100279487,
+        "longitude": 105.6580146,
+        "stationOsmId": "12600009196",
+        "incoming_edges": [],
+        "outgoing_edges": []
+    }
+]

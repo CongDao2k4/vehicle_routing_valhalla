@@ -77,7 +77,7 @@ Trong từng thư mục con của **routes/**, ví dụ **routes/Cao_tốc_Pháp
 
 ### Sau khi chạy file build_graph.py 
 
-- xem các file trong note/ của từng tuyến đường. Xem có nodes mới thì phải làm dưới đây, còn trường hợp thêm toll_booth của 1 trạm node epass_name đã tồn tại cũng được xử lý ở dưới đây
+- xem các file trong **note/** của từng tuyến đường. Xem có nodes mới thì phải làm dưới đây, còn trường hợp thêm toll_booth của 1 trạm node epass_name đã tồn tại cũng được xử lý ở dưới đây
 
 # Tài liệu này hướng dẫn cách thêm hoặc sửa đổi dữ liệu trạm thu phí cho luồng xử lý Routing & Ticket Mapping (engine Valhalla).
 

@@ -1,0 +1,122 @@
+[
+    {
+        "source": "KM430+500",
+        "target": "Nút giao Nghi Phương",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "KM430+500 - Nút giao Nghi Phương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13906136880",
+        "targetOsmId": "11938173243"
+    },
+    {
+        "source": "KM430+500",
+        "target": "Nút giao QL46B",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "KM430+500 - Nút giao QL46B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13906136880",
+        "targetOsmId": "12450564745"
+    },
+    {
+        "source": "KM430+500",
+        "target": "Nút giao QL8A",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "KM430+500 - Nút giao QL8A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "13906136880",
+        "targetOsmId": "12600009196"
+    },
+    {
+        "source": "Nút giao Nghi Phương",
+        "target": "KM430+500",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "Nút giao Nghi Phương - KM430+500",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11938173243",
+        "targetOsmId": "13906136880"
+    },
+    {
+        "source": "Nút giao Nghi Phương",
+        "target": "Nút giao QL46B",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "Nút giao Nghi Phương - Nút giao QL46B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11938173243",
+        "targetOsmId": "12450564745"
+    },
+    {
+        "source": "Nút giao Nghi Phương",
+        "target": "Nút giao QL8A",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "Nút giao Nghi Phương - Nút giao QL8A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "11938173243",
+        "targetOsmId": "12600009196"
+    },
+    {
+        "source": "Nút giao QL46B",
+        "target": "KM430+500",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "Nút giao QL46B - KM430+500",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12450564745",
+        "targetOsmId": "13906136880"
+    },
+    {
+        "source": "Nút giao QL46B",
+        "target": "Nút giao Nghi Phương",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "Nút giao QL46B - Nút giao Nghi Phương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12450564745",
+        "targetOsmId": "11938173243"
+    },
+    {
+        "source": "Nút giao QL46B",
+        "target": "Nút giao QL8A",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "Nút giao QL46B - Nút giao QL8A",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12450564745",
+        "targetOsmId": "12600009196"
+    },
+    {
+        "source": "Nút giao QL8A",
+        "target": "KM430+500",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "Nút giao QL8A - KM430+500",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12600009196",
+        "targetOsmId": "13906136880"
+    },
+    {
+        "source": "Nút giao QL8A",
+        "target": "Nút giao Nghi Phương",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "Nút giao QL8A - Nút giao Nghi Phương",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12600009196",
+        "targetOsmId": "11938173243"
+    },
+    {
+        "source": "Nút giao QL8A",
+        "target": "Nút giao QL46B",
+        "routeName": "Cao tốc Diễn Châu - Bãi Vọt",
+        "stageName": "Nút giao QL8A - Nút giao QL46B",
+        "stationType": 0,
+        "stationTypeName": "CLOSED",
+        "sourceOsmId": "12600009196",
+        "targetOsmId": "12450564745"
+    }
+]
