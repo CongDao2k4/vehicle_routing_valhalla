@@ -1,5 +1,13 @@
 # Hướng dẫn Cập nhật Dữ liệu Trạm ePass và Routing
 
+**Tạo .venv chạy python**: `python -m venv .venv`
+
+**chạy load các thư viện**: `pip install -r requirements.txt`
+
+**Chạy code script `wsl/Ubuntu$  sh scripts/01_download_data.sh`**
+
+**Chạy `docker-compose.yml` để chạy valhalla local để tìm tuyến đường. Cần có file .osm.pbf đã tải vào `thư_mục_gốc/valhalla-data/` nhé**
+
 # Lấy data và update dữ liệu mới
 
 ## TRẠM ĐƠN: Với trạm đơn (không thuộc tuyến đường nào) => thêm vào file **.csv** và **tickets.json** ở trong thư mục **gốc thư mục/routes/IndependentNode/** là được.
