@@ -6,7 +6,7 @@ SCRIPT_DIR = Path(__file__).parent
 
 TICKETS_FILE = SCRIPT_DIR / "tickets.json"
 CSV_FILE = SCRIPT_DIR / "merged_Independent_Nodes.csv"
-OUTPUT_FILE = SCRIPT_DIR / "ticket_submission.json"
+OUTPUT_FILE = SCRIPT_DIR / "ticket_submission_restricted.json"
 
 def main():
     # 1. Load tickets and map by refId (which is epass_name)
@@ -68,7 +68,7 @@ def main():
     # 5. Validate the completeness
     print("\n--- VALIDATION REPORT ---")
     print(f"Total unique origin_osm_id in CSV: {len(unique_origin_ids)}")
-    print(f"Total origin_osm_id mapped in ticket_submission.json: {len(submission_list)}")
+    print(f"Total origin_osm_id mapped in ticket_submission_restricted.json: {len(submission_list)}")
     
     if len(unique_origin_ids) == len(submission_list):
         print("SUCCESS: 100% matched! No missing gates.")

@@ -84,8 +84,8 @@ def main():
     total_submitted_tickets = sum(len(item["out"]) for item in submission_list)
 
     print("\n--- BÁO CÁO KIỂM TRA (VALIDATION) ---")
-    print(f"Tổng số routes trong edges_expanded.json: {total_expanded_edges}")
-    print(f"Tổng số routes đã map vé trong ticket_submission.json: {total_submitted_tickets}")
+    print(f"Tổng số routes trong edges_expanded_restricted.json: {total_expanded_edges}")
+    print(f"Tổng số routes đã map vé trong ticket_submission_restricted.json: {total_submitted_tickets}")
 
     if total_expanded_edges == total_submitted_tickets:
         print("✅ THÀNH CÔNG: Dữ liệu khớp 100%! Không bị sót tuyến nào.")
