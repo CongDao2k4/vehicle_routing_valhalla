@@ -307,18 +307,20 @@ hiển thị các điểm Node lớn.
 Sau khi sửa tay xong dữ liệu CSV và JSON - hoặc `pre_02_build_grpah.py` chạy oke và check lại đúng. Cần chạy script để hệ thống download lại bản đồ đường đi ngắn nhất và compile ra file kết quả. (Đảm bảo Valhalla local đang chạy).
 
 #### Đối với Windows
-1. Mở thư mục tuyến đường (ví dụ: `routes/Mai Sơn - Quốc Lộ 45`).
-2. Click đúp vào file **`run_pipeline.bat`**.
+1. Mở thư mục tuyến đường (ví dụ: `routes/Mai_Sơn-Quốc_Lộ_45`).
+
+2. Chạy file **`run_pipeline.bat`**.
+
 3. Một cửa sổ đen (CMD) sẽ hiện lên. Script sẽ chạy lần lượt:
    - File `00_normalize_data.py`: Dọn dẹp lỗi font chữ tiếng Việt, tự lưu lại file JSON, CSV cho chuẩn.
    - Các file từ `01` đến `05` + `generate_ticket_submission`: Lọc ứng viên -> Download Routes -> Tìm đường ngắn nhất -> Map giá vé.
+
 4. Đợi đến khi màn hình hiện `===== HOÀN THÀNH TẤT CẢ CÁC FILE =====`. Nhấn phím bất kỳ để tắt.
 
 #### Đối với Linux / MacOS
 1. Mở Terminal.
 2. Dùng lệnh `cd` để trỏ vào thư mục tuyến đường.
-3. Cấp quyền thực thi (nếu là lần đầu): `chmod +x run_pipeline.sh`
-4. Chạy script: `./run_pipeline.sh`
+4. Chạy script: `<tên tuyến đường>$ sh run_pipeline.sh`
 
 **Thành quả:**
 Kiểm tra lại thư mục, bạn sẽ thu được file **`ticket_submission.json`** chứa toàn bộ payload đã được routing chuẩn xác kèm giá vé, sẵn sàng gửi API lên server!
